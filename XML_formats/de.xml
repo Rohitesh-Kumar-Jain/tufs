@@ -1,0 +1,2789 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE LexicalResource SYSTEM "http://globalwordnet.github.io/schemas/WN-LMF-1.0.dtd">
+<LexicalResource xmlns:dc="http://purl.org/dc/elements/1.1/">
+<!-- OMW 1.0 converted to 2.0 by tsv2lmf.py  -->
+  <Lexicon id="tufs_ger" 
+           label="TUFS Basic German Wordnet" 
+           language="de" 
+           email="bond@ieee.org" 
+           license="https://creativecommons.org/licenses/by/4.0/" 
+           version="1.0" 
+           citation="..." 
+           url="http://www.coelang.tufs.ac.jp/mt/de/" 
+           dc:publisher="Global Wordnet Association" 
+           dc:format="OMW-LMF" 
+           dc:description="Wordnet made from OMW 1.0 data" 
+           confidenceScore="1.0">
+    <LexicalEntry id="tufs_ger-lex1">
+      <Lemma writtenForm="Januar" partOfSpeech="n"/>
+      <Sense id="tufs_ger-lex1-ger-15210045-n" synset="tufs_ger-15210045-n"></Sense>
+    </LexicalEntry>
+    <LexicalEntry id="tufs_ger-lex2">
+      <Lemma writtenForm="Studium" partOfSpeech="n"/>
+      <Sense id="tufs_ger-lex2-ger-05755883-n" synset="tufs_ger-05755883-n"></Sense>
+    </LexicalEntry>
+    <LexicalEntry id="tufs_ger-lex3">
+      <Lemma writtenForm="braun" partOfSpeech="n"/>
+      <Sense id="tufs_ger-lex3-ger-04971928-n" synset="tufs_ger-04971928-n"></Sense>
+    </LexicalEntry>
+    <LexicalEntry id="tufs_ger-lex4">
+      <Lemma writtenForm="Sonntag" partOfSpeech="n"/>
+      <Sense id="tufs_ger-lex4-ger-15163797-n" synset="tufs_ger-15163797-n"></Sense>
+    </LexicalEntry>
+    <LexicalEntry id="tufs_ger-lex5">
+      <Lemma writtenForm="Schnee" partOfSpeech="n"/>
+      <Sense id="tufs_ger-lex5-ger-15043763-n" synset="tufs_ger-15043763-n"></Sense>
+    </LexicalEntry>
+    <LexicalEntry id="tufs_ger-lex6">
+      <Lemma writtenForm="Reinigung" partOfSpeech="n"/>
+      <Sense id="tufs_ger-lex6-ger-00251013-n" synset="tufs_ger-00251013-n"></Sense>
+    </LexicalEntry>
+    <LexicalEntry id="tufs_ger-lex7">
+      <Lemma writtenForm="Firma" partOfSpeech="n"/>
+      <Sense id="tufs_ger-lex7-ger-08058098-n" synset="tufs_ger-08058098-n"></Sense>
+    </LexicalEntry>
+    <LexicalEntry id="tufs_ger-lex8">
+      <Lemma writtenForm="groß" partOfSpeech="a"/>
+      <Sense id="tufs_ger-lex8-ger-00527870-a" synset="tufs_ger-00527870-a"></Sense>
+      <Sense id="tufs_ger-lex8-ger-01677433-a" synset="tufs_ger-01677433-a"></Sense>
+      <Sense id="tufs_ger-lex8-ger-01382086-a" synset="tufs_ger-01382086-a"></Sense>
+      <Sense id="tufs_ger-lex8-ger-01453084-a" synset="tufs_ger-01453084-a"></Sense>
+    </LexicalEntry>
+    <LexicalEntry id="tufs_ger-lex12">
+      <Lemma writtenForm="Mädchen" partOfSpeech="n"/>
+      <Sense id="tufs_ger-lex12-ger-10084295-n" synset="tufs_ger-10084295-n"></Sense>
+      <Sense id="tufs_ger-lex12-ger-10129825-n" synset="tufs_ger-10129825-n"></Sense>
+    </LexicalEntry>
+    <LexicalEntry id="tufs_ger-lex14">
+      <Lemma writtenForm="Schwester" partOfSpeech="n"/>
+      <Sense id="tufs_ger-lex14-ger-10129825-n" synset="tufs_ger-10129825-n"></Sense>
+    </LexicalEntry>
+    <LexicalEntry id="tufs_ger-lex15">
+      <Lemma writtenForm="munter" partOfSpeech="v"/>
+      <Sense id="tufs_ger-lex15-ger-00065495-v" synset="tufs_ger-00065495-v"></Sense>
+    </LexicalEntry>
+    <LexicalEntry id="tufs_ger-lex16">
+      <Lemma writtenForm="Unterricht" partOfSpeech="n"/>
+      <Sense id="tufs_ger-lex16-ger-00889472-n" synset="tufs_ger-00889472-n"></Sense>
+      <Sense id="tufs_ger-lex16-ger-80001734-n" synset="tufs_ger-80001734-n"></Sense>
+    </LexicalEntry>
+    <LexicalEntry id="tufs_ger-lex18">
+      <Lemma writtenForm="beginnen" partOfSpeech="v"/>
+      <Sense id="tufs_ger-lex18-ger-02608347-v" synset="tufs_ger-02608347-v"></Sense>
+    </LexicalEntry>
+    <LexicalEntry id="tufs_ger-lex19">
+      <Lemma writtenForm="Käse" partOfSpeech="n"/>
+      <Sense id="tufs_ger-lex19-ger-07850329-n" synset="tufs_ger-07850329-n"></Sense>
+    </LexicalEntry>
+    <LexicalEntry id="tufs_ger-lex20">
+      <Lemma writtenForm="Messer" partOfSpeech="n"/>
+      <Sense id="tufs_ger-lex20-ger-03624134-n" synset="tufs_ger-03624134-n"></Sense>
+      <Sense id="tufs_ger-lex20-ger-03623556-n" synset="tufs_ger-03623556-n"></Sense>
+    </LexicalEntry>
+    <LexicalEntry id="tufs_ger-lex22">
+      <Lemma writtenForm="hassen" partOfSpeech="v"/>
+      <Sense id="tufs_ger-lex22-ger-01776727-v" synset="tufs_ger-01776727-v"></Sense>
+      <Sense id="tufs_ger-lex22-ger-01774136-v" synset="tufs_ger-01774136-v"></Sense>
+    </LexicalEntry>
+    <LexicalEntry id="tufs_ger-lex24">
+      <Lemma writtenForm="Kugelschreiber" partOfSpeech="n"/>
+      <Sense id="tufs_ger-lex24-ger-02783161-n" synset="tufs_ger-02783161-n"></Sense>
+    </LexicalEntry>
+    <LexicalEntry id="tufs_ger-lex25">
+      <Lemma writtenForm="mögen" partOfSpeech="v"/>
+      <Sense id="tufs_ger-lex25-ger-01777210-v" synset="tufs_ger-01777210-v"></Sense>
+      <Sense id="tufs_ger-lex25-ger-02632567-v" synset="tufs_ger-02632567-v"></Sense>
+    </LexicalEntry>
+    <LexicalEntry id="tufs_ger-lex26">
+      <Lemma writtenForm="gleich" partOfSpeech="a"/>
+      <Sense id="tufs_ger-lex26-ger-01579608-a" synset="tufs_ger-01579608-a"></Sense>
+    </LexicalEntry>
+    <LexicalEntry id="tufs_ger-lex27">
+      <Lemma writtenForm="Tor" partOfSpeech="n"/>
+      <Sense id="tufs_ger-lex27-ger-03427296-n" synset="tufs_ger-03427296-n"></Sense>
+    </LexicalEntry>
+    <LexicalEntry id="tufs_ger-lex28">
+      <Lemma writtenForm="Portemonnaie" partOfSpeech="n"/>
+      <Sense id="tufs_ger-lex28-ger-04026417-n" synset="tufs_ger-04026417-n"></Sense>
+    </LexicalEntry>
+    <LexicalEntry id="tufs_ger-lex29">
+      <Lemma writtenForm="heiter" partOfSpeech="n"/>
+      <Sense id="tufs_ger-lex29-ger-11456462-n" synset="tufs_ger-11456462-n"></Sense>
+    </LexicalEntry>
+    <LexicalEntry id="tufs_ger-lex30">
+      <Lemma writtenForm="Butter" partOfSpeech="n"/>
+      <Sense id="tufs_ger-lex30-ger-07848338-n" synset="tufs_ger-07848338-n"></Sense>
+    </LexicalEntry>
+    <LexicalEntry id="tufs_ger-lex31">
+      <Lemma writtenForm="letztes Jahr" partOfSpeech="n"/>
+      <Sense id="tufs_ger-lex31-ger-90000501-n" synset="tufs_ger-90000501-n"></Sense>
+    </LexicalEntry>
+    <LexicalEntry id="tufs_ger-lex32">
+      <Lemma writtenForm="März" partOfSpeech="n"/>
+      <Sense id="tufs_ger-lex32-ger-15210870-n" synset="tufs_ger-15210870-n"></Sense>
+    </LexicalEntry>
+    <LexicalEntry id="tufs_ger-lex33">
+      <Lemma writtenForm="hier" partOfSpeech="n"/>
+      <Sense id="tufs_ger-lex33-ger-77000072-n" synset="tufs_ger-77000072-n"></Sense>
+      <Sense id="tufs_ger-lex33-ger-08489497-n" synset="tufs_ger-08489497-n"></Sense>
+    </LexicalEntry>
+    <LexicalEntry id="tufs_ger-lex35">
+      <Lemma writtenForm="Bild" partOfSpeech="n"/>
+      <Sense id="tufs_ger-lex35-ger-03561345-n" synset="tufs_ger-03561345-n"></Sense>
+      <Sense id="tufs_ger-lex35-ger-03234306-n" synset="tufs_ger-03234306-n"></Sense>
+      <Sense id="tufs_ger-lex35-ger-03876519-n" synset="tufs_ger-03876519-n"></Sense>
+    </LexicalEntry>
+    <LexicalEntry id="tufs_ger-lex38">
+      <Lemma writtenForm="Stimme" partOfSpeech="n"/>
+      <Sense id="tufs_ger-lex38-ger-07110615-n" synset="tufs_ger-07110615-n"></Sense>
+      <Sense id="tufs_ger-lex38-ger-05202284-n" synset="tufs_ger-05202284-n"></Sense>
+    </LexicalEntry>
+    <LexicalEntry id="tufs_ger-lex40">
+      <Lemma writtenForm="Fluss" partOfSpeech="n"/>
+      <Sense id="tufs_ger-lex40-ger-09411430-n" synset="tufs_ger-09411430-n"></Sense>
+    </LexicalEntry>
+    <LexicalEntry id="tufs_ger-lex41">
+      <Lemma writtenForm="Herbst" partOfSpeech="n"/>
+      <Sense id="tufs_ger-lex41-ger-15236859-n" synset="tufs_ger-15236859-n"></Sense>
+    </LexicalEntry>
+    <LexicalEntry id="tufs_ger-lex42">
+      <Lemma writtenForm="hören" partOfSpeech="v"/>
+      <Sense id="tufs_ger-lex42-ger-02107442-v" synset="tufs_ger-02107442-v"></Sense>
+      <Sense id="tufs_ger-lex42-ger-02169891-v" synset="tufs_ger-02169891-v"></Sense>
+    </LexicalEntry>
+    <LexicalEntry id="tufs_ger-lex44">
+      <Lemma writtenForm="verkaufen" partOfSpeech="v"/>
+      <Sense id="tufs_ger-lex44-ger-02242464-v" synset="tufs_ger-02242464-v"></Sense>
+    </LexicalEntry>
+    <LexicalEntry id="tufs_ger-lex45">
+      <Lemma writtenForm="hell" partOfSpeech="a"/>
+      <Sense id="tufs_ger-lex45-ger-00271022-a" synset="tufs_ger-00271022-a"></Sense>
+      <Sense id="tufs_ger-lex45-ger-00278551-a" synset="tufs_ger-00278551-a"></Sense>
+      <Sense id="tufs_ger-lex45-ger-00396523-a" synset="tufs_ger-00396523-a"></Sense>
+      <Sense id="tufs_ger-lex45-ger-00269989-a" synset="tufs_ger-00269989-a"></Sense>
+    </LexicalEntry>
+    <LexicalEntry id="tufs_ger-lex53">
+      <Lemma writtenForm="Bus" partOfSpeech="n"/>
+      <Sense id="tufs_ger-lex53-ger-02924116-n" synset="tufs_ger-02924116-n"></Sense>
+    </LexicalEntry>
+    <LexicalEntry id="tufs_ger-lex54">
+      <Lemma writtenForm="kleben" partOfSpeech="v"/>
+      <Sense id="tufs_ger-lex54-ger-01614426-v" synset="tufs_ger-01614426-v"></Sense>
+    </LexicalEntry>
+    <LexicalEntry id="tufs_ger-lex55">
+      <Lemma writtenForm="ja" partOfSpeech="x"/>
+      <Sense id="tufs_ger-lex55-ger-80001230-x" synset="tufs_ger-80001230-x"></Sense>
+    </LexicalEntry>
+    <LexicalEntry id="tufs_ger-lex56">
+      <Lemma writtenForm="schwer" partOfSpeech="a"/>
+      <Sense id="tufs_ger-lex56-ger-01184932-a" synset="tufs_ger-01184932-a"></Sense>
+    </LexicalEntry>
+    <LexicalEntry id="tufs_ger-lex57">
+      <Lemma writtenForm="Getränk" partOfSpeech="n"/>
+      <Sense id="tufs_ger-lex57-ger-07881800-n" synset="tufs_ger-07881800-n"></Sense>
+    </LexicalEntry>
+    <LexicalEntry id="tufs_ger-lex58">
+      <Lemma writtenForm="gut" partOfSpeech="a"/>
+      <Sense id="tufs_ger-lex58-ger-01993408-a" synset="tufs_ger-01993408-a"></Sense>
+      <Sense id="tufs_ger-lex58-ger-01800349-a" synset="tufs_ger-01800349-a"></Sense>
+      <Sense id="tufs_ger-lex58-ger-01119192-a" synset="tufs_ger-01119192-a"></Sense>
+      <Sense id="tufs_ger-lex58-ger-01586752-a" synset="tufs_ger-01586752-a"></Sense>
+      <Sense id="tufs_ger-lex58-ger-00067638-a" synset="tufs_ger-00067638-a"></Sense>
+      <Sense id="tufs_ger-lex58-ger-01838916-a" synset="tufs_ger-01838916-a"></Sense>
+      <Sense id="tufs_ger-lex58-ger-01586342-a" synset="tufs_ger-01586342-a"></Sense>
+      <Sense id="tufs_ger-lex58-ger-00850183-a" synset="tufs_ger-00850183-a"></Sense>
+      <Sense id="tufs_ger-lex58-ger-01129977-a" synset="tufs_ger-01129977-a"></Sense>
+      <Sense id="tufs_ger-lex58-ger-01048762-a" synset="tufs_ger-01048762-a"></Sense>
+      <Sense id="tufs_ger-lex58-ger-01123148-a" synset="tufs_ger-01123148-a"></Sense>
+      <Sense id="tufs_ger-lex58-ger-00064787-a" synset="tufs_ger-00064787-a"></Sense>
+      <Sense id="tufs_ger-lex58-ger-01586866-a" synset="tufs_ger-01586866-a"></Sense>
+      <Sense id="tufs_ger-lex58-ger-02226162-a" synset="tufs_ger-02226162-a"></Sense>
+      <Sense id="tufs_ger-lex58-ger-01171213-a" synset="tufs_ger-01171213-a"></Sense>
+    </LexicalEntry>
+    <LexicalEntry id="tufs_ger-lex61">
+      <Lemma writtenForm="Gitarre" partOfSpeech="n"/>
+      <Sense id="tufs_ger-lex61-ger-03467517-n" synset="tufs_ger-03467517-n"></Sense>
+    </LexicalEntry>
+    <LexicalEntry id="tufs_ger-lex62">
+      <Lemma writtenForm="Schlüssel" partOfSpeech="n"/>
+      <Sense id="tufs_ger-lex62-ger-03613294-n" synset="tufs_ger-03613294-n"></Sense>
+    </LexicalEntry>
+    <LexicalEntry id="tufs_ger-lex63">
+      <Lemma writtenForm="viel" partOfSpeech="a"/>
+      <Sense id="tufs_ger-lex63-ger-01552419-a" synset="tufs_ger-01552419-a"></Sense>
+      <Sense id="tufs_ger-lex63-ger-01551633-a" synset="tufs_ger-01551633-a"></Sense>
+      <Sense id="tufs_ger-lex63-ger-01553629-a" synset="tufs_ger-01553629-a"></Sense>
+    </LexicalEntry>
+    <LexicalEntry id="tufs_ger-lex66">
+      <Lemma writtenForm="alt" partOfSpeech="a"/>
+      <Sense id="tufs_ger-lex66-ger-00127137-a" synset="tufs_ger-00127137-a"></Sense>
+      <Sense id="tufs_ger-lex66-ger-01729384-a" synset="tufs_ger-01729384-a"></Sense>
+      <Sense id="tufs_ger-lex66-ger-01638438-a" synset="tufs_ger-01638438-a"></Sense>
+    </LexicalEntry>
+    <LexicalEntry id="tufs_ger-lex69">
+      <Lemma writtenForm="Lehrer" partOfSpeech="n"/>
+      <Sense id="tufs_ger-lex69-ger-10694258-n" synset="tufs_ger-10694258-n"></Sense>
+    </LexicalEntry>
+    <LexicalEntry id="tufs_ger-lex70">
+      <Lemma writtenForm="Lehrerin (morph:f)" partOfSpeech="n"/>
+      <Sense id="tufs_ger-lex70-ger-10694258-n" synset="tufs_ger-10694258-n"></Sense>
+    </LexicalEntry>
+    <LexicalEntry id="tufs_ger-lex71">
+      <Lemma writtenForm="Zucker" partOfSpeech="n"/>
+      <Sense id="tufs_ger-lex71-ger-07859284-n" synset="tufs_ger-07859284-n"></Sense>
+    </LexicalEntry>
+    <LexicalEntry id="tufs_ger-lex72">
+      <Lemma writtenForm="Erwachsene" partOfSpeech="n"/>
+      <Sense id="tufs_ger-lex72-ger-09605289-n" synset="tufs_ger-09605289-n"></Sense>
+    </LexicalEntry>
+    <LexicalEntry id="tufs_ger-lex73">
+      <Lemma writtenForm="Restaurant" partOfSpeech="n"/>
+      <Sense id="tufs_ger-lex73-ger-04081281-n" synset="tufs_ger-04081281-n"></Sense>
+    </LexicalEntry>
+    <LexicalEntry id="tufs_ger-lex74">
+      <Lemma writtenForm="Mensa" partOfSpeech="n"/>
+      <Sense id="tufs_ger-lex74-ger-02935891-n" synset="tufs_ger-02935891-n"></Sense>
+      <Sense id="tufs_ger-lex74-ger-04081281-n" synset="tufs_ger-04081281-n"></Sense>
+    </LexicalEntry>
+    <LexicalEntry id="tufs_ger-lex75">
+      <Lemma writtenForm="Polizist" partOfSpeech="n"/>
+      <Sense id="tufs_ger-lex75-ger-10448983-n" synset="tufs_ger-10448983-n"></Sense>
+    </LexicalEntry>
+    <LexicalEntry id="tufs_ger-lex76">
+      <Lemma writtenForm="Polizistin (morph:f)" partOfSpeech="n"/>
+      <Sense id="tufs_ger-lex76-ger-10448983-n" synset="tufs_ger-10448983-n"></Sense>
+    </LexicalEntry>
+    <LexicalEntry id="tufs_ger-lex77">
+      <Lemma writtenForm="diese Woche" partOfSpeech="n"/>
+      <Sense id="tufs_ger-lex77-ger-90000507-n" synset="tufs_ger-90000507-n"></Sense>
+    </LexicalEntry>
+    <LexicalEntry id="tufs_ger-lex78">
+      <Lemma writtenForm="Flugzeug" partOfSpeech="n"/>
+      <Sense id="tufs_ger-lex78-ger-02691156-n" synset="tufs_ger-02691156-n"></Sense>
+      <Sense id="tufs_ger-lex78-ger-02686568-n" synset="tufs_ger-02686568-n"></Sense>
+    </LexicalEntry>
+    <LexicalEntry id="tufs_ger-lex80">
+      <Lemma writtenForm="Bank" partOfSpeech="n"/>
+      <Sense id="tufs_ger-lex80-ger-02787772-n" synset="tufs_ger-02787772-n"></Sense>
+      <Sense id="tufs_ger-lex80-ger-08420278-n" synset="tufs_ger-08420278-n"></Sense>
+    </LexicalEntry>
+    <LexicalEntry id="tufs_ger-lex82">
+      <Lemma writtenForm="einsteigen" partOfSpeech="v"/>
+      <Sense id="tufs_ger-lex82-ger-02018049-v" synset="tufs_ger-02018049-v"></Sense>
+    </LexicalEntry>
+    <LexicalEntry id="tufs_ger-lex83">
+      <Lemma writtenForm="leihen" partOfSpeech="v"/>
+      <Sense id="tufs_ger-lex83-ger-02324026-v" synset="tufs_ger-02324026-v"></Sense>
+      <Sense id="tufs_ger-lex83-ger-02324182-v" synset="tufs_ger-02324182-v"></Sense>
+    </LexicalEntry>
+    <LexicalEntry id="tufs_ger-lex84">
+      <Lemma writtenForm="drücken" partOfSpeech="v"/>
+      <Sense id="tufs_ger-lex84-ger-01447257-v" synset="tufs_ger-01447257-v"></Sense>
+    </LexicalEntry>
+    <LexicalEntry id="tufs_ger-lex85">
+      <Lemma writtenForm="scharf" partOfSpeech="a"/>
+      <Sense id="tufs_ger-lex85-ger-02397732-a" synset="tufs_ger-02397732-a"></Sense>
+      <Sense id="tufs_ger-lex85-ger-02398378-a" synset="tufs_ger-02398378-a"></Sense>
+    </LexicalEntry>
+    <LexicalEntry id="tufs_ger-lex87">
+      <Lemma writtenForm="Postkarte" partOfSpeech="n"/>
+      <Sense id="tufs_ger-lex87-ger-06627938-n" synset="tufs_ger-06627938-n"></Sense>
+      <Sense id="tufs_ger-lex87-ger-06628228-n" synset="tufs_ger-06628228-n"></Sense>
+    </LexicalEntry>
+    <LexicalEntry id="tufs_ger-lex89">
+      <Lemma writtenForm="Teller" partOfSpeech="n"/>
+      <Sense id="tufs_ger-lex89-ger-03959485-n" synset="tufs_ger-03959485-n"></Sense>
+    </LexicalEntry>
+    <LexicalEntry id="tufs_ger-lex90">
+      <Lemma writtenForm="weiß" partOfSpeech="a"/>
+      <Sense id="tufs_ger-lex90-ger-00393105-a" synset="tufs_ger-00393105-a"></Sense>
+    </LexicalEntry>
+    <LexicalEntry id="tufs_ger-lex91">
+      <Lemma writtenForm="rechts" partOfSpeech="n"/>
+      <Sense id="tufs_ger-lex91-ger-08625073-n" synset="tufs_ger-08625073-n"></Sense>
+    </LexicalEntry>
+    <LexicalEntry id="tufs_ger-lex92">
+      <Lemma writtenForm="Kleidung" partOfSpeech="n"/>
+      <Sense id="tufs_ger-lex92-ger-03051540-n" synset="tufs_ger-03051540-n"></Sense>
+      <Sense id="tufs_ger-lex92-ger-03419014-n" synset="tufs_ger-03419014-n"></Sense>
+      <Sense id="tufs_ger-lex92-ger-02728440-n" synset="tufs_ger-02728440-n"></Sense>
+    </LexicalEntry>
+    <LexicalEntry id="tufs_ger-lex95">
+      <Lemma writtenForm="Morgen" partOfSpeech="n"/>
+      <Sense id="tufs_ger-lex95-ger-15165289-n" synset="tufs_ger-15165289-n"></Sense>
+    </LexicalEntry>
+    <LexicalEntry id="tufs_ger-lex96">
+      <Lemma writtenForm="Vormittag" partOfSpeech="n"/>
+      <Sense id="tufs_ger-lex96-ger-15165289-n" synset="tufs_ger-15165289-n"></Sense>
+    </LexicalEntry>
+    <LexicalEntry id="tufs_ger-lex97">
+      <Lemma writtenForm="da" partOfSpeech="r"/>
+      <Sense id="tufs_ger-lex97-ger-00109151-r" synset="tufs_ger-00109151-r"></Sense>
+    </LexicalEntry>
+    <LexicalEntry id="tufs_ger-lex98">
+      <Lemma writtenForm="Landkarte" partOfSpeech="n"/>
+      <Sense id="tufs_ger-lex98-ger-03720163-n" synset="tufs_ger-03720163-n"></Sense>
+    </LexicalEntry>
+    <LexicalEntry id="tufs_ger-lex99">
+      <Lemma writtenForm="neu" partOfSpeech="a"/>
+      <Sense id="tufs_ger-lex99-ger-01640850-a" synset="tufs_ger-01640850-a"></Sense>
+      <Sense id="tufs_ger-lex99-ger-01687167-a" synset="tufs_ger-01687167-a"></Sense>
+      <Sense id="tufs_ger-lex99-ger-01641648-a" synset="tufs_ger-01641648-a"></Sense>
+      <Sense id="tufs_ger-lex99-ger-01642477-a" synset="tufs_ger-01642477-a"></Sense>
+      <Sense id="tufs_ger-lex99-ger-02070491-a" synset="tufs_ger-02070491-a"></Sense>
+      <Sense id="tufs_ger-lex99-ger-02013758-a" synset="tufs_ger-02013758-a"></Sense>
+      <Sense id="tufs_ger-lex99-ger-02584699-a" synset="tufs_ger-02584699-a"></Sense>
+      <Sense id="tufs_ger-lex99-ger-00024996-a" synset="tufs_ger-00024996-a"></Sense>
+      <Sense id="tufs_ger-lex99-ger-01686439-a" synset="tufs_ger-01686439-a"></Sense>
+    </LexicalEntry>
+    <LexicalEntry id="tufs_ger-lex108">
+      <Lemma writtenForm="Übung" partOfSpeech="n"/>
+      <Sense id="tufs_ger-lex108-ger-00894552-n" synset="tufs_ger-00894552-n"></Sense>
+    </LexicalEntry>
+    <LexicalEntry id="tufs_ger-lex109">
+      <Lemma writtenForm="mögen" partOfSpeech="a"/>
+      <Sense id="tufs_ger-lex109-ger-01292683-a" synset="tufs_ger-01292683-a"></Sense>
+    </LexicalEntry>
+    <LexicalEntry id="tufs_ger-lex110">
+      <Lemma writtenForm="gefallen" partOfSpeech="a"/>
+      <Sense id="tufs_ger-lex110-ger-01292683-a" synset="tufs_ger-01292683-a"></Sense>
+    </LexicalEntry>
+    <LexicalEntry id="tufs_ger-lex112">
+      <Lemma writtenForm="gefallen" partOfSpeech="v"/>
+      <Sense id="tufs_ger-lex112-ger-01777210-v" synset="tufs_ger-01777210-v"></Sense>
+    </LexicalEntry>
+    <LexicalEntry id="tufs_ger-lex113">
+      <Lemma writtenForm="Klassenzimmer" partOfSpeech="n"/>
+      <Sense id="tufs_ger-lex113-ger-03038685-n" synset="tufs_ger-03038685-n"></Sense>
+    </LexicalEntry>
+    <LexicalEntry id="tufs_ger-lex114">
+      <Lemma writtenForm="wahrscheinlich" partOfSpeech="r"/>
+      <Sense id="tufs_ger-lex114-ger-00154449-r" synset="tufs_ger-00154449-r"></Sense>
+      <Sense id="tufs_ger-lex114-ger-00296131-r" synset="tufs_ger-00296131-r"></Sense>
+    </LexicalEntry>
+    <LexicalEntry id="tufs_ger-lex116">
+      <Lemma writtenForm="Stuhl" partOfSpeech="n"/>
+      <Sense id="tufs_ger-lex116-ger-03001627-n" synset="tufs_ger-03001627-n"></Sense>
+    </LexicalEntry>
+    <LexicalEntry id="tufs_ger-lex117">
+      <Lemma writtenForm="kopieren" partOfSpeech="v"/>
+      <Sense id="tufs_ger-lex117-ger-01734929-v" synset="tufs_ger-01734929-v"></Sense>
+    </LexicalEntry>
+    <LexicalEntry id="tufs_ger-lex118">
+      <Lemma writtenForm="rennen" partOfSpeech="v"/>
+      <Sense id="tufs_ger-lex118-ger-01926311-v" synset="tufs_ger-01926311-v"></Sense>
+      <Sense id="tufs_ger-lex118-ger-01914947-v" synset="tufs_ger-01914947-v"></Sense>
+    </LexicalEntry>
+    <LexicalEntry id="tufs_ger-lex120">
+      <Lemma writtenForm="zurückkehren" partOfSpeech="v"/>
+      <Sense id="tufs_ger-lex120-ger-02005496-v" synset="tufs_ger-02005496-v"></Sense>
+    </LexicalEntry>
+    <LexicalEntry id="tufs_ger-lex121">
+      <Lemma writtenForm="Treppe" partOfSpeech="n"/>
+      <Sense id="tufs_ger-lex121-ger-04298308-n" synset="tufs_ger-04298308-n"></Sense>
+    </LexicalEntry>
+    <LexicalEntry id="tufs_ger-lex122">
+      <Lemma writtenForm="duschen" partOfSpeech="v"/>
+      <Sense id="tufs_ger-lex122-ger-00037919-v" synset="tufs_ger-00037919-v"></Sense>
+    </LexicalEntry>
+    <LexicalEntry id="tufs_ger-lex123">
+      <Lemma writtenForm="putzen" partOfSpeech="v"/>
+      <Sense id="tufs_ger-lex123-ger-01533442-v" synset="tufs_ger-01533442-v"></Sense>
+      <Sense id="tufs_ger-lex123-ger-01532589-v" synset="tufs_ger-01532589-v"></Sense>
+    </LexicalEntry>
+    <LexicalEntry id="tufs_ger-lex125">
+      <Lemma writtenForm="Rindfleisch" partOfSpeech="n"/>
+      <Sense id="tufs_ger-lex125-ger-07663592-n" synset="tufs_ger-07663592-n"></Sense>
+    </LexicalEntry>
+    <LexicalEntry id="tufs_ger-lex126">
+      <Lemma writtenForm="viele Leute" partOfSpeech="n"/>
+      <Sense id="tufs_ger-lex126-ger-08182379-n" synset="tufs_ger-08182379-n"></Sense>
+      <Sense id="tufs_ger-lex126-ger-08182962-n" synset="tufs_ger-08182962-n"></Sense>
+    </LexicalEntry>
+    <LexicalEntry id="tufs_ger-lex128">
+      <Lemma writtenForm="letzten Monat" partOfSpeech="n"/>
+      <Sense id="tufs_ger-lex128-ger-80000079-n" synset="tufs_ger-80000079-n"></Sense>
+    </LexicalEntry>
+    <LexicalEntry id="tufs_ger-lex129">
+      <Lemma writtenForm="Arzt" partOfSpeech="n"/>
+      <Sense id="tufs_ger-lex129-ger-10020890-n" synset="tufs_ger-10020890-n"></Sense>
+      <Sense id="tufs_ger-lex129-ger-10305802-n" synset="tufs_ger-10305802-n"></Sense>
+    </LexicalEntry>
+    <LexicalEntry id="tufs_ger-lex130">
+      <Lemma writtenForm="Ärztin (morph:f)" partOfSpeech="n"/>
+      <Sense id="tufs_ger-lex130-ger-10020890-n" synset="tufs_ger-10020890-n"></Sense>
+      <Sense id="tufs_ger-lex130-ger-10305802-n" synset="tufs_ger-10305802-n"></Sense>
+    </LexicalEntry>
+    <LexicalEntry id="tufs_ger-lex133">
+      <Lemma writtenForm="Briefkasten" partOfSpeech="n"/>
+      <Sense id="tufs_ger-lex133-ger-03710193-n" synset="tufs_ger-03710193-n"></Sense>
+      <Sense id="tufs_ger-lex133-ger-03989074-n" synset="tufs_ger-03989074-n"></Sense>
+    </LexicalEntry>
+    <LexicalEntry id="tufs_ger-lex135">
+      <Lemma writtenForm="Woche" partOfSpeech="n"/>
+      <Sense id="tufs_ger-lex135-ger-15136147-n" synset="tufs_ger-15136147-n"></Sense>
+      <Sense id="tufs_ger-lex135-ger-15169873-n" synset="tufs_ger-15169873-n"></Sense>
+    </LexicalEntry>
+    <LexicalEntry id="tufs_ger-lex137">
+      <Lemma writtenForm="Juni" partOfSpeech="n"/>
+      <Sense id="tufs_ger-lex137-ger-15211806-n" synset="tufs_ger-15211806-n"></Sense>
+    </LexicalEntry>
+    <LexicalEntry id="tufs_ger-lex138">
+      <Lemma writtenForm="Hose" partOfSpeech="n"/>
+      <Sense id="tufs_ger-lex138-ger-04489008-n" synset="tufs_ger-04489008-n"></Sense>
+    </LexicalEntry>
+    <LexicalEntry id="tufs_ger-lex139">
+      <Lemma writtenForm="Rock" partOfSpeech="n"/>
+      <Sense id="tufs_ger-lex139-ger-04230808-n" synset="tufs_ger-04230808-n"></Sense>
+    </LexicalEntry>
+    <LexicalEntry id="tufs_ger-lex140">
+      <Lemma writtenForm="Land" partOfSpeech="n"/>
+      <Sense id="tufs_ger-lex140-ger-08490199-n" synset="tufs_ger-08490199-n"></Sense>
+      <Sense id="tufs_ger-lex140-ger-08544813-n" synset="tufs_ger-08544813-n"></Sense>
+    </LexicalEntry>
+    <LexicalEntry id="tufs_ger-lex142">
+      <Lemma writtenForm="jedes Jahr" partOfSpeech="r"/>
+      <Sense id="tufs_ger-lex142-ger-00081737-r" synset="tufs_ger-00081737-r"></Sense>
+    </LexicalEntry>
+    <LexicalEntry id="tufs_ger-lex143">
+      <Lemma writtenForm="aufstehen" partOfSpeech="v"/>
+      <Sense id="tufs_ger-lex143-ger-01546111-v" synset="tufs_ger-01546111-v"></Sense>
+      <Sense id="tufs_ger-lex143-ger-00018158-v" synset="tufs_ger-00018158-v"></Sense>
+    </LexicalEntry>
+    <LexicalEntry id="tufs_ger-lex144">
+      <Lemma writtenForm="Kopf" partOfSpeech="n"/>
+      <Sense id="tufs_ger-lex144-ger-05538625-n" synset="tufs_ger-05538625-n"></Sense>
+    </LexicalEntry>
+    <LexicalEntry id="tufs_ger-lex145">
+      <Lemma writtenForm="spielen" partOfSpeech="v"/>
+      <Sense id="tufs_ger-lex145-ger-01725051-v" synset="tufs_ger-01725051-v"></Sense>
+      <Sense id="tufs_ger-lex145-ger-02418686-v" synset="tufs_ger-02418686-v"></Sense>
+    </LexicalEntry>
+    <LexicalEntry id="tufs_ger-lex146">
+      <Lemma writtenForm="gelb" partOfSpeech="n"/>
+      <Sense id="tufs_ger-lex146-ger-04965661-n" synset="tufs_ger-04965661-n"></Sense>
+    </LexicalEntry>
+    <LexicalEntry id="tufs_ger-lex147">
+      <Lemma writtenForm="eng" partOfSpeech="a"/>
+      <Sense id="tufs_ger-lex147-ger-00476663-a" synset="tufs_ger-00476663-a"></Sense>
+      <Sense id="tufs_ger-lex147-ger-02561888-a" synset="tufs_ger-02561888-a"></Sense>
+    </LexicalEntry>
+    <LexicalEntry id="tufs_ger-lex149">
+      <Lemma writtenForm="Höhe" partOfSpeech="n"/>
+      <Sense id="tufs_ger-lex149-ger-05131647-n" synset="tufs_ger-05131647-n"></Sense>
+      <Sense id="tufs_ger-lex149-ger-05137165-n" synset="tufs_ger-05137165-n"></Sense>
+    </LexicalEntry>
+    <LexicalEntry id="tufs_ger-lex151">
+      <Lemma writtenForm="gern geschehen" partOfSpeech="r"/>
+      <Sense id="tufs_ger-lex151-ger-00009966-r" synset="tufs_ger-00009966-r"></Sense>
+      <Sense id="tufs_ger-lex151-ger-00056916-r" synset="tufs_ger-00056916-r"></Sense>
+    </LexicalEntry>
+    <LexicalEntry id="tufs_ger-lex152">
+      <Lemma writtenForm="bitte" partOfSpeech="r"/>
+      <Sense id="tufs_ger-lex152-ger-00009966-r" synset="tufs_ger-00009966-r"></Sense>
+      <Sense id="tufs_ger-lex152-ger-00056916-r" synset="tufs_ger-00056916-r"></Sense>
+    </LexicalEntry>
+    <LexicalEntry id="tufs_ger-lex153">
+      <Lemma writtenForm="Ausländer" partOfSpeech="n"/>
+      <Sense id="tufs_ger-lex153-ger-10103485-n" synset="tufs_ger-10103485-n"></Sense>
+    </LexicalEntry>
+    <LexicalEntry id="tufs_ger-lex154">
+      <Lemma writtenForm="Ausländerin (morph:f)" partOfSpeech="n"/>
+      <Sense id="tufs_ger-lex154-ger-10103485-n" synset="tufs_ger-10103485-n"></Sense>
+    </LexicalEntry>
+    <LexicalEntry id="tufs_ger-lex155">
+      <Lemma writtenForm="Auto" partOfSpeech="n"/>
+      <Sense id="tufs_ger-lex155-ger-02958343-n" synset="tufs_ger-02958343-n"></Sense>
+    </LexicalEntry>
+    <LexicalEntry id="tufs_ger-lex156">
+      <Lemma writtenForm="Schallplatte" partOfSpeech="n"/>
+      <Sense id="tufs_ger-lex156-ger-03924069-n" synset="tufs_ger-03924069-n"></Sense>
+    </LexicalEntry>
+    <LexicalEntry id="tufs_ger-lex157">
+      <Lemma writtenForm="Mutter" partOfSpeech="n"/>
+      <Sense id="tufs_ger-lex157-ger-10332385-n" synset="tufs_ger-10332385-n"></Sense>
+    </LexicalEntry>
+    <LexicalEntry id="tufs_ger-lex158">
+      <Lemma writtenForm="arbeiten" partOfSpeech="v"/>
+      <Sense id="tufs_ger-lex158-ger-02410855-v" synset="tufs_ger-02410855-v"></Sense>
+    </LexicalEntry>
+    <LexicalEntry id="tufs_ger-lex159">
+      <Lemma writtenForm="Schweinefleisch" partOfSpeech="n"/>
+      <Sense id="tufs_ger-lex159-ger-07668702-n" synset="tufs_ger-07668702-n"></Sense>
+    </LexicalEntry>
+    <LexicalEntry id="tufs_ger-lex160">
+      <Lemma writtenForm="Einkauf" partOfSpeech="n"/>
+      <Sense id="tufs_ger-lex160-ger-04203889-n" synset="tufs_ger-04203889-n"></Sense>
+      <Sense id="tufs_ger-lex160-ger-00081836-n" synset="tufs_ger-00081836-n"></Sense>
+    </LexicalEntry>
+    <LexicalEntry id="tufs_ger-lex162">
+      <Lemma writtenForm="Westen" partOfSpeech="n"/>
+      <Sense id="tufs_ger-lex162-ger-13836136-n" synset="tufs_ger-13836136-n"></Sense>
+    </LexicalEntry>
+    <LexicalEntry id="tufs_ger-lex163">
+      <Lemma writtenForm="süß" partOfSpeech="a"/>
+      <Sense id="tufs_ger-lex163-ger-02368336-a" synset="tufs_ger-02368336-a"></Sense>
+    </LexicalEntry>
+    <LexicalEntry id="tufs_ger-lex164">
+      <Lemma writtenForm="Strumpf" partOfSpeech="n"/>
+      <Sense id="tufs_ger-lex164-ger-04254777-n" synset="tufs_ger-04254777-n"></Sense>
+    </LexicalEntry>
+    <LexicalEntry id="tufs_ger-lex165">
+      <Lemma writtenForm="reisen" partOfSpeech="v"/>
+      <Sense id="tufs_ger-lex165-ger-01845720-v" synset="tufs_ger-01845720-v"></Sense>
+      <Sense id="tufs_ger-lex165-ger-01846916-v" synset="tufs_ger-01846916-v"></Sense>
+      <Sense id="tufs_ger-lex165-ger-01845229-v" synset="tufs_ger-01845229-v"></Sense>
+    </LexicalEntry>
+    <LexicalEntry id="tufs_ger-lex168">
+      <Lemma writtenForm="hinten" partOfSpeech="r"/>
+      <Sense id="tufs_ger-lex168-ger-00061203-r" synset="tufs_ger-00061203-r"></Sense>
+    </LexicalEntry>
+    <LexicalEntry id="tufs_ger-lex169">
+      <Lemma writtenForm="Freund" partOfSpeech="n"/>
+      <Sense id="tufs_ger-lex169-ger-10112591-n" synset="tufs_ger-10112591-n"></Sense>
+    </LexicalEntry>
+    <LexicalEntry id="tufs_ger-lex170">
+      <Lemma writtenForm="Freundin (morph:f)" partOfSpeech="n"/>
+      <Sense id="tufs_ger-lex170-ger-10112591-n" synset="tufs_ger-10112591-n"></Sense>
+    </LexicalEntry>
+    <LexicalEntry id="tufs_ger-lex171">
+      <Lemma writtenForm="Mitte" partOfSpeech="n"/>
+      <Sense id="tufs_ger-lex171-ger-08588152-n" synset="tufs_ger-08588152-n"></Sense>
+      <Sense id="tufs_ger-lex171-ger-08588294-n" synset="tufs_ger-08588294-n"></Sense>
+    </LexicalEntry>
+    <LexicalEntry id="tufs_ger-lex173">
+      <Lemma writtenForm="du" partOfSpeech="n"/>
+      <Sense id="tufs_ger-lex173-ger-77000021-n" synset="tufs_ger-77000021-n"></Sense>
+    </LexicalEntry>
+    <LexicalEntry id="tufs_ger-lex174">
+      <Lemma writtenForm="Sie" partOfSpeech="n"/>
+      <Sense id="tufs_ger-lex174-ger-77000021-n" synset="tufs_ger-77000021-n"></Sense>
+    </LexicalEntry>
+    <LexicalEntry id="tufs_ger-lex175">
+      <Lemma writtenForm="sich aufklären" partOfSpeech="v"/>
+      <Sense id="tufs_ger-lex175-ger-02771169-v" synset="tufs_ger-02771169-v"></Sense>
+    </LexicalEntry>
+    <LexicalEntry id="tufs_ger-lex176">
+      <Lemma writtenForm="dieser" partOfSpeech="a"/>
+      <Sense id="tufs_ger-lex176-ger-80001619-a" synset="tufs_ger-80001619-a"></Sense>
+      <Sense id="tufs_ger-lex176-ger-77000061-a" synset="tufs_ger-77000061-a"></Sense>
+      <Sense id="tufs_ger-lex176-ger-77000075-a" synset="tufs_ger-77000075-a"></Sense>
+    </LexicalEntry>
+    <LexicalEntry id="tufs_ger-lex179">
+      <Lemma writtenForm="neben" partOfSpeech="n"/>
+      <Sense id="tufs_ger-lex179-ger-08649345-n" synset="tufs_ger-08649345-n"></Sense>
+    </LexicalEntry>
+    <LexicalEntry id="tufs_ger-lex180">
+      <Lemma writtenForm="Mai" partOfSpeech="n"/>
+      <Sense id="tufs_ger-lex180-ger-15211484-n" synset="tufs_ger-15211484-n"></Sense>
+    </LexicalEntry>
+    <LexicalEntry id="tufs_ger-lex181">
+      <Lemma writtenForm="Arm" partOfSpeech="n"/>
+      <Sense id="tufs_ger-lex181-ger-05563770-n" synset="tufs_ger-05563770-n"></Sense>
+    </LexicalEntry>
+    <LexicalEntry id="tufs_ger-lex182">
+      <Lemma writtenForm="Mittag" partOfSpeech="n"/>
+      <Sense id="tufs_ger-lex182-ger-15165490-n" synset="tufs_ger-15165490-n"></Sense>
+    </LexicalEntry>
+    <LexicalEntry id="tufs_ger-lex183">
+      <Lemma writtenForm="Brille" partOfSpeech="n"/>
+      <Sense id="tufs_ger-lex183-ger-04272054-n" synset="tufs_ger-04272054-n"></Sense>
+    </LexicalEntry>
+    <LexicalEntry id="tufs_ger-lex184">
+      <Lemma writtenForm="chinesisches Zeichen" partOfSpeech="n"/>
+      <Sense id="tufs_ger-lex184-ger-80000746-n" synset="tufs_ger-80000746-n"></Sense>
+    </LexicalEntry>
+    <LexicalEntry id="tufs_ger-lex185">
+      <Lemma writtenForm="Mann" partOfSpeech="n"/>
+      <Sense id="tufs_ger-lex185-ger-10287213-n" synset="tufs_ger-10287213-n"></Sense>
+      <Sense id="tufs_ger-lex185-ger-09624168-n" synset="tufs_ger-09624168-n"></Sense>
+      <Sense id="tufs_ger-lex185-ger-10193967-n" synset="tufs_ger-10193967-n"></Sense>
+    </LexicalEntry>
+    <LexicalEntry id="tufs_ger-lex187">
+      <Lemma writtenForm="Dienstag" partOfSpeech="n"/>
+      <Sense id="tufs_ger-lex187-ger-15164105-n" synset="tufs_ger-15164105-n"></Sense>
+    </LexicalEntry>
+    <LexicalEntry id="tufs_ger-lex188">
+      <Lemma writtenForm="alle" partOfSpeech="n"/>
+      <Sense id="tufs_ger-lex188-ger-77000099-n" synset="tufs_ger-77000099-n"></Sense>
+    </LexicalEntry>
+    <LexicalEntry id="tufs_ger-lex189">
+      <Lemma writtenForm="löschen" partOfSpeech="v"/>
+      <Sense id="tufs_ger-lex189-ger-00479391-v" synset="tufs_ger-00479391-v"></Sense>
+    </LexicalEntry>
+    <LexicalEntry id="tufs_ger-lex190">
+      <Lemma writtenForm="Hemd" partOfSpeech="n"/>
+      <Sense id="tufs_ger-lex190-ger-03238879-n" synset="tufs_ger-03238879-n"></Sense>
+    </LexicalEntry>
+    <LexicalEntry id="tufs_ger-lex191">
+      <Lemma writtenForm="dünn" partOfSpeech="a"/>
+      <Sense id="tufs_ger-lex191-ger-02414188-a" synset="tufs_ger-02414188-a"></Sense>
+      <Sense id="tufs_ger-lex191-ger-02412164-a" synset="tufs_ger-02412164-a"></Sense>
+      <Sense id="tufs_ger-lex191-ger-00988232-a" synset="tufs_ger-00988232-a"></Sense>
+    </LexicalEntry>
+    <LexicalEntry id="tufs_ger-lex193">
+      <Lemma writtenForm="dort" partOfSpeech="n"/>
+      <Sense id="tufs_ger-lex193-ger-08489627-n" synset="tufs_ger-08489627-n"></Sense>
+    </LexicalEntry>
+    <LexicalEntry id="tufs_ger-lex194">
+      <Lemma writtenForm="essen" partOfSpeech="v"/>
+      <Sense id="tufs_ger-lex194-ger-01168468-v" synset="tufs_ger-01168468-v"></Sense>
+      <Sense id="tufs_ger-lex194-ger-01166351-v" synset="tufs_ger-01166351-v"></Sense>
+      <Sense id="tufs_ger-lex194-ger-01179865-v" synset="tufs_ger-01179865-v"></Sense>
+    </LexicalEntry>
+    <LexicalEntry id="tufs_ger-lex197">
+      <Lemma writtenForm="Zeit" partOfSpeech="n"/>
+      <Sense id="tufs_ger-lex197-ger-15270431-n" synset="tufs_ger-15270431-n"></Sense>
+      <Sense id="tufs_ger-lex197-ger-15227846-n" synset="tufs_ger-15227846-n"></Sense>
+      <Sense id="tufs_ger-lex197-ger-15122231-n" synset="tufs_ger-15122231-n"></Sense>
+      <Sense id="tufs_ger-lex197-ger-15269513-n" synset="tufs_ger-15269513-n"></Sense>
+    </LexicalEntry>
+    <LexicalEntry id="tufs_ger-lex198">
+      <Lemma writtenForm="Bett" partOfSpeech="n"/>
+      <Sense id="tufs_ger-lex198-ger-02818832-n" synset="tufs_ger-02818832-n"></Sense>
+    </LexicalEntry>
+    <LexicalEntry id="tufs_ger-lex199">
+      <Lemma writtenForm="nächstes Jahr" partOfSpeech="n"/>
+      <Sense id="tufs_ger-lex199-ger-90000503-n" synset="tufs_ger-90000503-n"></Sense>
+    </LexicalEntry>
+    <LexicalEntry id="tufs_ger-lex200">
+      <Lemma writtenForm="Ausland" partOfSpeech="n"/>
+      <Sense id="tufs_ger-lex200-ger-08168367-n" synset="tufs_ger-08168367-n"></Sense>
+    </LexicalEntry>
+    <LexicalEntry id="tufs_ger-lex201">
+      <Lemma writtenForm="weit" partOfSpeech="a"/>
+      <Sense id="tufs_ger-lex201-ger-01384212-a" synset="tufs_ger-01384212-a"></Sense>
+      <Sense id="tufs_ger-lex201-ger-02560548-a" synset="tufs_ger-02560548-a"></Sense>
+    </LexicalEntry>
+    <LexicalEntry id="tufs_ger-lex203">
+      <Lemma writtenForm="Wäsche" partOfSpeech="n"/>
+      <Sense id="tufs_ger-lex203-ger-00255710-n" synset="tufs_ger-00255710-n"></Sense>
+    </LexicalEntry>
+    <LexicalEntry id="tufs_ger-lex204">
+      <Lemma writtenForm="Gespräch" partOfSpeech="n"/>
+      <Sense id="tufs_ger-lex204-ger-07139316-n" synset="tufs_ger-07139316-n"></Sense>
+      <Sense id="tufs_ger-lex204-ger-07221094-n" synset="tufs_ger-07221094-n"></Sense>
+      <Sense id="tufs_ger-lex204-ger-07110457-n" synset="tufs_ger-07110457-n"></Sense>
+      <Sense id="tufs_ger-lex204-ger-00893243-n" synset="tufs_ger-00893243-n"></Sense>
+    </LexicalEntry>
+    <LexicalEntry id="tufs_ger-lex208">
+      <Lemma writtenForm="schon" partOfSpeech="r"/>
+      <Sense id="tufs_ger-lex208-ger-00031798-r" synset="tufs_ger-00031798-r"></Sense>
+    </LexicalEntry>
+    <LexicalEntry id="tufs_ger-lex209">
+      <Lemma writtenForm="Essen" partOfSpeech="n"/>
+      <Sense id="tufs_ger-lex209-ger-07555863-n" synset="tufs_ger-07555863-n"></Sense>
+      <Sense id="tufs_ger-lex209-ger-07560652-n" synset="tufs_ger-07560652-n"></Sense>
+    </LexicalEntry>
+    <LexicalEntry id="tufs_ger-lex211">
+      <Lemma writtenForm="manchmal" partOfSpeech="r"/>
+      <Sense id="tufs_ger-lex211-ger-00157412-r" synset="tufs_ger-00157412-r"></Sense>
+      <Sense id="tufs_ger-lex211-ger-00021212-r" synset="tufs_ger-00021212-r"></Sense>
+    </LexicalEntry>
+    <LexicalEntry id="tufs_ger-lex213">
+      <Lemma writtenForm="Medikament" partOfSpeech="n"/>
+      <Sense id="tufs_ger-lex213-ger-03740161-n" synset="tufs_ger-03740161-n"></Sense>
+    </LexicalEntry>
+    <LexicalEntry id="tufs_ger-lex214">
+      <Lemma writtenForm="geradeaus" partOfSpeech="a"/>
+      <Sense id="tufs_ger-lex214-ger-02310895-a" synset="tufs_ger-02310895-a"></Sense>
+      <Sense id="tufs_ger-lex214-ger-02318272-a" synset="tufs_ger-02318272-a"></Sense>
+      <Sense id="tufs_ger-lex214-ger-02314584-a" synset="tufs_ger-02314584-a"></Sense>
+    </LexicalEntry>
+    <LexicalEntry id="tufs_ger-lex217">
+      <Lemma writtenForm="Frau" partOfSpeech="n"/>
+      <Sense id="tufs_ger-lex217-ger-10780632-n" synset="tufs_ger-10780632-n"></Sense>
+      <Sense id="tufs_ger-lex217-ger-10787470-n" synset="tufs_ger-10787470-n"></Sense>
+    </LexicalEntry>
+    <LexicalEntry id="tufs_ger-lex218">
+      <Lemma writtenForm="Onkel" partOfSpeech="n"/>
+      <Sense id="tufs_ger-lex218-ger-10736091-n" synset="tufs_ger-10736091-n"></Sense>
+    </LexicalEntry>
+    <LexicalEntry id="tufs_ger-lex219">
+      <Lemma writtenForm="Kamera" partOfSpeech="n"/>
+      <Sense id="tufs_ger-lex219-ger-04404997-n" synset="tufs_ger-04404997-n"></Sense>
+      <Sense id="tufs_ger-lex219-ger-02942699-n" synset="tufs_ger-02942699-n"></Sense>
+    </LexicalEntry>
+    <LexicalEntry id="tufs_ger-lex221">
+      <Lemma writtenForm="Pullover" partOfSpeech="n"/>
+      <Sense id="tufs_ger-lex221-ger-04370048-n" synset="tufs_ger-04370048-n"></Sense>
+    </LexicalEntry>
+    <LexicalEntry id="tufs_ger-lex222">
+      <Lemma writtenForm="werden" partOfSpeech="v"/>
+      <Sense id="tufs_ger-lex222-ger-02626604-v" synset="tufs_ger-02626604-v"></Sense>
+      <Sense id="tufs_ger-lex222-ger-02623529-v" synset="tufs_ger-02623529-v"></Sense>
+    </LexicalEntry>
+    <LexicalEntry id="tufs_ger-lex224">
+      <Lemma writtenForm="Café" partOfSpeech="n"/>
+      <Sense id="tufs_ger-lex224-ger-04398497-n" synset="tufs_ger-04398497-n"></Sense>
+    </LexicalEntry>
+    <LexicalEntry id="tufs_ger-lex225">
+      <Lemma writtenForm="jede Woche" partOfSpeech="r"/>
+      <Sense id="tufs_ger-lex225-ger-00081591-r" synset="tufs_ger-00081591-r"></Sense>
+    </LexicalEntry>
+    <LexicalEntry id="tufs_ger-lex226">
+      <Lemma writtenForm="waschen" partOfSpeech="v"/>
+      <Sense id="tufs_ger-lex226-ger-01270199-v" synset="tufs_ger-01270199-v"></Sense>
+      <Sense id="tufs_ger-lex226-ger-01535246-v" synset="tufs_ger-01535246-v"></Sense>
+    </LexicalEntry>
+    <LexicalEntry id="tufs_ger-lex227">
+      <Lemma writtenForm="üben" partOfSpeech="v"/>
+      <Sense id="tufs_ger-lex227-ger-01723224-v" synset="tufs_ger-01723224-v"></Sense>
+      <Sense id="tufs_ger-lex227-ger-00606093-v" synset="tufs_ger-00606093-v"></Sense>
+    </LexicalEntry>
+    <LexicalEntry id="tufs_ger-lex229">
+      <Lemma writtenForm="gestern" partOfSpeech="n"/>
+      <Sense id="tufs_ger-lex229-ger-15156187-n" synset="tufs_ger-15156187-n"></Sense>
+    </LexicalEntry>
+    <LexicalEntry id="tufs_ger-lex230">
+      <Lemma writtenForm="ruhig" partOfSpeech="a"/>
+      <Sense id="tufs_ger-lex230-ger-01919428-a" synset="tufs_ger-01919428-a"></Sense>
+      <Sense id="tufs_ger-lex230-ger-01918984-a" synset="tufs_ger-01918984-a"></Sense>
+    </LexicalEntry>
+    <LexicalEntry id="tufs_ger-lex232">
+      <Lemma writtenForm="Uhr" partOfSpeech="n"/>
+      <Sense id="tufs_ger-lex232-ger-04437953-n" synset="tufs_ger-04437953-n"></Sense>
+      <Sense id="tufs_ger-lex232-ger-03046257-n" synset="tufs_ger-03046257-n"></Sense>
+      <Sense id="tufs_ger-lex232-ger-15129927-n" synset="tufs_ger-15129927-n"></Sense>
+    </LexicalEntry>
+    <LexicalEntry id="tufs_ger-lex234">
+      <Lemma writtenForm="Anzug" partOfSpeech="n"/>
+      <Sense id="tufs_ger-lex234-ger-04350905-n" synset="tufs_ger-04350905-n"></Sense>
+    </LexicalEntry>
+    <LexicalEntry id="tufs_ger-lex235">
+      <Lemma writtenForm="dunkel" partOfSpeech="a"/>
+      <Sense id="tufs_ger-lex235-ger-00273082-a" synset="tufs_ger-00273082-a"></Sense>
+      <Sense id="tufs_ger-lex235-ger-00409440-a" synset="tufs_ger-00409440-a"></Sense>
+    </LexicalEntry>
+    <LexicalEntry id="tufs_ger-lex236">
+      <Lemma writtenForm="stark" partOfSpeech="a"/>
+      <Sense id="tufs_ger-lex236-ger-00842199-a" synset="tufs_ger-00842199-a"></Sense>
+    </LexicalEntry>
+    <LexicalEntry id="tufs_ger-lex237">
+      <Lemma writtenForm="Montag" partOfSpeech="n"/>
+      <Sense id="tufs_ger-lex237-ger-15163979-n" synset="tufs_ger-15163979-n"></Sense>
+    </LexicalEntry>
+    <LexicalEntry id="tufs_ger-lex238">
+      <Lemma writtenForm="oft" partOfSpeech="r"/>
+      <Sense id="tufs_ger-lex238-ger-00059413-r" synset="tufs_ger-00059413-r"></Sense>
+      <Sense id="tufs_ger-lex238-ger-00035058-r" synset="tufs_ger-00035058-r"></Sense>
+    </LexicalEntry>
+    <LexicalEntry id="tufs_ger-lex240">
+      <Lemma writtenForm="Problem" partOfSpeech="n"/>
+      <Sense id="tufs_ger-lex240-ger-06784003-n" synset="tufs_ger-06784003-n"></Sense>
+      <Sense id="tufs_ger-lex240-ger-05687338-n" synset="tufs_ger-05687338-n"></Sense>
+    </LexicalEntry>
+    <LexicalEntry id="tufs_ger-lex242">
+      <Lemma writtenForm="Aufzug" partOfSpeech="n"/>
+      <Sense id="tufs_ger-lex242-ger-03281145-n" synset="tufs_ger-03281145-n"></Sense>
+    </LexicalEntry>
+    <LexicalEntry id="tufs_ger-lex243">
+      <Lemma writtenForm="Ohr" partOfSpeech="n"/>
+      <Sense id="tufs_ger-lex243-ger-05320899-n" synset="tufs_ger-05320899-n"></Sense>
+    </LexicalEntry>
+    <LexicalEntry id="tufs_ger-lex244">
+      <Lemma writtenForm="jemand" partOfSpeech="n"/>
+      <Sense id="tufs_ger-lex244-ger-00007846-n" synset="tufs_ger-00007846-n"></Sense>
+    </LexicalEntry>
+    <LexicalEntry id="tufs_ger-lex245">
+      <Lemma writtenForm="Radiorekorder" partOfSpeech="n"/>
+      <Sense id="tufs_ger-lex245-ger-03436182-n" synset="tufs_ger-03436182-n"></Sense>
+    </LexicalEntry>
+    <LexicalEntry id="tufs_ger-lex246">
+      <Lemma writtenForm="Löffel" partOfSpeech="n"/>
+      <Sense id="tufs_ger-lex246-ger-04284002-n" synset="tufs_ger-04284002-n"></Sense>
+    </LexicalEntry>
+    <LexicalEntry id="tufs_ger-lex247">
+      <Lemma writtenForm="Obst" partOfSpeech="n"/>
+      <Sense id="tufs_ger-lex247-ger-11683989-n" synset="tufs_ger-11683989-n"></Sense>
+      <Sense id="tufs_ger-lex247-ger-13134947-n" synset="tufs_ger-13134947-n"></Sense>
+    </LexicalEntry>
+    <LexicalEntry id="tufs_ger-lex249">
+      <Lemma writtenForm="sagen" partOfSpeech="v"/>
+      <Sense id="tufs_ger-lex249-ger-01009240-v" synset="tufs_ger-01009240-v"></Sense>
+      <Sense id="tufs_ger-lex249-ger-02730813-v" synset="tufs_ger-02730813-v"></Sense>
+      <Sense id="tufs_ger-lex249-ger-00941990-v" synset="tufs_ger-00941990-v"></Sense>
+      <Sense id="tufs_ger-lex249-ger-00979870-v" synset="tufs_ger-00979870-v"></Sense>
+    </LexicalEntry>
+    <LexicalEntry id="tufs_ger-lex253">
+      <Lemma writtenForm="Regenschirm" partOfSpeech="n"/>
+      <Sense id="tufs_ger-lex253-ger-04507155-n" synset="tufs_ger-04507155-n"></Sense>
+    </LexicalEntry>
+    <LexicalEntry id="tufs_ger-lex254">
+      <Lemma writtenForm="schlecht" partOfSpeech="a"/>
+      <Sense id="tufs_ger-lex254-ger-01128103-a" synset="tufs_ger-01128103-a"></Sense>
+      <Sense id="tufs_ger-lex254-ger-01870636-a" synset="tufs_ger-01870636-a"></Sense>
+      <Sense id="tufs_ger-lex254-ger-02229000-a" synset="tufs_ger-02229000-a"></Sense>
+      <Sense id="tufs_ger-lex254-ger-02229324-a" synset="tufs_ger-02229324-a"></Sense>
+    </LexicalEntry>
+    <LexicalEntry id="tufs_ger-lex261">
+      <Lemma writtenForm="schwierig" partOfSpeech="a"/>
+      <Sense id="tufs_ger-lex261-ger-00744916-a" synset="tufs_ger-00744916-a"></Sense>
+    </LexicalEntry>
+    <LexicalEntry id="tufs_ger-lex262">
+      <Lemma writtenForm="Telefon" partOfSpeech="n"/>
+      <Sense id="tufs_ger-lex262-ger-06272803-n" synset="tufs_ger-06272803-n"></Sense>
+      <Sense id="tufs_ger-lex262-ger-04401088-n" synset="tufs_ger-04401088-n"></Sense>
+    </LexicalEntry>
+    <LexicalEntry id="tufs_ger-lex264">
+      <Lemma writtenForm="Buch" partOfSpeech="n"/>
+      <Sense id="tufs_ger-lex264-ger-06410904-n" synset="tufs_ger-06410904-n"></Sense>
+      <Sense id="tufs_ger-lex264-ger-02870092-n" synset="tufs_ger-02870092-n"></Sense>
+    </LexicalEntry>
+    <LexicalEntry id="tufs_ger-lex266">
+      <Lemma writtenForm="Cousin" partOfSpeech="n"/>
+      <Sense id="tufs_ger-lex266-ger-09972010-n" synset="tufs_ger-09972010-n"></Sense>
+    </LexicalEntry>
+    <LexicalEntry id="tufs_ger-lex267">
+      <Lemma writtenForm="Cousine (morph:f)" partOfSpeech="n"/>
+      <Sense id="tufs_ger-lex267-ger-09972010-n" synset="tufs_ger-09972010-n"></Sense>
+    </LexicalEntry>
+    <LexicalEntry id="tufs_ger-lex268">
+      <Lemma writtenForm="Papier" partOfSpeech="n"/>
+      <Sense id="tufs_ger-lex268-ger-06255777-n" synset="tufs_ger-06255777-n"></Sense>
+      <Sense id="tufs_ger-lex268-ger-14974264-n" synset="tufs_ger-14974264-n"></Sense>
+      <Sense id="tufs_ger-lex268-ger-80000677-n" synset="tufs_ger-80000677-n"></Sense>
+    </LexicalEntry>
+    <LexicalEntry id="tufs_ger-lex271">
+      <Lemma writtenForm="schwarz" partOfSpeech="n"/>
+      <Sense id="tufs_ger-lex271-ger-04960277-n" synset="tufs_ger-04960277-n"></Sense>
+    </LexicalEntry>
+    <LexicalEntry id="tufs_ger-lex272">
+      <Lemma writtenForm="sich bewölken" partOfSpeech="v"/>
+      <Sense id="tufs_ger-lex272-ger-02770717-v" synset="tufs_ger-02770717-v"></Sense>
+    </LexicalEntry>
+    <LexicalEntry id="tufs_ger-lex273">
+      <Lemma writtenForm="kühl" partOfSpeech="a"/>
+      <Sense id="tufs_ger-lex273-ger-02529945-a" synset="tufs_ger-02529945-a"></Sense>
+    </LexicalEntry>
+    <LexicalEntry id="tufs_ger-lex274">
+      <Lemma writtenForm="einkaufen" partOfSpeech="v"/>
+      <Sense id="tufs_ger-lex274-ger-02208265-v" synset="tufs_ger-02208265-v"></Sense>
+      <Sense id="tufs_ger-lex274-ger-02207206-v" synset="tufs_ger-02207206-v"></Sense>
+    </LexicalEntry>
+    <LexicalEntry id="tufs_ger-lex275">
+      <Lemma writtenForm="kaufen" partOfSpeech="v"/>
+      <Sense id="tufs_ger-lex275-ger-02208265-v" synset="tufs_ger-02208265-v"></Sense>
+      <Sense id="tufs_ger-lex275-ger-02207206-v" synset="tufs_ger-02207206-v"></Sense>
+    </LexicalEntry>
+    <LexicalEntry id="tufs_ger-lex278">
+      <Lemma writtenForm="schmutzig" partOfSpeech="a"/>
+      <Sense id="tufs_ger-lex278-ger-00422620-a" synset="tufs_ger-00422620-a"></Sense>
+      <Sense id="tufs_ger-lex278-ger-00419289-a" synset="tufs_ger-00419289-a"></Sense>
+      <Sense id="tufs_ger-lex278-ger-01908889-a" synset="tufs_ger-01908889-a"></Sense>
+    </LexicalEntry>
+    <LexicalEntry id="tufs_ger-lex281">
+      <Lemma writtenForm="schließen" partOfSpeech="v"/>
+      <Sense id="tufs_ger-lex281-ger-01345109-v" synset="tufs_ger-01345109-v"></Sense>
+    </LexicalEntry>
+    <LexicalEntry id="tufs_ger-lex282">
+      <Lemma writtenForm="schwimmen" partOfSpeech="v"/>
+      <Sense id="tufs_ger-lex282-ger-01960911-v" synset="tufs_ger-01960911-v"></Sense>
+    </LexicalEntry>
+    <LexicalEntry id="tufs_ger-lex283">
+      <Lemma writtenForm="hoch" partOfSpeech="a"/>
+      <Sense id="tufs_ger-lex283-ger-00933154-a" synset="tufs_ger-00933154-a"></Sense>
+    </LexicalEntry>
+    <LexicalEntry id="tufs_ger-lex284">
+      <Lemma writtenForm="Schuh" partOfSpeech="n"/>
+      <Sense id="tufs_ger-lex284-ger-04199027-n" synset="tufs_ger-04199027-n"></Sense>
+    </LexicalEntry>
+    <LexicalEntry id="tufs_ger-lex285">
+      <Lemma writtenForm="Ofen" partOfSpeech="n"/>
+      <Sense id="tufs_ger-lex285-ger-04330340-n" synset="tufs_ger-04330340-n"></Sense>
+    </LexicalEntry>
+    <LexicalEntry id="tufs_ger-lex286">
+      <Lemma writtenForm="Curry" partOfSpeech="n"/>
+      <Sense id="tufs_ger-lex286-ger-07823951-n" synset="tufs_ger-07823951-n"></Sense>
+    </LexicalEntry>
+    <LexicalEntry id="tufs_ger-lex287">
+      <Lemma writtenForm="Nase" partOfSpeech="n"/>
+      <Sense id="tufs_ger-lex287-ger-05658826-n" synset="tufs_ger-05658826-n"></Sense>
+      <Sense id="tufs_ger-lex287-ger-05598147-n" synset="tufs_ger-05598147-n"></Sense>
+    </LexicalEntry>
+    <LexicalEntry id="tufs_ger-lex289">
+      <Lemma writtenForm="Englisch" partOfSpeech="n"/>
+      <Sense id="tufs_ger-lex289-ger-06947032-n" synset="tufs_ger-06947032-n"></Sense>
+    </LexicalEntry>
+    <LexicalEntry id="tufs_ger-lex290">
+      <Lemma writtenForm="Abendessen" partOfSpeech="n"/>
+      <Sense id="tufs_ger-lex290-ger-07575726-n" synset="tufs_ger-07575726-n"></Sense>
+    </LexicalEntry>
+    <LexicalEntry id="tufs_ger-lex291">
+      <Lemma writtenForm="Taschentuch" partOfSpeech="n"/>
+      <Sense id="tufs_ger-lex291-ger-03485794-n" synset="tufs_ger-03485794-n"></Sense>
+    </LexicalEntry>
+    <LexicalEntry id="tufs_ger-lex292">
+      <Lemma writtenForm="rauchen" partOfSpeech="v"/>
+      <Sense id="tufs_ger-lex292-ger-01198101-v" synset="tufs_ger-01198101-v"></Sense>
+    </LexicalEntry>
+    <LexicalEntry id="tufs_ger-lex293">
+      <Lemma writtenForm="hängen" partOfSpeech="v"/>
+      <Sense id="tufs_ger-lex293-ger-02741003-v" synset="tufs_ger-02741003-v"></Sense>
+    </LexicalEntry>
+    <LexicalEntry id="tufs_ger-lex294">
+      <Lemma writtenForm="niedrig" partOfSpeech="a"/>
+      <Sense id="tufs_ger-lex294-ger-01206474-a" synset="tufs_ger-01206474-a"></Sense>
+    </LexicalEntry>
+    <LexicalEntry id="tufs_ger-lex295">
+      <Lemma writtenForm="Osten" partOfSpeech="n"/>
+      <Sense id="tufs_ger-lex295-ger-13832355-n" synset="tufs_ger-13832355-n"></Sense>
+    </LexicalEntry>
+    <LexicalEntry id="tufs_ger-lex296">
+      <Lemma writtenForm="Wind" partOfSpeech="n"/>
+      <Sense id="tufs_ger-lex296-ger-11525955-n" synset="tufs_ger-11525955-n"></Sense>
+    </LexicalEntry>
+    <LexicalEntry id="tufs_ger-lex298">
+      <Lemma writtenForm="lang" partOfSpeech="a"/>
+      <Sense id="tufs_ger-lex298-ger-01433493-a" synset="tufs_ger-01433493-a"></Sense>
+      <Sense id="tufs_ger-lex298-ger-01437963-a" synset="tufs_ger-01437963-a"></Sense>
+      <Sense id="tufs_ger-lex298-ger-01444022-a" synset="tufs_ger-01444022-a"></Sense>
+    </LexicalEntry>
+    <LexicalEntry id="tufs_ger-lex301">
+      <Lemma writtenForm="wie viel" partOfSpeech="n"/>
+      <Sense id="tufs_ger-lex301-ger-80001077-n" synset="tufs_ger-80001077-n"></Sense>
+    </LexicalEntry>
+    <LexicalEntry id="tufs_ger-lex302">
+      <Lemma writtenForm="was" partOfSpeech="n"/>
+      <Sense id="tufs_ger-lex302-ger-80001077-n" synset="tufs_ger-80001077-n"></Sense>
+    </LexicalEntry>
+    <LexicalEntry id="tufs_ger-lex303">
+      <Lemma writtenForm="Schüler" partOfSpeech="n"/>
+      <Sense id="tufs_ger-lex303-ger-10251779-n" synset="tufs_ger-10251779-n"></Sense>
+      <Sense id="tufs_ger-lex303-ger-10665698-n" synset="tufs_ger-10665698-n"></Sense>
+    </LexicalEntry>
+    <LexicalEntry id="tufs_ger-lex304">
+      <Lemma writtenForm="Schülerin (morph:f)" partOfSpeech="n"/>
+      <Sense id="tufs_ger-lex304-ger-10251779-n" synset="tufs_ger-10251779-n"></Sense>
+      <Sense id="tufs_ger-lex304-ger-10665698-n" synset="tufs_ger-10665698-n"></Sense>
+    </LexicalEntry>
+    <LexicalEntry id="tufs_ger-lex305">
+      <Lemma writtenForm="Student" partOfSpeech="n"/>
+      <Sense id="tufs_ger-lex305-ger-10665698-n" synset="tufs_ger-10665698-n"></Sense>
+    </LexicalEntry>
+    <LexicalEntry id="tufs_ger-lex306">
+      <Lemma writtenForm="Studentin (morph:f)" partOfSpeech="n"/>
+      <Sense id="tufs_ger-lex306-ger-10665698-n" synset="tufs_ger-10665698-n"></Sense>
+    </LexicalEntry>
+    <LexicalEntry id="tufs_ger-lex309">
+      <Lemma writtenForm="Park" partOfSpeech="n"/>
+      <Sense id="tufs_ger-lex309-ger-08615374-n" synset="tufs_ger-08615374-n"></Sense>
+    </LexicalEntry>
+    <LexicalEntry id="tufs_ger-lex310">
+      <Lemma writtenForm="welch" partOfSpeech="n"/>
+      <Sense id="tufs_ger-lex310-ger-77000064-n" synset="tufs_ger-77000064-n"></Sense>
+    </LexicalEntry>
+    <LexicalEntry id="tufs_ger-lex311">
+      <Lemma writtenForm="Eingang" partOfSpeech="n"/>
+      <Sense id="tufs_ger-lex311-ger-03290771-n" synset="tufs_ger-03290771-n"></Sense>
+    </LexicalEntry>
+    <LexicalEntry id="tufs_ger-lex313">
+      <Lemma writtenForm="Aufsatz" partOfSpeech="n"/>
+      <Sense id="tufs_ger-lex313-ger-06409752-n" synset="tufs_ger-06409752-n"></Sense>
+    </LexicalEntry>
+    <LexicalEntry id="tufs_ger-lex314">
+      <Lemma writtenForm="Geschwister" partOfSpeech="n"/>
+      <Sense id="tufs_ger-lex314-ger-10286084-n" synset="tufs_ger-10286084-n"></Sense>
+      <Sense id="tufs_ger-lex314-ger-09876454-n" synset="tufs_ger-09876454-n"></Sense>
+    </LexicalEntry>
+    <LexicalEntry id="tufs_ger-lex316">
+      <Lemma writtenForm="ausländischer Student" partOfSpeech="n"/>
+      <Sense id="tufs_ger-lex316-ger-80001731-n" synset="tufs_ger-80001731-n"></Sense>
+    </LexicalEntry>
+    <LexicalEntry id="tufs_ger-lex317">
+      <Lemma writtenForm="sie" partOfSpeech="n"/>
+      <Sense id="tufs_ger-lex317-ger-77000031-n" synset="tufs_ger-77000031-n"></Sense>
+    </LexicalEntry>
+    <LexicalEntry id="tufs_ger-lex318">
+      <Lemma writtenForm="billig" partOfSpeech="a"/>
+      <Sense id="tufs_ger-lex318-ger-00935103-a" synset="tufs_ger-00935103-a"></Sense>
+      <Sense id="tufs_ger-lex318-ger-00934199-a" synset="tufs_ger-00934199-a"></Sense>
+    </LexicalEntry>
+    <LexicalEntry id="tufs_ger-lex320">
+      <Lemma writtenForm="Aschenbecher" partOfSpeech="n"/>
+      <Sense id="tufs_ger-lex320-ger-02747802-n" synset="tufs_ger-02747802-n"></Sense>
+    </LexicalEntry>
+    <LexicalEntry id="tufs_ger-lex321">
+      <Lemma writtenForm="Oktober" partOfSpeech="n"/>
+      <Sense id="tufs_ger-lex321-ger-15213115-n" synset="tufs_ger-15213115-n"></Sense>
+    </LexicalEntry>
+    <LexicalEntry id="tufs_ger-lex322">
+      <Lemma writtenForm="Jahr" partOfSpeech="n"/>
+      <Sense id="tufs_ger-lex322-ger-15203791-n" synset="tufs_ger-15203791-n"></Sense>
+    </LexicalEntry>
+    <LexicalEntry id="tufs_ger-lex323">
+      <Lemma writtenForm="Küche" partOfSpeech="n"/>
+      <Sense id="tufs_ger-lex323-ger-03619890-n" synset="tufs_ger-03619890-n"></Sense>
+    </LexicalEntry>
+    <LexicalEntry id="tufs_ger-lex324">
+      <Lemma writtenForm="lehren" partOfSpeech="v"/>
+      <Sense id="tufs_ger-lex324-ger-00273734-v" synset="tufs_ger-00273734-v"></Sense>
+      <Sense id="tufs_ger-lex324-ger-00829107-v" synset="tufs_ger-00829107-v"></Sense>
+    </LexicalEntry>
+    <LexicalEntry id="tufs_ger-lex326">
+      <Lemma writtenForm="sprechen" partOfSpeech="v"/>
+      <Sense id="tufs_ger-lex326-ger-00963570-v" synset="tufs_ger-00963570-v"></Sense>
+    </LexicalEntry>
+    <LexicalEntry id="tufs_ger-lex327">
+      <Lemma writtenForm="antworten" partOfSpeech="v"/>
+      <Sense id="tufs_ger-lex327-ger-00815686-v" synset="tufs_ger-00815686-v"></Sense>
+      <Sense id="tufs_ger-lex327-ger-00635523-v" synset="tufs_ger-00635523-v"></Sense>
+    </LexicalEntry>
+    <LexicalEntry id="tufs_ger-lex329">
+      <Lemma writtenForm="Garten" partOfSpeech="n"/>
+      <Sense id="tufs_ger-lex329-ger-03417345-n" synset="tufs_ger-03417345-n"></Sense>
+      <Sense id="tufs_ger-lex329-ger-03417749-n" synset="tufs_ger-03417749-n"></Sense>
+    </LexicalEntry>
+    <LexicalEntry id="tufs_ger-lex331">
+      <Lemma writtenForm="Lieblings..." partOfSpeech="v"/>
+      <Sense id="tufs_ger-lex331-ger-01775164-v" synset="tufs_ger-01775164-v"></Sense>
+      <Sense id="tufs_ger-lex331-ger-01828736-v" synset="tufs_ger-01828736-v"></Sense>
+    </LexicalEntry>
+    <LexicalEntry id="tufs_ger-lex333">
+      <Lemma writtenForm="Wörterbuch" partOfSpeech="n"/>
+      <Sense id="tufs_ger-lex333-ger-06418901-n" synset="tufs_ger-06418901-n"></Sense>
+    </LexicalEntry>
+    <LexicalEntry id="tufs_ger-lex334">
+      <Lemma writtenForm="Samstag" partOfSpeech="n"/>
+      <Sense id="tufs_ger-lex334-ger-15164570-n" synset="tufs_ger-15164570-n"></Sense>
+    </LexicalEntry>
+    <LexicalEntry id="tufs_ger-lex335">
+      <Lemma writtenForm="Spaziergang" partOfSpeech="n"/>
+      <Sense id="tufs_ger-lex335-ger-00284798-n" synset="tufs_ger-00284798-n"></Sense>
+      <Sense id="tufs_ger-lex335-ger-00284101-n" synset="tufs_ger-00284101-n"></Sense>
+    </LexicalEntry>
+    <LexicalEntry id="tufs_ger-lex337">
+      <Lemma writtenForm="tun" partOfSpeech="v"/>
+      <Sense id="tufs_ger-lex337-ger-01712704-v" synset="tufs_ger-01712704-v"></Sense>
+    </LexicalEntry>
+    <LexicalEntry id="tufs_ger-lex338">
+      <Lemma writtenForm="Schule" partOfSpeech="n"/>
+      <Sense id="tufs_ger-lex338-ger-08277393-n" synset="tufs_ger-08277393-n"></Sense>
+      <Sense id="tufs_ger-lex338-ger-08276720-n" synset="tufs_ger-08276720-n"></Sense>
+    </LexicalEntry>
+    <LexicalEntry id="tufs_ger-lex340">
+      <Lemma writtenForm="langsam" partOfSpeech="r"/>
+      <Sense id="tufs_ger-lex340-ger-00161630-r" synset="tufs_ger-00161630-r"></Sense>
+    </LexicalEntry>
+    <LexicalEntry id="tufs_ger-lex341">
+      <Lemma writtenForm="letzte Woche" partOfSpeech="n"/>
+      <Sense id="tufs_ger-lex341-ger-90000506-n" synset="tufs_ger-90000506-n"></Sense>
+    </LexicalEntry>
+    <LexicalEntry id="tufs_ger-lex342">
+      <Lemma writtenForm="Jacke" partOfSpeech="n"/>
+      <Sense id="tufs_ger-lex342-ger-03589791-n" synset="tufs_ger-03589791-n"></Sense>
+      <Sense id="tufs_ger-lex342-ger-03057021-n" synset="tufs_ger-03057021-n"></Sense>
+    </LexicalEntry>
+    <LexicalEntry id="tufs_ger-lex343">
+      <Lemma writtenForm="Mantel" partOfSpeech="n"/>
+      <Sense id="tufs_ger-lex343-ger-03057021-n" synset="tufs_ger-03057021-n"></Sense>
+    </LexicalEntry>
+    <LexicalEntry id="tufs_ger-lex345">
+      <Lemma writtenForm="Japanisch" partOfSpeech="n"/>
+      <Sense id="tufs_ger-lex345-ger-06929279-n" synset="tufs_ger-06929279-n"></Sense>
+    </LexicalEntry>
+    <LexicalEntry id="tufs_ger-lex346">
+      <Lemma writtenForm="Ausgang" partOfSpeech="n"/>
+      <Sense id="tufs_ger-lex346-ger-03303965-n" synset="tufs_ger-03303965-n"></Sense>
+    </LexicalEntry>
+    <LexicalEntry id="tufs_ger-lex347">
+      <Lemma writtenForm="Großvater" partOfSpeech="n"/>
+      <Sense id="tufs_ger-lex347-ger-10142391-n" synset="tufs_ger-10142391-n"></Sense>
+    </LexicalEntry>
+    <LexicalEntry id="tufs_ger-lex348">
+      <Lemma writtenForm="Tee" partOfSpeech="n"/>
+      <Sense id="tufs_ger-lex348-ger-07935152-n" synset="tufs_ger-07935152-n"></Sense>
+      <Sense id="tufs_ger-lex348-ger-07934530-n" synset="tufs_ger-07934530-n"></Sense>
+      <Sense id="tufs_ger-lex348-ger-07933274-n" synset="tufs_ger-07933274-n"></Sense>
+    </LexicalEntry>
+    <LexicalEntry id="tufs_ger-lex351">
+      <Lemma writtenForm="Ehepaar" partOfSpeech="n"/>
+      <Sense id="tufs_ger-lex351-ger-07989373-n" synset="tufs_ger-07989373-n"></Sense>
+    </LexicalEntry>
+    <LexicalEntry id="tufs_ger-lex352">
+      <Lemma writtenForm="Gemüsehändler" partOfSpeech="n"/>
+      <Sense id="tufs_ger-lex352-ger-10146559-n" synset="tufs_ger-10146559-n"></Sense>
+      <Sense id="tufs_ger-lex352-ger-03457686-n" synset="tufs_ger-03457686-n"></Sense>
+    </LexicalEntry>
+    <LexicalEntry id="tufs_ger-lex354">
+      <Lemma writtenForm="Tasse" partOfSpeech="n"/>
+      <Sense id="tufs_ger-lex354-ger-03147509-n" synset="tufs_ger-03147509-n"></Sense>
+    </LexicalEntry>
+    <LexicalEntry id="tufs_ger-lex355">
+      <Lemma writtenForm="Tasche" partOfSpeech="n"/>
+      <Sense id="tufs_ger-lex355-ger-02774152-n" synset="tufs_ger-02774152-n"></Sense>
+      <Sense id="tufs_ger-lex355-ger-03972524-n" synset="tufs_ger-03972524-n"></Sense>
+      <Sense id="tufs_ger-lex355-ger-02773037-n" synset="tufs_ger-02773037-n"></Sense>
+    </LexicalEntry>
+    <LexicalEntry id="tufs_ger-lex356">
+      <Lemma writtenForm="blau" partOfSpeech="n"/>
+      <Sense id="tufs_ger-lex356-ger-04968895-n" synset="tufs_ger-04968895-n"></Sense>
+    </LexicalEntry>
+    <LexicalEntry id="tufs_ger-lex357">
+      <Lemma writtenForm="wenig" partOfSpeech="a"/>
+      <Sense id="tufs_ger-lex357-ger-01552885-a" synset="tufs_ger-01552885-a"></Sense>
+      <Sense id="tufs_ger-lex357-ger-01555416-a" synset="tufs_ger-01555416-a"></Sense>
+    </LexicalEntry>
+    <LexicalEntry id="tufs_ger-lex359">
+      <Lemma writtenForm="schlafen" partOfSpeech="v"/>
+      <Sense id="tufs_ger-lex359-ger-00017865-v" synset="tufs_ger-00017865-v"></Sense>
+    </LexicalEntry>
+    <LexicalEntry id="tufs_ger-lex360">
+      <Lemma writtenForm="nah" partOfSpeech="a"/>
+      <Sense id="tufs_ger-lex360-ger-00445169-a" synset="tufs_ger-00445169-a"></Sense>
+      <Sense id="tufs_ger-lex360-ger-00450147-a" synset="tufs_ger-00450147-a"></Sense>
+      <Sense id="tufs_ger-lex360-ger-00444519-a" synset="tufs_ger-00444519-a"></Sense>
+    </LexicalEntry>
+    <LexicalEntry id="tufs_ger-lex363">
+      <Lemma writtenForm="Arbeit" partOfSpeech="n"/>
+      <Sense id="tufs_ger-lex363-ger-00584367-n" synset="tufs_ger-00584367-n"></Sense>
+    </LexicalEntry>
+    <LexicalEntry id="tufs_ger-lex364">
+      <Lemma writtenForm="Frühstück" partOfSpeech="n"/>
+      <Sense id="tufs_ger-lex364-ger-07574602-n" synset="tufs_ger-07574602-n"></Sense>
+    </LexicalEntry>
+    <LexicalEntry id="tufs_ger-lex365">
+      <Lemma writtenForm="Familie" partOfSpeech="n"/>
+      <Sense id="tufs_ger-lex365-ger-10236304-n" synset="tufs_ger-10236304-n"></Sense>
+      <Sense id="tufs_ger-lex365-ger-08078020-n" synset="tufs_ger-08078020-n"></Sense>
+      <Sense id="tufs_ger-lex365-ger-07970406-n" synset="tufs_ger-07970406-n"></Sense>
+      <Sense id="tufs_ger-lex365-ger-14513694-n" synset="tufs_ger-14513694-n"></Sense>
+    </LexicalEntry>
+    <LexicalEntry id="tufs_ger-lex369">
+      <Lemma writtenForm="Kind" partOfSpeech="n"/>
+      <Sense id="tufs_ger-lex369-ger-09918248-n" synset="tufs_ger-09918248-n"></Sense>
+    </LexicalEntry>
+    <LexicalEntry id="tufs_ger-lex370">
+      <Lemma writtenForm="Gemüse" partOfSpeech="n"/>
+      <Sense id="tufs_ger-lex370-ger-07707451-n" synset="tufs_ger-07707451-n"></Sense>
+      <Sense id="tufs_ger-lex370-ger-12212361-n" synset="tufs_ger-12212361-n"></Sense>
+    </LexicalEntry>
+    <LexicalEntry id="tufs_ger-lex372">
+      <Lemma writtenForm="Stock" partOfSpeech="n"/>
+      <Sense id="tufs_ger-lex372-ger-03365991-n" synset="tufs_ger-03365991-n"></Sense>
+    </LexicalEntry>
+    <LexicalEntry id="tufs_ger-lex373">
+      <Lemma writtenForm="schnell" partOfSpeech="a"/>
+      <Sense id="tufs_ger-lex373-ger-00976508-a" synset="tufs_ger-00976508-a"></Sense>
+      <Sense id="tufs_ger-lex373-ger-00979862-a" synset="tufs_ger-00979862-a"></Sense>
+      <Sense id="tufs_ger-lex373-ger-00981818-a" synset="tufs_ger-00981818-a"></Sense>
+    </LexicalEntry>
+    <LexicalEntry id="tufs_ger-lex376">
+      <Lemma writtenForm="Huhn" partOfSpeech="n"/>
+      <Sense id="tufs_ger-lex376-ger-07644967-n" synset="tufs_ger-07644967-n"></Sense>
+      <Sense id="tufs_ger-lex376-ger-07644382-n" synset="tufs_ger-07644382-n"></Sense>
+    </LexicalEntry>
+    <LexicalEntry id="tufs_ger-lex378">
+      <Lemma writtenForm="Salz" partOfSpeech="n"/>
+      <Sense id="tufs_ger-lex378-ger-07813107-n" synset="tufs_ger-07813107-n"></Sense>
+    </LexicalEntry>
+    <LexicalEntry id="tufs_ger-lex379">
+      <Lemma writtenForm="Sojasoße" partOfSpeech="n"/>
+      <Sense id="tufs_ger-lex379-ger-07825972-n" synset="tufs_ger-07825972-n"></Sense>
+    </LexicalEntry>
+    <LexicalEntry id="tufs_ger-lex380">
+      <Lemma writtenForm="ankommen" partOfSpeech="v"/>
+      <Sense id="tufs_ger-lex380-ger-02005948-v" synset="tufs_ger-02005948-v"></Sense>
+    </LexicalEntry>
+    <LexicalEntry id="tufs_ger-lex381">
+      <Lemma writtenForm="Taxi" partOfSpeech="n"/>
+      <Sense id="tufs_ger-lex381-ger-02930766-n" synset="tufs_ger-02930766-n"></Sense>
+    </LexicalEntry>
+    <LexicalEntry id="tufs_ger-lex382">
+      <Lemma writtenForm="Schwimmbad" partOfSpeech="n"/>
+      <Sense id="tufs_ger-lex382-ger-04371225-n" synset="tufs_ger-04371225-n"></Sense>
+    </LexicalEntry>
+    <LexicalEntry id="tufs_ger-lex383">
+      <Lemma writtenForm="praktisch" partOfSpeech="a"/>
+      <Sense id="tufs_ger-lex383-ger-00604617-a" synset="tufs_ger-00604617-a"></Sense>
+    </LexicalEntry>
+    <LexicalEntry id="tufs_ger-lex384">
+      <Lemma writtenForm="Sommer" partOfSpeech="n"/>
+      <Sense id="tufs_ger-lex384-ger-15237250-n" synset="tufs_ger-15237250-n"></Sense>
+    </LexicalEntry>
+    <LexicalEntry id="tufs_ger-lex385">
+      <Lemma writtenForm="U-Bahn" partOfSpeech="n"/>
+      <Sense id="tufs_ger-lex385-ger-04349306-n" synset="tufs_ger-04349306-n"></Sense>
+      <Sense id="tufs_ger-lex385-ger-03757138-n" synset="tufs_ger-03757138-n"></Sense>
+    </LexicalEntry>
+    <LexicalEntry id="tufs_ger-lex387">
+      <Lemma writtenForm="wie" partOfSpeech="n"/>
+      <Sense id="tufs_ger-lex387-ger-77000090-n" synset="tufs_ger-77000090-n"></Sense>
+    </LexicalEntry>
+    <LexicalEntry id="tufs_ger-lex388">
+      <Lemma writtenForm="wie" partOfSpeech="x"/>
+      <Sense id="tufs_ger-lex388-ger-80001331-x" synset="tufs_ger-80001331-x"></Sense>
+    </LexicalEntry>
+    <LexicalEntry id="tufs_ger-lex389">
+      <Lemma writtenForm="wann" partOfSpeech="n"/>
+      <Sense id="tufs_ger-lex389-ger-77000104-n" synset="tufs_ger-77000104-n"></Sense>
+    </LexicalEntry>
+    <LexicalEntry id="tufs_ger-lex390">
+      <Lemma writtenForm="Zimmer" partOfSpeech="n"/>
+      <Sense id="tufs_ger-lex390-ger-04105893-n" synset="tufs_ger-04105893-n"></Sense>
+    </LexicalEntry>
+    <LexicalEntry id="tufs_ger-lex391">
+      <Lemma writtenForm="Apartment" partOfSpeech="n"/>
+      <Sense id="tufs_ger-lex391-ger-04105893-n" synset="tufs_ger-04105893-n"></Sense>
+    </LexicalEntry>
+    <LexicalEntry id="tufs_ger-lex392">
+      <Lemma writtenForm="Heft" partOfSpeech="n"/>
+      <Sense id="tufs_ger-lex392-ger-06415419-n" synset="tufs_ger-06415419-n"></Sense>
+    </LexicalEntry>
+    <LexicalEntry id="tufs_ger-lex393">
+      <Lemma writtenForm="berühmt" partOfSpeech="a"/>
+      <Sense id="tufs_ger-lex393-ger-01375831-a" synset="tufs_ger-01375831-a"></Sense>
+      <Sense id="tufs_ger-lex393-ger-01376705-a" synset="tufs_ger-01376705-a"></Sense>
+    </LexicalEntry>
+    <LexicalEntry id="tufs_ger-lex395">
+      <Lemma writtenForm="erzählen" partOfSpeech="v"/>
+      <Sense id="tufs_ger-lex395-ger-00953216-v" synset="tufs_ger-00953216-v"></Sense>
+      <Sense id="tufs_ger-lex395-ger-00962447-v" synset="tufs_ger-00962447-v"></Sense>
+    </LexicalEntry>
+    <LexicalEntry id="tufs_ger-lex398">
+      <Lemma writtenForm="sich setzen" partOfSpeech="v"/>
+      <Sense id="tufs_ger-lex398-ger-01984902-v" synset="tufs_ger-01984902-v"></Sense>
+    </LexicalEntry>
+    <LexicalEntry id="tufs_ger-lex399">
+      <Lemma writtenForm="während" partOfSpeech="r"/>
+      <Sense id="tufs_ger-lex399-ger-00120095-r" synset="tufs_ger-00120095-r"></Sense>
+      <Sense id="tufs_ger-lex399-ger-00120223-r" synset="tufs_ger-00120223-r"></Sense>
+    </LexicalEntry>
+    <LexicalEntry id="tufs_ger-lex401">
+      <Lemma writtenForm="klein" partOfSpeech="a"/>
+      <Sense id="tufs_ger-lex401-ger-02386612-a" synset="tufs_ger-02386612-a"></Sense>
+    </LexicalEntry>
+    <LexicalEntry id="tufs_ger-lex402">
+      <Lemma writtenForm="kurz" partOfSpeech="a"/>
+      <Sense id="tufs_ger-lex402-ger-01436003-a" synset="tufs_ger-01436003-a"></Sense>
+      <Sense id="tufs_ger-lex402-ger-01442186-a" synset="tufs_ger-01442186-a"></Sense>
+      <Sense id="tufs_ger-lex402-ger-01442826-a" synset="tufs_ger-01442826-a"></Sense>
+      <Sense id="tufs_ger-lex402-ger-02386612-a" synset="tufs_ger-02386612-a"></Sense>
+    </LexicalEntry>
+    <LexicalEntry id="tufs_ger-lex403">
+      <Lemma writtenForm="Stäbchen" partOfSpeech="n"/>
+      <Sense id="tufs_ger-lex403-ger-03025755-n" synset="tufs_ger-03025755-n"></Sense>
+    </LexicalEntry>
+    <LexicalEntry id="tufs_ger-lex404">
+      <Lemma writtenForm="Nachmittag" partOfSpeech="n"/>
+      <Sense id="tufs_ger-lex404-ger-15166191-n" synset="tufs_ger-15166191-n"></Sense>
+    </LexicalEntry>
+    <LexicalEntry id="tufs_ger-lex405">
+      <Lemma writtenForm="diesen Monat" partOfSpeech="n"/>
+      <Sense id="tufs_ger-lex405-ger-80000080-n" synset="tufs_ger-80000080-n"></Sense>
+    </LexicalEntry>
+    <LexicalEntry id="tufs_ger-lex406">
+      <Lemma writtenForm="Brief" partOfSpeech="n"/>
+      <Sense id="tufs_ger-lex406-ger-06624161-n" synset="tufs_ger-06624161-n"></Sense>
+    </LexicalEntry>
+    <LexicalEntry id="tufs_ger-lex407">
+      <Lemma writtenForm="biegen" partOfSpeech="v"/>
+      <Sense id="tufs_ger-lex407-ger-01909812-v" synset="tufs_ger-01909812-v"></Sense>
+    </LexicalEntry>
+    <LexicalEntry id="tufs_ger-lex408">
+      <Lemma writtenForm="Kaffee" partOfSpeech="n"/>
+      <Sense id="tufs_ger-lex408-ger-07929519-n" synset="tufs_ger-07929519-n"></Sense>
+    </LexicalEntry>
+    <LexicalEntry id="tufs_ger-lex409">
+      <Lemma writtenForm="singen" partOfSpeech="v"/>
+      <Sense id="tufs_ger-lex409-ger-01729431-v" synset="tufs_ger-01729431-v"></Sense>
+    </LexicalEntry>
+    <LexicalEntry id="tufs_ger-lex410">
+      <Lemma writtenForm="Regen" partOfSpeech="n"/>
+      <Sense id="tufs_ger-lex410-ger-11501381-n" synset="tufs_ger-11501381-n"></Sense>
+    </LexicalEntry>
+    <LexicalEntry id="tufs_ger-lex411">
+      <Lemma writtenForm="Zitrone" partOfSpeech="n"/>
+      <Sense id="tufs_ger-lex411-ger-07749582-n" synset="tufs_ger-07749582-n"></Sense>
+    </LexicalEntry>
+    <LexicalEntry id="tufs_ger-lex412">
+      <Lemma writtenForm="vorgestern" partOfSpeech="n"/>
+      <Sense id="tufs_ger-lex412-ger-90000511-n" synset="tufs_ger-90000511-n"></Sense>
+    </LexicalEntry>
+    <LexicalEntry id="tufs_ger-lex413">
+      <Lemma writtenForm="dann" partOfSpeech="r"/>
+      <Sense id="tufs_ger-lex413-ger-00118032-r" synset="tufs_ger-00118032-r"></Sense>
+    </LexicalEntry>
+    <LexicalEntry id="tufs_ger-lex414">
+      <Lemma writtenForm="also" partOfSpeech="r"/>
+      <Sense id="tufs_ger-lex414-ger-00118032-r" synset="tufs_ger-00118032-r"></Sense>
+    </LexicalEntry>
+    <LexicalEntry id="tufs_ger-lex415">
+      <Lemma writtenForm="Zug" partOfSpeech="n"/>
+      <Sense id="tufs_ger-lex415-ger-04468005-n" synset="tufs_ger-04468005-n"></Sense>
+    </LexicalEntry>
+    <LexicalEntry id="tufs_ger-lex416">
+      <Lemma writtenForm="wir" partOfSpeech="n"/>
+      <Sense id="tufs_ger-lex416-ger-77000002-n" synset="tufs_ger-77000002-n"></Sense>
+    </LexicalEntry>
+    <LexicalEntry id="tufs_ger-lex417">
+      <Lemma writtenForm="Monat" partOfSpeech="n"/>
+      <Sense id="tufs_ger-lex417-ger-15206296-n" synset="tufs_ger-15206296-n"></Sense>
+    </LexicalEntry>
+    <LexicalEntry id="tufs_ger-lex418">
+      <Lemma writtenForm="Fahrrad" partOfSpeech="n"/>
+      <Sense id="tufs_ger-lex418-ger-02834778-n" synset="tufs_ger-02834778-n"></Sense>
+    </LexicalEntry>
+    <LexicalEntry id="tufs_ger-lex419">
+      <Lemma writtenForm="Zeitschrift" partOfSpeech="n"/>
+      <Sense id="tufs_ger-lex419-ger-06597466-n" synset="tufs_ger-06597466-n"></Sense>
+      <Sense id="tufs_ger-lex419-ger-06595351-n" synset="tufs_ger-06595351-n"></Sense>
+      <Sense id="tufs_ger-lex419-ger-03704210-n" synset="tufs_ger-03704210-n"></Sense>
+    </LexicalEntry>
+    <LexicalEntry id="tufs_ger-lex422">
+      <Lemma writtenForm="Klasse" partOfSpeech="n"/>
+      <Sense id="tufs_ger-lex422-ger-08238463-n" synset="tufs_ger-08238463-n"></Sense>
+    </LexicalEntry>
+    <LexicalEntry id="tufs_ger-lex423">
+      <Lemma writtenForm="ausziehen" partOfSpeech="v"/>
+      <Sense id="tufs_ger-lex423-ger-00050454-v" synset="tufs_ger-00050454-v"></Sense>
+    </LexicalEntry>
+    <LexicalEntry id="tufs_ger-lex424">
+      <Lemma writtenForm="wohnen" partOfSpeech="v"/>
+      <Sense id="tufs_ger-lex424-ger-02649830-v" synset="tufs_ger-02649830-v"></Sense>
+    </LexicalEntry>
+    <LexicalEntry id="tufs_ger-lex425">
+      <Lemma writtenForm="morgen" partOfSpeech="n"/>
+      <Sense id="tufs_ger-lex425-ger-15155891-n" synset="tufs_ger-15155891-n"></Sense>
+    </LexicalEntry>
+    <LexicalEntry id="tufs_ger-lex426">
+      <Lemma writtenForm="Dusche" partOfSpeech="n"/>
+      <Sense id="tufs_ger-lex426-ger-04208936-n" synset="tufs_ger-04208936-n"></Sense>
+    </LexicalEntry>
+    <LexicalEntry id="tufs_ger-lex427">
+      <Lemma writtenForm="Dezember" partOfSpeech="n"/>
+      <Sense id="tufs_ger-lex427-ger-15213774-n" synset="tufs_ger-15213774-n"></Sense>
+    </LexicalEntry>
+    <LexicalEntry id="tufs_ger-lex428">
+      <Lemma writtenForm="lesen" partOfSpeech="v"/>
+      <Sense id="tufs_ger-lex428-ger-00625119-v" synset="tufs_ger-00625119-v"></Sense>
+    </LexicalEntry>
+    <LexicalEntry id="tufs_ger-lex431">
+      <Lemma writtenForm="Geld" partOfSpeech="n"/>
+      <Sense id="tufs_ger-lex431-ger-13384557-n" synset="tufs_ger-13384557-n"></Sense>
+      <Sense id="tufs_ger-lex431-ger-13250542-n" synset="tufs_ger-13250542-n"></Sense>
+    </LexicalEntry>
+    <LexicalEntry id="tufs_ger-lex433">
+      <Lemma writtenForm="Gesicht" partOfSpeech="n"/>
+      <Sense id="tufs_ger-lex433-ger-05600637-n" synset="tufs_ger-05600637-n"></Sense>
+    </LexicalEntry>
+    <LexicalEntry id="tufs_ger-lex434">
+      <Lemma writtenForm="Bonbon" partOfSpeech="n"/>
+      <Sense id="tufs_ger-lex434-ger-07597365-n" synset="tufs_ger-07597365-n"></Sense>
+    </LexicalEntry>
+    <LexicalEntry id="tufs_ger-lex435">
+      <Lemma writtenForm="nein" partOfSpeech="r"/>
+      <Sense id="tufs_ger-lex435-ger-00024356-r" synset="tufs_ger-00024356-r"></Sense>
+    </LexicalEntry>
+    <LexicalEntry id="tufs_ger-lex436">
+      <Lemma writtenForm="Kaufhaus" partOfSpeech="n"/>
+      <Sense id="tufs_ger-lex436-ger-03176763-n" synset="tufs_ger-03176763-n"></Sense>
+    </LexicalEntry>
+    <LexicalEntry id="tufs_ger-lex438">
+      <Lemma writtenForm="Füllfederhalter" partOfSpeech="n"/>
+      <Sense id="tufs_ger-lex438-ger-03388183-n" synset="tufs_ger-03388183-n"></Sense>
+    </LexicalEntry>
+    <LexicalEntry id="tufs_ger-lex439">
+      <Lemma writtenForm="solch" partOfSpeech="a"/>
+      <Sense id="tufs_ger-lex439-ger-77000089-a" synset="tufs_ger-77000089-a"></Sense>
+    </LexicalEntry>
+    <LexicalEntry id="tufs_ger-lex440">
+      <Lemma writtenForm="Donnerstag" partOfSpeech="n"/>
+      <Sense id="tufs_ger-lex440-ger-15164354-n" synset="tufs_ger-15164354-n"></Sense>
+    </LexicalEntry>
+    <LexicalEntry id="tufs_ger-lex443">
+      <Lemma writtenForm="spät" partOfSpeech="a"/>
+      <Sense id="tufs_ger-lex443-ger-01901186-a" synset="tufs_ger-01901186-a"></Sense>
+      <Sense id="tufs_ger-lex443-ger-00816481-a" synset="tufs_ger-00816481-a"></Sense>
+    </LexicalEntry>
+    <LexicalEntry id="tufs_ger-lex445">
+      <Lemma writtenForm="Farbe" partOfSpeech="n"/>
+      <Sense id="tufs_ger-lex445-ger-04956594-n" synset="tufs_ger-04956594-n"></Sense>
+      <Sense id="tufs_ger-lex445-ger-04674968-n" synset="tufs_ger-04674968-n"></Sense>
+    </LexicalEntry>
+    <LexicalEntry id="tufs_ger-lex447">
+      <Lemma writtenForm="Sprache" partOfSpeech="n"/>
+      <Sense id="tufs_ger-lex447-ger-07109730-n" synset="tufs_ger-07109730-n"></Sense>
+      <Sense id="tufs_ger-lex447-ger-06282651-n" synset="tufs_ger-06282651-n"></Sense>
+    </LexicalEntry>
+    <LexicalEntry id="tufs_ger-lex449">
+      <Lemma writtenForm="so" partOfSpeech="r"/>
+      <Sense id="tufs_ger-lex449-ger-00121135-r" synset="tufs_ger-00121135-r"></Sense>
+    </LexicalEntry>
+    <LexicalEntry id="tufs_ger-lex450">
+      <Lemma writtenForm="rot" partOfSpeech="n"/>
+      <Sense id="tufs_ger-lex450-ger-04962784-n" synset="tufs_ger-04962784-n"></Sense>
+    </LexicalEntry>
+    <LexicalEntry id="tufs_ger-lex451">
+      <Lemma writtenForm="Paket" partOfSpeech="n"/>
+      <Sense id="tufs_ger-lex451-ger-02774630-n" synset="tufs_ger-02774630-n"></Sense>
+      <Sense id="tufs_ger-lex451-ger-03871083-n" synset="tufs_ger-03871083-n"></Sense>
+    </LexicalEntry>
+    <LexicalEntry id="tufs_ger-lex453">
+      <Lemma writtenForm="Alkohol" partOfSpeech="n"/>
+      <Sense id="tufs_ger-lex453-ger-07891433-n" synset="tufs_ger-07891433-n"></Sense>
+      <Sense id="tufs_ger-lex453-ger-07884567-n" synset="tufs_ger-07884567-n"></Sense>
+      <Sense id="tufs_ger-lex453-ger-07891726-n" synset="tufs_ger-07891726-n"></Sense>
+    </LexicalEntry>
+    <LexicalEntry id="tufs_ger-lex454">
+      <Lemma writtenForm="Wein" partOfSpeech="n"/>
+      <Sense id="tufs_ger-lex454-ger-07891433-n" synset="tufs_ger-07891433-n"></Sense>
+      <Sense id="tufs_ger-lex454-ger-07884567-n" synset="tufs_ger-07884567-n"></Sense>
+      <Sense id="tufs_ger-lex454-ger-07891726-n" synset="tufs_ger-07891726-n"></Sense>
+    </LexicalEntry>
+    <LexicalEntry id="tufs_ger-lex459">
+      <Lemma writtenForm="Freitag" partOfSpeech="n"/>
+      <Sense id="tufs_ger-lex459-ger-15164463-n" synset="tufs_ger-15164463-n"></Sense>
+    </LexicalEntry>
+    <LexicalEntry id="tufs_ger-lex460">
+      <Lemma writtenForm="Kreuzung" partOfSpeech="n"/>
+      <Sense id="tufs_ger-lex460-ger-03581125-n" synset="tufs_ger-03581125-n"></Sense>
+    </LexicalEntry>
+    <LexicalEntry id="tufs_ger-lex461">
+      <Lemma writtenForm="dick" partOfSpeech="a"/>
+      <Sense id="tufs_ger-lex461-ger-02415390-a" synset="tufs_ger-02415390-a"></Sense>
+      <Sense id="tufs_ger-lex461-ger-02410393-a" synset="tufs_ger-02410393-a"></Sense>
+      <Sense id="tufs_ger-lex461-ger-02411224-a" synset="tufs_ger-02411224-a"></Sense>
+    </LexicalEntry>
+    <LexicalEntry id="tufs_ger-lex464">
+      <Lemma writtenForm="regnen" partOfSpeech="v"/>
+      <Sense id="tufs_ger-lex464-ger-02756821-v" synset="tufs_ger-02756821-v"></Sense>
+    </LexicalEntry>
+    <LexicalEntry id="tufs_ger-lex465">
+      <Lemma writtenForm="warm" partOfSpeech="a"/>
+      <Sense id="tufs_ger-lex465-ger-02529264-a" synset="tufs_ger-02529264-a"></Sense>
+    </LexicalEntry>
+    <LexicalEntry id="tufs_ger-lex467">
+      <Lemma writtenForm="Großmutter" partOfSpeech="n"/>
+      <Sense id="tufs_ger-lex467-ger-10142747-n" synset="tufs_ger-10142747-n"></Sense>
+    </LexicalEntry>
+    <LexicalEntry id="tufs_ger-lex468">
+      <Lemma writtenForm="Brot" partOfSpeech="n"/>
+      <Sense id="tufs_ger-lex468-ger-07679356-n" synset="tufs_ger-07679356-n"></Sense>
+    </LexicalEntry>
+    <LexicalEntry id="tufs_ger-lex469">
+      <Lemma writtenForm="Haus" partOfSpeech="n"/>
+      <Sense id="tufs_ger-lex469-ger-03259505-n" synset="tufs_ger-03259505-n"></Sense>
+      <Sense id="tufs_ger-lex469-ger-03544360-n" synset="tufs_ger-03544360-n"></Sense>
+      <Sense id="tufs_ger-lex469-ger-08559508-n" synset="tufs_ger-08559508-n"></Sense>
+    </LexicalEntry>
+    <LexicalEntry id="tufs_ger-lex471">
+      <Lemma writtenForm="Wohnung" partOfSpeech="n"/>
+      <Sense id="tufs_ger-lex471-ger-03544360-n" synset="tufs_ger-03544360-n"></Sense>
+      <Sense id="tufs_ger-lex471-ger-08559508-n" synset="tufs_ger-08559508-n"></Sense>
+    </LexicalEntry>
+    <LexicalEntry id="tufs_ger-lex474">
+      <Lemma writtenForm="Februar" partOfSpeech="n"/>
+      <Sense id="tufs_ger-lex474-ger-15210486-n" synset="tufs_ger-15210486-n"></Sense>
+    </LexicalEntry>
+    <LexicalEntry id="tufs_ger-lex475">
+      <Lemma writtenForm="Nacht" partOfSpeech="n"/>
+      <Sense id="tufs_ger-lex475-ger-15155747-n" synset="tufs_ger-15155747-n"></Sense>
+      <Sense id="tufs_ger-lex475-ger-15167349-n" synset="tufs_ger-15167349-n"></Sense>
+      <Sense id="tufs_ger-lex475-ger-15167474-n" synset="tufs_ger-15167474-n"></Sense>
+      <Sense id="tufs_ger-lex475-ger-15167027-n" synset="tufs_ger-15167027-n"></Sense>
+    </LexicalEntry>
+    <LexicalEntry id="tufs_ger-lex478">
+      <Lemma writtenForm="gestern Abend" partOfSpeech="n"/>
+      <Sense id="tufs_ger-lex478-ger-15166462-n" synset="tufs_ger-15166462-n"></Sense>
+      <Sense id="tufs_ger-lex478-ger-15167027-n" synset="tufs_ger-15167027-n"></Sense>
+    </LexicalEntry>
+    <LexicalEntry id="tufs_ger-lex480">
+      <Lemma writtenForm="Glas" partOfSpeech="n"/>
+      <Sense id="tufs_ger-lex480-ger-03438257-n" synset="tufs_ger-03438257-n"></Sense>
+    </LexicalEntry>
+    <LexicalEntry id="tufs_ger-lex481">
+      <Lemma writtenForm="draußen" partOfSpeech="n"/>
+      <Sense id="tufs_ger-lex481-ger-08613593-n" synset="tufs_ger-08613593-n"></Sense>
+    </LexicalEntry>
+    <LexicalEntry id="tufs_ger-lex482">
+      <Lemma writtenForm="Film" partOfSpeech="n"/>
+      <Sense id="tufs_ger-lex482-ger-03338821-n" synset="tufs_ger-03338821-n"></Sense>
+      <Sense id="tufs_ger-lex482-ger-06262567-n" synset="tufs_ger-06262567-n"></Sense>
+      <Sense id="tufs_ger-lex482-ger-06613686-n" synset="tufs_ger-06613686-n"></Sense>
+    </LexicalEntry>
+    <LexicalEntry id="tufs_ger-lex486">
+      <Lemma writtenForm="Straße" partOfSpeech="n"/>
+      <Sense id="tufs_ger-lex486-ger-04096066-n" synset="tufs_ger-04096066-n"></Sense>
+    </LexicalEntry>
+    <LexicalEntry id="tufs_ger-lex487">
+      <Lemma writtenForm="September" partOfSpeech="n"/>
+      <Sense id="tufs_ger-lex487-ger-15212739-n" synset="tufs_ger-15212739-n"></Sense>
+    </LexicalEntry>
+    <LexicalEntry id="tufs_ger-lex488">
+      <Lemma writtenForm="der" partOfSpeech="a"/>
+      <Sense id="tufs_ger-lex488-ger-77000079-a" synset="tufs_ger-77000079-a"></Sense>
+    </LexicalEntry>
+    <LexicalEntry id="tufs_ger-lex489">
+      <Lemma writtenForm="wolkig" partOfSpeech="n"/>
+      <Sense id="tufs_ger-lex489-ger-14524198-n" synset="tufs_ger-14524198-n"></Sense>
+    </LexicalEntry>
+    <LexicalEntry id="tufs_ger-lex490">
+      <Lemma writtenForm="Länge" partOfSpeech="n"/>
+      <Sense id="tufs_ger-lex490-ger-13828795-n" synset="tufs_ger-13828795-n"></Sense>
+    </LexicalEntry>
+    <LexicalEntry id="tufs_ger-lex491">
+      <Lemma writtenForm="Musik" partOfSpeech="n"/>
+      <Sense id="tufs_ger-lex491-ger-05718935-n" synset="tufs_ger-05718935-n"></Sense>
+      <Sense id="tufs_ger-lex491-ger-05718556-n" synset="tufs_ger-05718556-n"></Sense>
+      <Sense id="tufs_ger-lex491-ger-00543233-n" synset="tufs_ger-00543233-n"></Sense>
+      <Sense id="tufs_ger-lex491-ger-07020895-n" synset="tufs_ger-07020895-n"></Sense>
+    </LexicalEntry>
+    <LexicalEntry id="tufs_ger-lex495">
+      <Lemma writtenForm="Nähe" partOfSpeech="r"/>
+      <Sense id="tufs_ger-lex495-ger-00409709-r" synset="tufs_ger-00409709-r"></Sense>
+    </LexicalEntry>
+    <LexicalEntry id="tufs_ger-lex496">
+      <Lemma writtenForm="Nähe" partOfSpeech="n"/>
+      <Sense id="tufs_ger-lex496-ger-08641113-n" synset="tufs_ger-08641113-n"></Sense>
+    </LexicalEntry>
+    <LexicalEntry id="tufs_ger-lex497">
+      <Lemma writtenForm="Flur" partOfSpeech="n"/>
+      <Sense id="tufs_ger-lex497-ger-03112099-n" synset="tufs_ger-03112099-n"></Sense>
+    </LexicalEntry>
+    <LexicalEntry id="tufs_ger-lex498">
+      <Lemma writtenForm="Bibliothek" partOfSpeech="n"/>
+      <Sense id="tufs_ger-lex498-ger-03661043-n" synset="tufs_ger-03661043-n"></Sense>
+    </LexicalEntry>
+    <LexicalEntry id="tufs_ger-lex499">
+      <Lemma writtenForm="Ei" partOfSpeech="n"/>
+      <Sense id="tufs_ger-lex499-ger-07840804-n" synset="tufs_ger-07840804-n"></Sense>
+    </LexicalEntry>
+    <LexicalEntry id="tufs_ger-lex500">
+      <Lemma writtenForm="dieses Jahr" partOfSpeech="n"/>
+      <Sense id="tufs_ger-lex500-ger-90000502-n" synset="tufs_ger-90000502-n"></Sense>
+    </LexicalEntry>
+    <LexicalEntry id="tufs_ger-lex501">
+      <Lemma writtenForm="Bleistift" partOfSpeech="n"/>
+      <Sense id="tufs_ger-lex501-ger-03908204-n" synset="tufs_ger-03908204-n"></Sense>
+      <Sense id="tufs_ger-lex501-ger-14796748-n" synset="tufs_ger-14796748-n"></Sense>
+    </LexicalEntry>
+    <LexicalEntry id="tufs_ger-lex503">
+      <Lemma writtenForm="Zahn" partOfSpeech="n"/>
+      <Sense id="tufs_ger-lex503-ger-05282746-n" synset="tufs_ger-05282746-n"></Sense>
+      <Sense id="tufs_ger-lex503-ger-05282433-n" synset="tufs_ger-05282433-n"></Sense>
+    </LexicalEntry>
+    <LexicalEntry id="tufs_ger-lex505">
+      <Lemma writtenForm="jung" partOfSpeech="a"/>
+      <Sense id="tufs_ger-lex505-ger-01646941-a" synset="tufs_ger-01646941-a"></Sense>
+      <Sense id="tufs_ger-lex505-ger-01649720-a" synset="tufs_ger-01649720-a"></Sense>
+    </LexicalEntry>
+    <LexicalEntry id="tufs_ger-lex507">
+      <Lemma writtenForm="ganz" partOfSpeech="a"/>
+      <Sense id="tufs_ger-lex507-ger-00514884-a" synset="tufs_ger-00514884-a"></Sense>
+    </LexicalEntry>
+    <LexicalEntry id="tufs_ger-lex509">
+      <Lemma writtenForm="heißen" partOfSpeech="v"/>
+      <Sense id="tufs_ger-lex509-ger-01029368-v" synset="tufs_ger-01029368-v"></Sense>
+    </LexicalEntry>
+    <LexicalEntry id="tufs_ger-lex510">
+      <Lemma writtenForm="wo" partOfSpeech="n"/>
+      <Sense id="tufs_ger-lex510-ger-77000084-n" synset="tufs_ger-77000084-n"></Sense>
+    </LexicalEntry>
+    <LexicalEntry id="tufs_ger-lex511">
+      <Lemma writtenForm="schön" partOfSpeech="a"/>
+      <Sense id="tufs_ger-lex511-ger-00220082-a" synset="tufs_ger-00220082-a"></Sense>
+      <Sense id="tufs_ger-lex511-ger-01586342-a" synset="tufs_ger-01586342-a"></Sense>
+    </LexicalEntry>
+    <LexicalEntry id="tufs_ger-lex514">
+      <Lemma writtenForm="öffnen" partOfSpeech="v"/>
+      <Sense id="tufs_ger-lex514-ger-01346003-v" synset="tufs_ger-01346003-v"></Sense>
+    </LexicalEntry>
+    <LexicalEntry id="tufs_ger-lex515">
+      <Lemma writtenForm="Bruder" partOfSpeech="n"/>
+      <Sense id="tufs_ger-lex515-ger-09853467-n" synset="tufs_ger-09853467-n"></Sense>
+    </LexicalEntry>
+    <LexicalEntry id="tufs_ger-lex517">
+      <Lemma writtenForm="Kühlschrank" partOfSpeech="n"/>
+      <Sense id="tufs_ger-lex517-ger-03102654-n" synset="tufs_ger-03102654-n"></Sense>
+      <Sense id="tufs_ger-lex517-ger-03273913-n" synset="tufs_ger-03273913-n"></Sense>
+    </LexicalEntry>
+    <LexicalEntry id="tufs_ger-lex519">
+      <Lemma writtenForm="Milch" partOfSpeech="n"/>
+      <Sense id="tufs_ger-lex519-ger-07844042-n" synset="tufs_ger-07844042-n"></Sense>
+      <Sense id="tufs_ger-lex519-ger-07845335-n" synset="tufs_ger-07845335-n"></Sense>
+    </LexicalEntry>
+    <LexicalEntry id="tufs_ger-lex523">
+      <Lemma writtenForm="links" partOfSpeech="n"/>
+      <Sense id="tufs_ger-lex523-ger-08625462-n" synset="tufs_ger-08625462-n"></Sense>
+    </LexicalEntry>
+    <LexicalEntry id="tufs_ger-lex524">
+      <Lemma writtenForm="nächste Woche" partOfSpeech="n"/>
+      <Sense id="tufs_ger-lex524-ger-90000508-n" synset="tufs_ger-90000508-n"></Sense>
+    </LexicalEntry>
+    <LexicalEntry id="tufs_ger-lex525">
+      <Lemma writtenForm="gehen" partOfSpeech="v"/>
+      <Sense id="tufs_ger-lex525-ger-01848718-v" synset="tufs_ger-01848718-v"></Sense>
+    </LexicalEntry>
+    <LexicalEntry id="tufs_ger-lex526">
+      <Lemma writtenForm="Fahrkarte" partOfSpeech="n"/>
+      <Sense id="tufs_ger-lex526-ger-06518719-n" synset="tufs_ger-06518719-n"></Sense>
+    </LexicalEntry>
+    <LexicalEntry id="tufs_ger-lex527">
+      <Lemma writtenForm="treffen" partOfSpeech="v"/>
+      <Sense id="tufs_ger-lex527-ger-01470670-v" synset="tufs_ger-01470670-v"></Sense>
+      <Sense id="tufs_ger-lex527-ger-02428924-v" synset="tufs_ger-02428924-v"></Sense>
+    </LexicalEntry>
+    <LexicalEntry id="tufs_ger-lex529">
+      <Lemma writtenForm="Junge" partOfSpeech="n"/>
+      <Sense id="tufs_ger-lex529-ger-10285313-n" synset="tufs_ger-10285313-n"></Sense>
+    </LexicalEntry>
+    <LexicalEntry id="tufs_ger-lex530">
+      <Lemma writtenForm="Hotel" partOfSpeech="n"/>
+      <Sense id="tufs_ger-lex530-ger-03542333-n" synset="tufs_ger-03542333-n"></Sense>
+    </LexicalEntry>
+    <LexicalEntry id="tufs_ger-lex531">
+      <Lemma writtenForm="Gebäude" partOfSpeech="n"/>
+      <Sense id="tufs_ger-lex531-ger-02913152-n" synset="tufs_ger-02913152-n"></Sense>
+    </LexicalEntry>
+    <LexicalEntry id="tufs_ger-lex532">
+      <Lemma writtenForm="Fleisch" partOfSpeech="n"/>
+      <Sense id="tufs_ger-lex532-ger-07649854-n" synset="tufs_ger-07649854-n"></Sense>
+    </LexicalEntry>
+    <LexicalEntry id="tufs_ger-lex533">
+      <Lemma writtenForm="Teich" partOfSpeech="n"/>
+      <Sense id="tufs_ger-lex533-ger-09397391-n" synset="tufs_ger-09397391-n"></Sense>
+    </LexicalEntry>
+    <LexicalEntry id="tufs_ger-lex535">
+      <Lemma writtenForm="Computer" partOfSpeech="n"/>
+      <Sense id="tufs_ger-lex535-ger-03082979-n" synset="tufs_ger-03082979-n"></Sense>
+    </LexicalEntry>
+    <LexicalEntry id="tufs_ger-lex536">
+      <Lemma writtenForm="Reise" partOfSpeech="n"/>
+      <Sense id="tufs_ger-lex536-ger-00312553-n" synset="tufs_ger-00312553-n"></Sense>
+    </LexicalEntry>
+    <LexicalEntry id="tufs_ger-lex537">
+      <Lemma writtenForm="Radio" partOfSpeech="n"/>
+      <Sense id="tufs_ger-lex537-ger-04043733-n" synset="tufs_ger-04043733-n"></Sense>
+    </LexicalEntry>
+    <LexicalEntry id="tufs_ger-lex542">
+      <Lemma writtenForm="Bad" partOfSpeech="n"/>
+      <Sense id="tufs_ger-lex542-ger-02807731-n" synset="tufs_ger-02807731-n"></Sense>
+      <Sense id="tufs_ger-lex542-ger-02808440-n" synset="tufs_ger-02808440-n"></Sense>
+    </LexicalEntry>
+    <LexicalEntry id="tufs_ger-lex544">
+      <Lemma writtenForm="Ferien" partOfSpeech="n"/>
+      <Sense id="tufs_ger-lex544-ger-15183428-n" synset="tufs_ger-15183428-n"></Sense>
+      <Sense id="tufs_ger-lex544-ger-15137890-n" synset="tufs_ger-15137890-n"></Sense>
+      <Sense id="tufs_ger-lex544-ger-15274074-n" synset="tufs_ger-15274074-n"></Sense>
+    </LexicalEntry>
+    <LexicalEntry id="tufs_ger-lex547">
+      <Lemma writtenForm="noch" partOfSpeech="r"/>
+      <Sense id="tufs_ger-lex547-ger-00031304-r" synset="tufs_ger-00031304-r"></Sense>
+      <Sense id="tufs_ger-lex547-ger-00027918-r" synset="tufs_ger-00027918-r"></Sense>
+    </LexicalEntry>
+    <LexicalEntry id="tufs_ger-lex549">
+      <Lemma writtenForm="Foto" partOfSpeech="n"/>
+      <Sense id="tufs_ger-lex549-ger-03925226-n" synset="tufs_ger-03925226-n"></Sense>
+      <Sense id="tufs_ger-lex549-ger-03931044-n" synset="tufs_ger-03931044-n"></Sense>
+      <Sense id="tufs_ger-lex549-ger-04248607-n" synset="tufs_ger-04248607-n"></Sense>
+    </LexicalEntry>
+    <LexicalEntry id="tufs_ger-lex552">
+      <Lemma writtenForm="Mittwoch" partOfSpeech="n"/>
+      <Sense id="tufs_ger-lex552-ger-15164233-n" synset="tufs_ger-15164233-n"></Sense>
+    </LexicalEntry>
+    <LexicalEntry id="tufs_ger-lex553">
+      <Lemma writtenForm="Wetter" partOfSpeech="n"/>
+      <Sense id="tufs_ger-lex553-ger-11524662-n" synset="tufs_ger-11524662-n"></Sense>
+    </LexicalEntry>
+    <LexicalEntry id="tufs_ger-lex554">
+      <Lemma writtenForm="Frage" partOfSpeech="n"/>
+      <Sense id="tufs_ger-lex554-ger-07193184-n" synset="tufs_ger-07193184-n"></Sense>
+      <Sense id="tufs_ger-lex554-ger-07193596-n" synset="tufs_ger-07193596-n"></Sense>
+      <Sense id="tufs_ger-lex554-ger-07196682-n" synset="tufs_ger-07196682-n"></Sense>
+      <Sense id="tufs_ger-lex554-ger-05797597-n" synset="tufs_ger-05797597-n"></Sense>
+    </LexicalEntry>
+    <LexicalEntry id="tufs_ger-lex558">
+      <Lemma writtenForm="laufen" partOfSpeech="v"/>
+      <Sense id="tufs_ger-lex558-ger-01904930-v" synset="tufs_ger-01904930-v"></Sense>
+    </LexicalEntry>
+    <LexicalEntry id="tufs_ger-lex559">
+      <Lemma writtenForm="Gabel" partOfSpeech="n"/>
+      <Sense id="tufs_ger-lex559-ger-03383948-n" synset="tufs_ger-03383948-n"></Sense>
+    </LexicalEntry>
+    <LexicalEntry id="tufs_ger-lex560">
+      <Lemma writtenForm="Universität" partOfSpeech="n"/>
+      <Sense id="tufs_ger-lex560-ger-08278169-n" synset="tufs_ger-08278169-n"></Sense>
+      <Sense id="tufs_ger-lex560-ger-08286163-n" synset="tufs_ger-08286163-n"></Sense>
+      <Sense id="tufs_ger-lex560-ger-08286569-n" synset="tufs_ger-08286569-n"></Sense>
+    </LexicalEntry>
+    <LexicalEntry id="tufs_ger-lex563">
+      <Lemma writtenForm="schreiben" partOfSpeech="v"/>
+      <Sense id="tufs_ger-lex563-ger-01691057-v" synset="tufs_ger-01691057-v"></Sense>
+      <Sense id="tufs_ger-lex563-ger-01698271-v" synset="tufs_ger-01698271-v"></Sense>
+      <Sense id="tufs_ger-lex563-ger-01020934-v" synset="tufs_ger-01020934-v"></Sense>
+      <Sense id="tufs_ger-lex563-ger-01000214-v" synset="tufs_ger-01000214-v"></Sense>
+      <Sense id="tufs_ger-lex563-ger-00993014-v" synset="tufs_ger-00993014-v"></Sense>
+      <Sense id="tufs_ger-lex563-ger-01020356-v" synset="tufs_ger-01020356-v"></Sense>
+      <Sense id="tufs_ger-lex563-ger-02471690-v" synset="tufs_ger-02471690-v"></Sense>
+    </LexicalEntry>
+    <LexicalEntry id="tufs_ger-lex570">
+      <Lemma writtenForm="Zeitung" partOfSpeech="n"/>
+      <Sense id="tufs_ger-lex570-ger-14961722-n" synset="tufs_ger-14961722-n"></Sense>
+      <Sense id="tufs_ger-lex570-ger-06267145-n" synset="tufs_ger-06267145-n"></Sense>
+      <Sense id="tufs_ger-lex570-ger-03822171-n" synset="tufs_ger-03822171-n"></Sense>
+    </LexicalEntry>
+    <LexicalEntry id="tufs_ger-lex573">
+      <Lemma writtenForm="Prüfung" partOfSpeech="n"/>
+      <Sense id="tufs_ger-lex573-ger-07197021-n" synset="tufs_ger-07197021-n"></Sense>
+    </LexicalEntry>
+    <LexicalEntry id="tufs_ger-lex574">
+      <Lemma writtenForm="eben" partOfSpeech="r"/>
+      <Sense id="tufs_ger-lex574-ger-00158309-r" synset="tufs_ger-00158309-r"></Sense>
+      <Sense id="tufs_ger-lex574-ger-00002950-r" synset="tufs_ger-00002950-r"></Sense>
+      <Sense id="tufs_ger-lex574-ger-00002621-r" synset="tufs_ger-00002621-r"></Sense>
+    </LexicalEntry>
+    <LexicalEntry id="tufs_ger-lex577">
+      <Lemma writtenForm="Grad" partOfSpeech="n"/>
+      <Sense id="tufs_ger-lex577-ger-13714184-n" synset="tufs_ger-13714184-n"></Sense>
+    </LexicalEntry>
+    <LexicalEntry id="tufs_ger-lex578">
+      <Lemma writtenForm="fliegen" partOfSpeech="n"/>
+      <Sense id="tufs_ger-lex578-ger-00119568-n" synset="tufs_ger-00119568-n"></Sense>
+    </LexicalEntry>
+    <LexicalEntry id="tufs_ger-lex579">
+      <Lemma writtenForm="Post" partOfSpeech="n"/>
+      <Sense id="tufs_ger-lex579-ger-08145553-n" synset="tufs_ger-08145553-n"></Sense>
+    </LexicalEntry>
+    <LexicalEntry id="tufs_ger-lex580">
+      <Lemma writtenForm="Frühling" partOfSpeech="n"/>
+      <Sense id="tufs_ger-lex580-ger-15237044-n" synset="tufs_ger-15237044-n"></Sense>
+    </LexicalEntry>
+    <LexicalEntry id="tufs_ger-lex582">
+      <Lemma writtenForm="Kopie" partOfSpeech="n"/>
+      <Sense id="tufs_ger-lex582-ger-06505517-n" synset="tufs_ger-06505517-n"></Sense>
+    </LexicalEntry>
+    <LexicalEntry id="tufs_ger-lex583">
+      <Lemma writtenForm="Abend" partOfSpeech="n"/>
+      <Sense id="tufs_ger-lex583-ger-15166462-n" synset="tufs_ger-15166462-n"></Sense>
+    </LexicalEntry>
+    <LexicalEntry id="tufs_ger-lex585">
+      <Lemma writtenForm="interessant" partOfSpeech="a"/>
+      <Sense id="tufs_ger-lex585-ger-01265308-a" synset="tufs_ger-01265308-a"></Sense>
+      <Sense id="tufs_ger-lex585-ger-01344485-a" synset="tufs_ger-01344485-a"></Sense>
+      <Sense id="tufs_ger-lex585-ger-01344344-a" synset="tufs_ger-01344344-a"></Sense>
+      <Sense id="tufs_ger-lex585-ger-01343918-a" synset="tufs_ger-01343918-a"></Sense>
+    </LexicalEntry>
+    <LexicalEntry id="tufs_ger-lex587">
+      <Lemma writtenForm="lustig" partOfSpeech="a"/>
+      <Sense id="tufs_ger-lex587-ger-01801029-a" synset="tufs_ger-01801029-a"></Sense>
+      <Sense id="tufs_ger-lex587-ger-01344344-a" synset="tufs_ger-01344344-a"></Sense>
+    </LexicalEntry>
+    <LexicalEntry id="tufs_ger-lex590">
+      <Lemma writtenForm="vorn" partOfSpeech="r"/>
+      <Sense id="tufs_ger-lex590-ger-00067045-r" synset="tufs_ger-00067045-r"></Sense>
+      <Sense id="tufs_ger-lex590-ger-00067265-r" synset="tufs_ger-00067265-r"></Sense>
+    </LexicalEntry>
+    <LexicalEntry id="tufs_ger-lex592">
+      <Lemma writtenForm="übermorgen" partOfSpeech="n"/>
+      <Sense id="tufs_ger-lex592-ger-90000515-n" synset="tufs_ger-90000515-n"></Sense>
+    </LexicalEntry>
+    <LexicalEntry id="tufs_ger-lex593">
+      <Lemma writtenForm="befestigen" partOfSpeech="v"/>
+      <Sense id="tufs_ger-lex593-ger-01296462-v" synset="tufs_ger-01296462-v"></Sense>
+    </LexicalEntry>
+    <LexicalEntry id="tufs_ger-lex595">
+      <Lemma writtenForm="wer" partOfSpeech="n"/>
+      <Sense id="tufs_ger-lex595-ger-77000095-n" synset="tufs_ger-77000095-n"></Sense>
+    </LexicalEntry>
+    <LexicalEntry id="tufs_ger-lex596">
+      <Lemma writtenForm="vorletztes Jahr" partOfSpeech="n"/>
+      <Sense id="tufs_ger-lex596-ger-90000500-n" synset="tufs_ger-90000500-n"></Sense>
+    </LexicalEntry>
+    <LexicalEntry id="tufs_ger-lex597">
+      <Lemma writtenForm="Tür" partOfSpeech="n"/>
+      <Sense id="tufs_ger-lex597-ger-03221720-n" synset="tufs_ger-03221720-n"></Sense>
+    </LexicalEntry>
+    <LexicalEntry id="tufs_ger-lex598">
+      <Lemma writtenForm="kein" partOfSpeech="r"/>
+      <Sense id="tufs_ger-lex598-ger-00024587-r" synset="tufs_ger-00024587-r"></Sense>
+      <Sense id="tufs_ger-lex598-ger-00050681-r" synset="tufs_ger-00050681-r"></Sense>
+    </LexicalEntry>
+    <LexicalEntry id="tufs_ger-lex600">
+      <Lemma writtenForm="ich" partOfSpeech="n"/>
+      <Sense id="tufs_ger-lex600-ger-77000012-n" synset="tufs_ger-77000012-n"></Sense>
+      <Sense id="tufs_ger-lex600-ger-77000015-n" synset="tufs_ger-77000015-n"></Sense>
+    </LexicalEntry>
+    <LexicalEntry id="tufs_ger-lex602">
+      <Lemma writtenForm="langweilig" partOfSpeech="a"/>
+      <Sense id="tufs_ger-lex602-ger-01344963-a" synset="tufs_ger-01344963-a"></Sense>
+    </LexicalEntry>
+    <LexicalEntry id="tufs_ger-lex603">
+      <Lemma writtenForm="trinken" partOfSpeech="v"/>
+      <Sense id="tufs_ger-lex603-ger-01170052-v" synset="tufs_ger-01170052-v"></Sense>
+    </LexicalEntry>
+    <LexicalEntry id="tufs_ger-lex604">
+      <Lemma writtenForm="Botschaft" partOfSpeech="n"/>
+      <Sense id="tufs_ger-lex604-ger-03282295-n" synset="tufs_ger-03282295-n"></Sense>
+    </LexicalEntry>
+    <LexicalEntry id="tufs_ger-lex605">
+      <Lemma writtenForm="Erkältung" partOfSpeech="n"/>
+      <Sense id="tufs_ger-lex605-ger-14145501-n" synset="tufs_ger-14145501-n"></Sense>
+    </LexicalEntry>
+    <LexicalEntry id="tufs_ger-lex606">
+      <Lemma writtenForm="Briefmarke" partOfSpeech="n"/>
+      <Sense id="tufs_ger-lex606-ger-06796119-n" synset="tufs_ger-06796119-n"></Sense>
+    </LexicalEntry>
+    <LexicalEntry id="tufs_ger-lex607">
+      <Lemma writtenForm="Fisch" partOfSpeech="n"/>
+      <Sense id="tufs_ger-lex607-ger-07775375-n" synset="tufs_ger-07775375-n"></Sense>
+      <Sense id="tufs_ger-lex607-ger-02512053-n" synset="tufs_ger-02512053-n"></Sense>
+    </LexicalEntry>
+    <LexicalEntry id="tufs_ger-lex620">
+      <Lemma writtenForm="Fenster" partOfSpeech="n"/>
+      <Sense id="tufs_ger-lex620-ger-04587648-n" synset="tufs_ger-04587648-n"></Sense>
+      <Sense id="tufs_ger-lex620-ger-04588365-n" synset="tufs_ger-04588365-n"></Sense>
+    </LexicalEntry>
+    <LexicalEntry id="tufs_ger-lex622">
+      <Lemma writtenForm="Körper" partOfSpeech="n"/>
+      <Sense id="tufs_ger-lex622-ger-05216365-n" synset="tufs_ger-05216365-n"></Sense>
+    </LexicalEntry>
+    <LexicalEntry id="tufs_ger-lex623">
+      <Lemma writtenForm="Exemplar" partOfSpeech="x"/>
+      <Sense id="tufs_ger-lex623-ger-76100002-x" synset="tufs_ger-76100002-x"></Sense>
+    </LexicalEntry>
+    <LexicalEntry id="tufs_ger-lex624">
+      <Lemma writtenForm="Blatt" partOfSpeech="x"/>
+      <Sense id="tufs_ger-lex624-ger-76100002-x" synset="tufs_ger-76100002-x"></Sense>
+    </LexicalEntry>
+    <LexicalEntry id="tufs_ger-lex625">
+      <Lemma writtenForm="grün" partOfSpeech="n"/>
+      <Sense id="tufs_ger-lex625-ger-04967191-n" synset="tufs_ger-04967191-n"></Sense>
+    </LexicalEntry>
+    <LexicalEntry id="tufs_ger-lex626">
+      <Lemma writtenForm="sterben" partOfSpeech="v"/>
+      <Sense id="tufs_ger-lex626-ger-80001047-v" synset="tufs_ger-80001047-v"></Sense>
+    </LexicalEntry>
+    <LexicalEntry id="tufs_ger-lex627">
+      <Lemma writtenForm="Hut" partOfSpeech="n"/>
+      <Sense id="tufs_ger-lex627-ger-03497657-n" synset="tufs_ger-03497657-n"></Sense>
+    </LexicalEntry>
+    <LexicalEntry id="tufs_ger-lex629">
+      <Lemma writtenForm="Satz" partOfSpeech="n"/>
+      <Sense id="tufs_ger-lex629-ger-06359877-n" synset="tufs_ger-06359877-n"></Sense>
+    </LexicalEntry>
+    <LexicalEntry id="tufs_ger-lex630">
+      <Lemma writtenForm="Lied" partOfSpeech="n"/>
+      <Sense id="tufs_ger-lex630-ger-07048000-n" synset="tufs_ger-07048000-n"></Sense>
+      <Sense id="tufs_ger-lex630-ger-00546389-n" synset="tufs_ger-00546389-n"></Sense>
+    </LexicalEntry>
+    <LexicalEntry id="tufs_ger-lex632">
+      <Lemma writtenForm="schneiden" partOfSpeech="v"/>
+      <Sense id="tufs_ger-lex632-ger-01754737-v" synset="tufs_ger-01754737-v"></Sense>
+    </LexicalEntry>
+    <LexicalEntry id="tufs_ger-lex633">
+      <Lemma writtenForm="Party" partOfSpeech="n"/>
+      <Sense id="tufs_ger-lex633-ger-07447641-n" synset="tufs_ger-07447641-n"></Sense>
+    </LexicalEntry>
+    <LexicalEntry id="tufs_ger-lex634">
+      <Lemma writtenForm="ausgehen" partOfSpeech="v"/>
+      <Sense id="tufs_ger-lex634-ger-01842204-v" synset="tufs_ger-01842204-v"></Sense>
+    </LexicalEntry>
+    <LexicalEntry id="tufs_ger-lex635">
+      <Lemma writtenForm="Pantoffel" partOfSpeech="n"/>
+      <Sense id="tufs_ger-lex635-ger-04241394-n" synset="tufs_ger-04241394-n"></Sense>
+    </LexicalEntry>
+    <LexicalEntry id="tufs_ger-lex636">
+      <Lemma writtenForm="Mund" partOfSpeech="n"/>
+      <Sense id="tufs_ger-lex636-ger-05301908-n" synset="tufs_ger-05301908-n"></Sense>
+    </LexicalEntry>
+    <LexicalEntry id="tufs_ger-lex637">
+      <Lemma writtenForm="Hand" partOfSpeech="n"/>
+      <Sense id="tufs_ger-lex637-ger-02440250-n" synset="tufs_ger-02440250-n"></Sense>
+    </LexicalEntry>
+    <LexicalEntry id="tufs_ger-lex638">
+      <Lemma writtenForm="Tante" partOfSpeech="n"/>
+      <Sense id="tufs_ger-lex638-ger-09823502-n" synset="tufs_ger-09823502-n"></Sense>
+    </LexicalEntry>
+    <LexicalEntry id="tufs_ger-lex640">
+      <Lemma writtenForm="November" partOfSpeech="n"/>
+      <Sense id="tufs_ger-lex640-ger-15213406-n" synset="tufs_ger-15213406-n"></Sense>
+    </LexicalEntry>
+    <LexicalEntry id="tufs_ger-lex641">
+      <Lemma writtenForm="Fernsehen" partOfSpeech="n"/>
+      <Sense id="tufs_ger-lex641-ger-06277280-n" synset="tufs_ger-06277280-n"></Sense>
+    </LexicalEntry>
+    <LexicalEntry id="tufs_ger-lex642">
+      <Lemma writtenForm="Norden" partOfSpeech="n"/>
+      <Sense id="tufs_ger-lex642-ger-13831176-n" synset="tufs_ger-13831176-n"></Sense>
+    </LexicalEntry>
+    <LexicalEntry id="tufs_ger-lex643">
+      <Lemma writtenForm="Französisch" partOfSpeech="n"/>
+      <Sense id="tufs_ger-lex643-ger-06964901-n" synset="tufs_ger-06964901-n"></Sense>
+    </LexicalEntry>
+    <LexicalEntry id="tufs_ger-lex644">
+      <Lemma writtenForm="weh tun" partOfSpeech="a"/>
+      <Sense id="tufs_ger-lex644-ger-01318741-a" synset="tufs_ger-01318741-a"></Sense>
+      <Sense id="tufs_ger-lex644-ger-01712753-a" synset="tufs_ger-01712753-a"></Sense>
+    </LexicalEntry>
+    <LexicalEntry id="tufs_ger-lex646">
+      <Lemma writtenForm="Bauch" partOfSpeech="n"/>
+      <Sense id="tufs_ger-lex646-ger-05395690-n" synset="tufs_ger-05395690-n"></Sense>
+      <Sense id="tufs_ger-lex646-ger-05556943-n" synset="tufs_ger-05556943-n"></Sense>
+    </LexicalEntry>
+    <LexicalEntry id="tufs_ger-lex650">
+      <Lemma writtenForm="leicht" partOfSpeech="a"/>
+      <Sense id="tufs_ger-lex650-ger-00749230-a" synset="tufs_ger-00749230-a"></Sense>
+      <Sense id="tufs_ger-lex650-ger-01186408-a" synset="tufs_ger-01186408-a"></Sense>
+    </LexicalEntry>
+    <LexicalEntry id="tufs_ger-lex651">
+      <Lemma writtenForm="Krankheit" partOfSpeech="n"/>
+      <Sense id="tufs_ger-lex651-ger-14055408-n" synset="tufs_ger-14055408-n"></Sense>
+      <Sense id="tufs_ger-lex651-ger-14473054-n" synset="tufs_ger-14473054-n"></Sense>
+      <Sense id="tufs_ger-lex651-ger-14061805-n" synset="tufs_ger-14061805-n"></Sense>
+    </LexicalEntry>
+    <LexicalEntry id="tufs_ger-lex654">
+      <Lemma writtenForm="Eltern" partOfSpeech="n"/>
+      <Sense id="tufs_ger-lex654-ger-10399491-n" synset="tufs_ger-10399491-n"></Sense>
+    </LexicalEntry>
+    <LexicalEntry id="tufs_ger-lex655">
+      <Lemma writtenForm="Süden" partOfSpeech="n"/>
+      <Sense id="tufs_ger-lex655-ger-13833375-n" synset="tufs_ger-13833375-n"></Sense>
+    </LexicalEntry>
+    <LexicalEntry id="tufs_ger-lex656">
+      <Lemma writtenForm="Mensch" partOfSpeech="n"/>
+      <Sense id="tufs_ger-lex656-ger-02472293-n" synset="tufs_ger-02472293-n"></Sense>
+    </LexicalEntry>
+    <LexicalEntry id="tufs_ger-lex658">
+      <Lemma writtenForm="Juli" partOfSpeech="n"/>
+      <Sense id="tufs_ger-lex658-ger-15212167-n" synset="tufs_ger-15212167-n"></Sense>
+    </LexicalEntry>
+    <LexicalEntry id="tufs_ger-lex659">
+      <Lemma writtenForm="fern" partOfSpeech="a"/>
+      <Sense id="tufs_ger-lex659-ger-00442917-a" synset="tufs_ger-00442917-a"></Sense>
+    </LexicalEntry>
+    <LexicalEntry id="tufs_ger-lex660">
+      <Lemma writtenForm="vor" partOfSpeech="n"/>
+      <Sense id="tufs_ger-lex660-ger-03398467-n" synset="tufs_ger-03398467-n"></Sense>
+    </LexicalEntry>
+    <LexicalEntry id="tufs_ger-lex661">
+      <Lemma writtenForm="schwach" partOfSpeech="a"/>
+      <Sense id="tufs_ger-lex661-ger-02324397-a" synset="tufs_ger-02324397-a"></Sense>
+      <Sense id="tufs_ger-lex661-ger-02040233-a" synset="tufs_ger-02040233-a"></Sense>
+      <Sense id="tufs_ger-lex661-ger-00964768-a" synset="tufs_ger-00964768-a"></Sense>
+      <Sense id="tufs_ger-lex661-ger-00709215-a" synset="tufs_ger-00709215-a"></Sense>
+      <Sense id="tufs_ger-lex661-ger-02040049-a" synset="tufs_ger-02040049-a"></Sense>
+    </LexicalEntry>
+    <LexicalEntry id="tufs_ger-lex666">
+      <Lemma writtenForm="jeden Monat" partOfSpeech="r"/>
+      <Sense id="tufs_ger-lex666-ger-00254978-r" synset="tufs_ger-00254978-r"></Sense>
+    </LexicalEntry>
+    <LexicalEntry id="tufs_ger-lex667">
+      <Lemma writtenForm="Bedeutung" partOfSpeech="n"/>
+      <Sense id="tufs_ger-lex667-ger-05919866-n" synset="tufs_ger-05919866-n"></Sense>
+      <Sense id="tufs_ger-lex667-ger-06601327-n" synset="tufs_ger-06601327-n"></Sense>
+      <Sense id="tufs_ger-lex667-ger-06605897-n" synset="tufs_ger-06605897-n"></Sense>
+    </LexicalEntry>
+    <LexicalEntry id="tufs_ger-lex670">
+      <Lemma writtenForm="hinter" partOfSpeech="n"/>
+      <Sense id="tufs_ger-lex670-ger-04059701-n" synset="tufs_ger-04059701-n"></Sense>
+      <Sense id="tufs_ger-lex670-ger-02767665-n" synset="tufs_ger-02767665-n"></Sense>
+    </LexicalEntry>
+    <LexicalEntry id="tufs_ger-lex672">
+      <Lemma writtenForm="Krankenhaus" partOfSpeech="n"/>
+      <Sense id="tufs_ger-lex672-ger-08054417-n" synset="tufs_ger-08054417-n"></Sense>
+      <Sense id="tufs_ger-lex672-ger-03540595-n" synset="tufs_ger-03540595-n"></Sense>
+    </LexicalEntry>
+    <LexicalEntry id="tufs_ger-lex674">
+      <Lemma writtenForm="Auge" partOfSpeech="n"/>
+      <Sense id="tufs_ger-lex674-ger-05311054-n" synset="tufs_ger-05311054-n"></Sense>
+      <Sense id="tufs_ger-lex674-ger-05316025-n" synset="tufs_ger-05316025-n"></Sense>
+    </LexicalEntry>
+    <LexicalEntry id="tufs_ger-lex676">
+      <Lemma writtenForm="Regal" partOfSpeech="n"/>
+      <Sense id="tufs_ger-lex676-ger-02871439-n" synset="tufs_ger-02871439-n"></Sense>
+    </LexicalEntry>
+    <LexicalEntry id="tufs_ger-lex678">
+      <Lemma writtenForm="Bahnhof" partOfSpeech="n"/>
+      <Sense id="tufs_ger-lex678-ger-04049098-n" synset="tufs_ger-04049098-n"></Sense>
+    </LexicalEntry>
+    <LexicalEntry id="tufs_ger-lex679">
+      <Lemma writtenForm="Zigarette" partOfSpeech="n"/>
+      <Sense id="tufs_ger-lex679-ger-03030663-n" synset="tufs_ger-03030663-n"></Sense>
+    </LexicalEntry>
+    <LexicalEntry id="tufs_ger-lex680">
+      <Lemma writtenForm="geben" partOfSpeech="v"/>
+      <Sense id="tufs_ger-lex680-ger-02230772-v" synset="tufs_ger-02230772-v"></Sense>
+    </LexicalEntry>
+    <LexicalEntry id="tufs_ger-lex681">
+      <Lemma writtenForm="übernächstes Jahr" partOfSpeech="n"/>
+      <Sense id="tufs_ger-lex681-ger-90000504-n" synset="tufs_ger-90000504-n"></Sense>
+    </LexicalEntry>
+    <LexicalEntry id="tufs_ger-lex682">
+      <Lemma writtenForm="Hausaufgabe" partOfSpeech="n"/>
+      <Sense id="tufs_ger-lex682-ger-00729108-n" synset="tufs_ger-00729108-n"></Sense>
+    </LexicalEntry>
+    <LexicalEntry id="tufs_ger-lex683">
+      <Lemma writtenForm="Krawatte" partOfSpeech="n"/>
+      <Sense id="tufs_ger-lex683-ger-03815615-n" synset="tufs_ger-03815615-n"></Sense>
+    </LexicalEntry>
+    <LexicalEntry id="tufs_ger-lex684">
+      <Lemma writtenForm="Kuchen" partOfSpeech="n"/>
+      <Sense id="tufs_ger-lex684-ger-07596684-n" synset="tufs_ger-07596684-n"></Sense>
+    </LexicalEntry>
+    <LexicalEntry id="tufs_ger-lex685">
+      <Lemma writtenForm="Bein" partOfSpeech="n"/>
+      <Sense id="tufs_ger-lex685-ger-05563266-n" synset="tufs_ger-05563266-n"></Sense>
+      <Sense id="tufs_ger-lex685-ger-05560787-n" synset="tufs_ger-05560787-n"></Sense>
+    </LexicalEntry>
+    <LexicalEntry id="tufs_ger-lex686">
+      <Lemma writtenForm="Fuß" partOfSpeech="n"/>
+      <Sense id="tufs_ger-lex686-ger-05563266-n" synset="tufs_ger-05563266-n"></Sense>
+      <Sense id="tufs_ger-lex686-ger-05560787-n" synset="tufs_ger-05560787-n"></Sense>
+    </LexicalEntry>
+    <LexicalEntry id="tufs_ger-lex689">
+      <Lemma writtenForm="April" partOfSpeech="n"/>
+      <Sense id="tufs_ger-lex689-ger-15211189-n" synset="tufs_ger-15211189-n"></Sense>
+    </LexicalEntry>
+    <LexicalEntry id="tufs_ger-lex690">
+      <Lemma writtenForm="zurückgeben" partOfSpeech="v"/>
+      <Sense id="tufs_ger-lex690-ger-02310007-v" synset="tufs_ger-02310007-v"></Sense>
+      <Sense id="tufs_ger-lex690-ger-80001595-v" synset="tufs_ger-80001595-v"></Sense>
+      <Sense id="tufs_ger-lex690-ger-01308381-v" synset="tufs_ger-01308381-v"></Sense>
+    </LexicalEntry>
+    <LexicalEntry id="tufs_ger-lex693">
+      <Lemma writtenForm="Vater" partOfSpeech="n"/>
+      <Sense id="tufs_ger-lex693-ger-10080869-n" synset="tufs_ger-10080869-n"></Sense>
+    </LexicalEntry>
+    <LexicalEntry id="tufs_ger-lex695">
+      <Lemma writtenForm="Toilette" partOfSpeech="n"/>
+      <Sense id="tufs_ger-lex695-ger-04446276-n" synset="tufs_ger-04446276-n"></Sense>
+      <Sense id="tufs_ger-lex695-ger-04555291-n" synset="tufs_ger-04555291-n"></Sense>
+    </LexicalEntry>
+    <LexicalEntry id="tufs_ger-lex697">
+      <Lemma writtenForm="August" partOfSpeech="n"/>
+      <Sense id="tufs_ger-lex697-ger-15212455-n" synset="tufs_ger-15212455-n"></Sense>
+    </LexicalEntry>
+    <LexicalEntry id="tufs_ger-lex698">
+      <Lemma writtenForm="beschäftigt" partOfSpeech="a"/>
+      <Sense id="tufs_ger-lex698-ger-00292937-a" synset="tufs_ger-00292937-a"></Sense>
+    </LexicalEntry>
+    <LexicalEntry id="tufs_ger-lex700">
+      <Lemma writtenForm="Briefumschlag" partOfSpeech="n"/>
+      <Sense id="tufs_ger-lex700-ger-03291819-n" synset="tufs_ger-03291819-n"></Sense>
+    </LexicalEntry>
+    <LexicalEntry id="tufs_ger-lex701">
+      <Lemma writtenForm="unter" partOfSpeech="n"/>
+      <Sense id="tufs_ger-lex701-ger-09215315-n" synset="tufs_ger-09215315-n"></Sense>
+      <Sense id="tufs_ger-lex701-ger-80001661-n" synset="tufs_ger-80001661-n"></Sense>
+    </LexicalEntry>
+    <LexicalEntry id="tufs_ger-lex703">
+      <Lemma writtenForm="Sport" partOfSpeech="n"/>
+      <Sense id="tufs_ger-lex703-ger-00523513-n" synset="tufs_ger-00523513-n"></Sense>
+    </LexicalEntry>
+    <LexicalEntry id="tufs_ger-lex704">
+      <Lemma writtenForm="Tisch" partOfSpeech="n"/>
+      <Sense id="tufs_ger-lex704-ger-03179701-n" synset="tufs_ger-03179701-n"></Sense>
+    </LexicalEntry>
+    <LexicalEntry id="tufs_ger-lex705">
+      <Lemma writtenForm="Laden" partOfSpeech="n"/>
+      <Sense id="tufs_ger-lex705-ger-04202417-n" synset="tufs_ger-04202417-n"></Sense>
+    </LexicalEntry>
+    <LexicalEntry id="tufs_ger-lex706">
+      <Lemma writtenForm="aussteigen" partOfSpeech="v"/>
+      <Sense id="tufs_ger-lex706-ger-02016062-v" synset="tufs_ger-02016062-v"></Sense>
+    </LexicalEntry>
+    <LexicalEntry id="tufs_ger-lex707">
+      <Lemma writtenForm="Winter" partOfSpeech="n"/>
+      <Sense id="tufs_ger-lex707-ger-15237782-n" synset="tufs_ger-15237782-n"></Sense>
+    </LexicalEntry>
+    <LexicalEntry id="tufs_ger-lex708">
+      <Lemma writtenForm="über" partOfSpeech="n"/>
+      <Sense id="tufs_ger-lex708-ger-08663354-n" synset="tufs_ger-08663354-n"></Sense>
+      <Sense id="tufs_ger-lex708-ger-80001691-n" synset="tufs_ger-80001691-n"></Sense>
+    </LexicalEntry>
+    <LexicalEntry id="tufs_ger-lex710">
+      <Lemma writtenForm="Reis" partOfSpeech="n"/>
+      <Sense id="tufs_ger-lex710-ger-07804323-n" synset="tufs_ger-07804323-n"></Sense>
+      <Sense id="tufs_ger-lex710-ger-90000417-n" synset="tufs_ger-90000417-n"></Sense>
+      <Sense id="tufs_ger-lex710-ger-15245990-n" synset="tufs_ger-15245990-n"></Sense>
+    </LexicalEntry>
+    <LexicalEntry id="tufs_ger-lex713">
+      <Lemma writtenForm="Mittagessen" partOfSpeech="n"/>
+      <Sense id="tufs_ger-lex713-ger-07575076-n" synset="tufs_ger-07575076-n"></Sense>
+    </LexicalEntry>
+    <LexicalEntry id="tufs_ger-lex714">
+      <Lemma writtenForm="heute" partOfSpeech="n"/>
+      <Sense id="tufs_ger-lex714-ger-15156001-n" synset="tufs_ger-15156001-n"></Sense>
+    </LexicalEntry>
+    <LexicalEntry id="tufs_ger-lex715">
+      <Lemma writtenForm="selber" partOfSpeech="n"/>
+      <Sense id="tufs_ger-lex715-ger-09604981-n" synset="tufs_ger-09604981-n"></Sense>
+    </LexicalEntry>
+    <LexicalEntry id="tufs_ger-lex716">
+      <Lemma writtenForm="Speise" partOfSpeech="n"/>
+      <Sense id="tufs_ger-lex716-ger-07557434-n" synset="tufs_ger-07557434-n"></Sense>
+    </LexicalEntry>
+    <LexicalEntry id="tufs_ger-lex717">
+      <Lemma writtenForm="lecker" partOfSpeech="a"/>
+      <Sense id="tufs_ger-lex717-ger-02396720-a" synset="tufs_ger-02396720-a"></Sense>
+      <Sense id="tufs_ger-lex717-ger-02395115-a" synset="tufs_ger-02395115-a"></Sense>
+    </LexicalEntry>
+    <Synset id="tufs_ger-15210045-n" ili="i117152" partOfSpeech="n"></Synset>
+    <Synset id="tufs_ger-05755883-n" ili="i67148" partOfSpeech="n"></Synset>
+    <Synset id="tufs_ger-04971928-n" ili="i63121" partOfSpeech="n"></Synset>
+    <Synset id="tufs_ger-15163797-n" ili="i116899" partOfSpeech="n"></Synset>
+    <Synset id="tufs_ger-15043763-n" ili="i116225" partOfSpeech="n"></Synset>
+    <Synset id="tufs_ger-00251013-n" ili="i36711" partOfSpeech="n"></Synset>
+    <Synset id="tufs_ger-08058098-n" ili="i79556" partOfSpeech="n"></Synset>
+    <Synset id="tufs_ger-01382086-a" ili="i7530" partOfSpeech="a"></Synset>
+    <Synset id="tufs_ger-01453084-a" ili="i7946" partOfSpeech="a"></Synset>
+    <Synset id="tufs_ger-00527870-a" ili="i2958" partOfSpeech="a"></Synset>
+    <Synset id="tufs_ger-01677433-a" ili="i9189" partOfSpeech="a"></Synset>
+    <Synset id="tufs_ger-10084295-n" ili="i89923" partOfSpeech="n"></Synset>
+    <Synset id="tufs_ger-10129825-n" ili="i90206" partOfSpeech="n"></Synset>
+    <Synset id="tufs_ger-00065495-v" ili="i22104" partOfSpeech="v"></Synset>
+    <Synset id="tufs_ger-80001734-n" ili="" partOfSpeech="n"></Synset>
+    <Synset id="tufs_ger-00889472-n" ili="i40071" partOfSpeech="n"></Synset>
+    <Synset id="tufs_ger-02608347-v" ili="i34719" partOfSpeech="v"></Synset>
+    <Synset id="tufs_ger-07850329-n" ili="i78427" partOfSpeech="n"></Synset>
+    <Synset id="tufs_ger-03623556-n" ili="i55422" partOfSpeech="n"></Synset>
+    <Synset id="tufs_ger-03624134-n" ili="i55423" partOfSpeech="n"></Synset>
+    <Synset id="tufs_ger-01776727-v" ili="i30619" partOfSpeech="v"></Synset>
+    <Synset id="tufs_ger-01774136-v" ili="i30608" partOfSpeech="v"></Synset>
+    <Synset id="tufs_ger-02783161-n" ili="i50413" partOfSpeech="n"></Synset>
+    <Synset id="tufs_ger-02632567-v" ili="i34834" partOfSpeech="v"></Synset>
+    <Synset id="tufs_ger-01579608-a" ili="i8660" partOfSpeech="a"></Synset>
+    <Synset id="tufs_ger-03427296-n" ili="i54238" partOfSpeech="n"></Synset>
+    <Synset id="tufs_ger-04026417-n" ili="i57793" partOfSpeech="n"></Synset>
+    <Synset id="tufs_ger-11456462-n" ili="i97790" partOfSpeech="n"></Synset>
+    <Synset id="tufs_ger-07848338-n" ili="i78414" partOfSpeech="n"></Synset>
+    <Synset id="tufs_ger-90000501-n" ili="" partOfSpeech="n"></Synset>
+    <Synset id="tufs_ger-15210870-n" ili="i117156" partOfSpeech="n"></Synset>
+    <Synset id="tufs_ger-77000072-n" ili="" partOfSpeech="n"></Synset>
+    <Synset id="tufs_ger-08489497-n" ili="i81667" partOfSpeech="n"></Synset>
+    <Synset id="tufs_ger-03561345-n" ili="i55053" partOfSpeech="n"></Synset>
+    <Synset id="tufs_ger-03234306-n" ili="i53128" partOfSpeech="n"></Synset>
+    <Synset id="tufs_ger-03876519-n" ili="i56911" partOfSpeech="n"></Synset>
+    <Synset id="tufs_ger-07110615-n" ili="i74026" partOfSpeech="n"></Synset>
+    <Synset id="tufs_ger-05202284-n" ili="i64308" partOfSpeech="n"></Synset>
+    <Synset id="tufs_ger-09411430-n" ili="i86078" partOfSpeech="n"></Synset>
+    <Synset id="tufs_ger-15236859-n" ili="i117308" partOfSpeech="n"></Synset>
+    <Synset id="tufs_ger-02107442-v" ili="i32299" partOfSpeech="v"></Synset>
+    <Synset id="tufs_ger-02169891-v" ili="i32604" partOfSpeech="v"></Synset>
+    <Synset id="tufs_ger-02242464-v" ili="i32953" partOfSpeech="v"></Synset>
+    <Synset id="tufs_ger-00271022-a" ili="i1515" partOfSpeech="a"></Synset>
+    <Synset id="tufs_ger-00396523-a" ili="i2237" partOfSpeech="a"></Synset>
+    <Synset id="tufs_ger-00269989-a" ili="i1511" partOfSpeech="a"></Synset>
+    <Synset id="tufs_ger-00278551-a" ili="i1557" partOfSpeech="a"></Synset>
+    <Synset id="tufs_ger-02924116-n" ili="i51285" partOfSpeech="n"></Synset>
+    <Synset id="tufs_ger-01614426-v" ili="i29829" partOfSpeech="v"></Synset>
+    <Synset id="tufs_ger-80001230-x" ili="" partOfSpeech="x"></Synset>
+    <Synset id="tufs_ger-01184932-a" ili="i6483" partOfSpeech="a"></Synset>
+    <Synset id="tufs_ger-07881800-n" ili="i78658" partOfSpeech="n"></Synset>
+    <Synset id="tufs_ger-01119192-a" ili="i6139" partOfSpeech="a"></Synset>
+    <Synset id="tufs_ger-02226162-a" ili="i12307" partOfSpeech="a"></Synset>
+    <Synset id="tufs_ger-01838916-a" ili="i10103" partOfSpeech="a"></Synset>
+    <Synset id="tufs_ger-03467517-n" ili="i54496" partOfSpeech="n"></Synset>
+    <Synset id="tufs_ger-03613294-n" ili="i55358" partOfSpeech="n"></Synset>
+    <Synset id="tufs_ger-01553629-a" ili="i8529" partOfSpeech="a"></Synset>
+    <Synset id="tufs_ger-01551633-a" ili="i8520" partOfSpeech="a"></Synset>
+    <Synset id="tufs_ger-01552419-a" ili="i8523" partOfSpeech="a"></Synset>
+    <Synset id="tufs_ger-00127137-a" ili="i672" partOfSpeech="a"></Synset>
+    <Synset id="tufs_ger-01638438-a" ili="i8969" partOfSpeech="a"></Synset>
+    <Synset id="tufs_ger-01729384-a" ili="i9488" partOfSpeech="a"></Synset>
+    <Synset id="tufs_ger-10694258-n" ili="i93557" partOfSpeech="n"></Synset>
+    <Synset id="tufs_ger-07859284-n" ili="i78493" partOfSpeech="n"></Synset>
+    <Synset id="tufs_ger-09605289-n" ili="i87152" partOfSpeech="n"></Synset>
+    <Synset id="tufs_ger-04081281-n" ili="i58115" partOfSpeech="n"></Synset>
+    <Synset id="tufs_ger-10448983-n" ili="i92109" partOfSpeech="n"></Synset>
+    <Synset id="tufs_ger-90000507-n" ili="" partOfSpeech="n"></Synset>
+    <Synset id="tufs_ger-02686568-n" ili="i49876" partOfSpeech="n"></Synset>
+    <Synset id="tufs_ger-02691156-n" ili="i49901" partOfSpeech="n"></Synset>
+    <Synset id="tufs_ger-08420278-n" ili="i81364" partOfSpeech="n"></Synset>
+    <Synset id="tufs_ger-02787772-n" ili="i50441" partOfSpeech="n"></Synset>
+    <Synset id="tufs_ger-02018049-v" ili="i31829" partOfSpeech="v"></Synset>
+    <Synset id="tufs_ger-02324026-v" ili="i33356" partOfSpeech="v"></Synset>
+    <Synset id="tufs_ger-01447257-v" ili="i28964" partOfSpeech="v"></Synset>
+    <Synset id="tufs_ger-02398378-a" ili="i13275" partOfSpeech="a"></Synset>
+    <Synset id="tufs_ger-02397732-a" ili="i13270" partOfSpeech="a"></Synset>
+    <Synset id="tufs_ger-06628228-n" ili="i71315" partOfSpeech="n"></Synset>
+    <Synset id="tufs_ger-06627938-n" ili="i71313" partOfSpeech="n"></Synset>
+    <Synset id="tufs_ger-03959485-n" ili="i57415" partOfSpeech="n"></Synset>
+    <Synset id="tufs_ger-00393105-a" ili="i2223" partOfSpeech="a"></Synset>
+    <Synset id="tufs_ger-08625073-n" ili="i82311" partOfSpeech="n"></Synset>
+    <Synset id="tufs_ger-03051540-n" ili="i52057" partOfSpeech="n"></Synset>
+    <Synset id="tufs_ger-02728440-n" ili="i50098" partOfSpeech="n"></Synset>
+    <Synset id="tufs_ger-03419014-n" ili="i54190" partOfSpeech="n"></Synset>
+    <Synset id="tufs_ger-15165289-n" ili="i116908" partOfSpeech="n"></Synset>
+    <Synset id="tufs_ger-00109151-r" ili="i18828" partOfSpeech="r"></Synset>
+    <Synset id="tufs_ger-03720163-n" ili="i56008" partOfSpeech="n"></Synset>
+    <Synset id="tufs_ger-00024996-a" ili="i119" partOfSpeech="a"></Synset>
+    <Synset id="tufs_ger-01642477-a" ili="i8991" partOfSpeech="a"></Synset>
+    <Synset id="tufs_ger-01641648-a" ili="i8985" partOfSpeech="a"></Synset>
+    <Synset id="tufs_ger-01687167-a" ili="i9239" partOfSpeech="a"></Synset>
+    <Synset id="tufs_ger-02584699-a" ili="i14344" partOfSpeech="a"></Synset>
+    <Synset id="tufs_ger-01686439-a" ili="i9236" partOfSpeech="a"></Synset>
+    <Synset id="tufs_ger-02070491-a" ili="i11346" partOfSpeech="a"></Synset>
+    <Synset id="tufs_ger-02013758-a" ili="i11029" partOfSpeech="a"></Synset>
+    <Synset id="tufs_ger-01640850-a" ili="i8983" partOfSpeech="a"></Synset>
+    <Synset id="tufs_ger-00894552-n" ili="i40105" partOfSpeech="n"></Synset>
+    <Synset id="tufs_ger-01292683-a" ili="i7045" partOfSpeech="a"></Synset>
+    <Synset id="tufs_ger-01777210-v" ili="i30622" partOfSpeech="v"></Synset>
+    <Synset id="tufs_ger-03038685-n" ili="i51976" partOfSpeech="n"></Synset>
+    <Synset id="tufs_ger-00296131-r" ili="i20207" partOfSpeech="r"></Synset>
+    <Synset id="tufs_ger-00154449-r" ili="i19182" partOfSpeech="r"></Synset>
+    <Synset id="tufs_ger-03001627-n" ili="i51746" partOfSpeech="n"></Synset>
+    <Synset id="tufs_ger-01734929-v" ili="i30412" partOfSpeech="v"></Synset>
+    <Synset id="tufs_ger-01914947-v" ili="i31289" partOfSpeech="v"></Synset>
+    <Synset id="tufs_ger-01926311-v" ili="i31347" partOfSpeech="v"></Synset>
+    <Synset id="tufs_ger-02005496-v" ili="i31763" partOfSpeech="v"></Synset>
+    <Synset id="tufs_ger-04298308-n" ili="i59449" partOfSpeech="n"></Synset>
+    <Synset id="tufs_ger-00037919-v" ili="i21956" partOfSpeech="v"></Synset>
+    <Synset id="tufs_ger-01532589-v" ili="i29395" partOfSpeech="v"></Synset>
+    <Synset id="tufs_ger-01533442-v" ili="i29398" partOfSpeech="v"></Synset>
+    <Synset id="tufs_ger-07663592-n" ili="i77197" partOfSpeech="n"></Synset>
+    <Synset id="tufs_ger-08182962-n" ili="i80144" partOfSpeech="n"></Synset>
+    <Synset id="tufs_ger-08182379-n" ili="i80141" partOfSpeech="n"></Synset>
+    <Synset id="tufs_ger-80000079-n" ili="" partOfSpeech="n"></Synset>
+    <Synset id="tufs_ger-10020890-n" ili="i89560" partOfSpeech="n"></Synset>
+    <Synset id="tufs_ger-10305802-n" ili="i91292" partOfSpeech="n"></Synset>
+    <Synset id="tufs_ger-03710193-n" ili="i55941" partOfSpeech="n"></Synset>
+    <Synset id="tufs_ger-03989074-n" ili="i57583" partOfSpeech="n"></Synset>
+    <Synset id="tufs_ger-15136147-n" ili="i116738" partOfSpeech="n"></Synset>
+    <Synset id="tufs_ger-15169873-n" ili="i116937" partOfSpeech="n"></Synset>
+    <Synset id="tufs_ger-15211806-n" ili="i117162" partOfSpeech="n"></Synset>
+    <Synset id="tufs_ger-04489008-n" ili="i60589" partOfSpeech="n"></Synset>
+    <Synset id="tufs_ger-04230808-n" ili="i59017" partOfSpeech="n"></Synset>
+    <Synset id="tufs_ger-08544813-n" ili="i81888" partOfSpeech="n"></Synset>
+    <Synset id="tufs_ger-08490199-n" ili="i81672" partOfSpeech="n"></Synset>
+    <Synset id="tufs_ger-00081737-r" ili="i18634" partOfSpeech="r"></Synset>
+    <Synset id="tufs_ger-00018158-v" ili="i21857" partOfSpeech="v"></Synset>
+    <Synset id="tufs_ger-05538625-n" ili="i66025" partOfSpeech="n"></Synset>
+    <Synset id="tufs_ger-02418686-v" ili="i33829" partOfSpeech="v"></Synset>
+    <Synset id="tufs_ger-04965661-n" ili="i63075" partOfSpeech="n"></Synset>
+    <Synset id="tufs_ger-02561888-a" ili="i14212" partOfSpeech="a"></Synset>
+    <Synset id="tufs_ger-00476663-a" ili="i2692" partOfSpeech="a"></Synset>
+    <Synset id="tufs_ger-05137165-n" ili="i63985" partOfSpeech="n"></Synset>
+    <Synset id="tufs_ger-05131647-n" ili="i63953" partOfSpeech="n"></Synset>
+    <Synset id="tufs_ger-00009966-r" ili="i18204" partOfSpeech="r"></Synset>
+    <Synset id="tufs_ger-10103485-n" ili="i90038" partOfSpeech="n"></Synset>
+    <Synset id="tufs_ger-02958343-n" ili="i51496" partOfSpeech="n"></Synset>
+    <Synset id="tufs_ger-03924069-n" ili="i57205" partOfSpeech="n"></Synset>
+    <Synset id="tufs_ger-10332385-n" ili="i91462" partOfSpeech="n"></Synset>
+    <Synset id="tufs_ger-02410855-v" ili="i33794" partOfSpeech="v"></Synset>
+    <Synset id="tufs_ger-07668702-n" ili="i77237" partOfSpeech="n"></Synset>
+    <Synset id="tufs_ger-00081836-n" ili="i35837" partOfSpeech="n"></Synset>
+    <Synset id="tufs_ger-04203889-n" ili="i58839" partOfSpeech="n"></Synset>
+    <Synset id="tufs_ger-13836136-n" ili="i109628" partOfSpeech="n"></Synset>
+    <Synset id="tufs_ger-02368336-a" ili="i13117" partOfSpeech="a"></Synset>
+    <Synset id="tufs_ger-04254777-n" ili="i59172" partOfSpeech="n"></Synset>
+    <Synset id="tufs_ger-01845229-v" ili="i30937" partOfSpeech="v"></Synset>
+    <Synset id="tufs_ger-01846916-v" ili="i30944" partOfSpeech="v"></Synset>
+    <Synset id="tufs_ger-01845720-v" ili="i30940" partOfSpeech="v"></Synset>
+    <Synset id="tufs_ger-00061203-r" ili="i18505" partOfSpeech="r"></Synset>
+    <Synset id="tufs_ger-10112591-n" ili="i90098" partOfSpeech="n"></Synset>
+    <Synset id="tufs_ger-08588294-n" ili="i82110" partOfSpeech="n"></Synset>
+    <Synset id="tufs_ger-08588152-n" ili="i82109" partOfSpeech="n"></Synset>
+    <Synset id="tufs_ger-77000021-n" ili="" partOfSpeech="n"></Synset>
+    <Synset id="tufs_ger-02771169-v" ili="i35537" partOfSpeech="v"></Synset>
+    <Synset id="tufs_ger-77000061-a" ili="" partOfSpeech="a"></Synset>
+    <Synset id="tufs_ger-80001619-a" ili="" partOfSpeech="a"></Synset>
+    <Synset id="tufs_ger-77000075-a" ili="" partOfSpeech="a"></Synset>
+    <Synset id="tufs_ger-08649345-n" ili="i82421" partOfSpeech="n"></Synset>
+    <Synset id="tufs_ger-15211484-n" ili="i117160" partOfSpeech="n"></Synset>
+    <Synset id="tufs_ger-05563770-n" ili="i66150" partOfSpeech="n"></Synset>
+    <Synset id="tufs_ger-15165490-n" ili="i116909" partOfSpeech="n"></Synset>
+    <Synset id="tufs_ger-04272054-n" ili="i59285" partOfSpeech="n"></Synset>
+    <Synset id="tufs_ger-80000746-n" ili="" partOfSpeech="n"></Synset>
+    <Synset id="tufs_ger-10287213-n" ili="i91182" partOfSpeech="n"></Synset>
+    <Synset id="tufs_ger-09624168-n" ili="i87226" partOfSpeech="n"></Synset>
+    <Synset id="tufs_ger-15164105-n" ili="i116901" partOfSpeech="n"></Synset>
+    <Synset id="tufs_ger-77000099-n" ili="" partOfSpeech="n"></Synset>
+    <Synset id="tufs_ger-00479391-v" ili="i24110" partOfSpeech="v"></Synset>
+    <Synset id="tufs_ger-03238879-n" ili="i53154" partOfSpeech="n"></Synset>
+    <Synset id="tufs_ger-02412164-a" ili="i13354" partOfSpeech="a"></Synset>
+    <Synset id="tufs_ger-02414188-a" ili="i13362" partOfSpeech="a"></Synset>
+    <Synset id="tufs_ger-08489627-n" ili="i81668" partOfSpeech="n"></Synset>
+    <Synset id="tufs_ger-01168468-v" ili="i27459" partOfSpeech="v"></Synset>
+    <Synset id="tufs_ger-01166351-v" ili="i27450" partOfSpeech="v"></Synset>
+    <Synset id="tufs_ger-01179865-v" ili="i27518" partOfSpeech="v"></Synset>
+    <Synset id="tufs_ger-15122231-n" ili="i116667" partOfSpeech="n"></Synset>
+    <Synset id="tufs_ger-02818832-n" ili="i50635" partOfSpeech="n"></Synset>
+    <Synset id="tufs_ger-90000503-n" ili="" partOfSpeech="n"></Synset>
+    <Synset id="tufs_ger-08168367-n" ili="i80075" partOfSpeech="n"></Synset>
+    <Synset id="tufs_ger-02560548-a" ili="i14204" partOfSpeech="a"></Synset>
+    <Synset id="tufs_ger-01384212-a" ili="i7538" partOfSpeech="a"></Synset>
+    <Synset id="tufs_ger-00255710-n" ili="i36736" partOfSpeech="n"></Synset>
+    <Synset id="tufs_ger-07110457-n" ili="i74025" partOfSpeech="n"></Synset>
+    <Synset id="tufs_ger-00893243-n" ili="i40098" partOfSpeech="n"></Synset>
+    <Synset id="tufs_ger-07221094-n" ili="i74608" partOfSpeech="n"></Synset>
+    <Synset id="tufs_ger-07139316-n" ili="i74181" partOfSpeech="n"></Synset>
+    <Synset id="tufs_ger-00031798-r" ili="i18319" partOfSpeech="r"></Synset>
+    <Synset id="tufs_ger-07555863-n" ili="i76470" partOfSpeech="n"></Synset>
+    <Synset id="tufs_ger-07560652-n" ili="i76481" partOfSpeech="n"></Synset>
+    <Synset id="tufs_ger-00157412-r" ili="i19205" partOfSpeech="r"></Synset>
+    <Synset id="tufs_ger-00021212-r" ili="i18264" partOfSpeech="r"></Synset>
+    <Synset id="tufs_ger-03740161-n" ili="i56119" partOfSpeech="n"></Synset>
+    <Synset id="tufs_ger-02318272-a" ili="i12840" partOfSpeech="a"></Synset>
+    <Synset id="tufs_ger-02310895-a" ili="i12795" partOfSpeech="a"></Synset>
+    <Synset id="tufs_ger-02314584-a" ili="i12816" partOfSpeech="a"></Synset>
+    <Synset id="tufs_ger-10787470-n" ili="i94168" partOfSpeech="n"></Synset>
+    <Synset id="tufs_ger-10736091-n" ili="i93825" partOfSpeech="n"></Synset>
+    <Synset id="tufs_ger-04404997-n" ili="i60086" partOfSpeech="n"></Synset>
+    <Synset id="tufs_ger-02942699-n" ili="i51401" partOfSpeech="n"></Synset>
+    <Synset id="tufs_ger-04370048-n" ili="i59874" partOfSpeech="n"></Synset>
+    <Synset id="tufs_ger-02626604-v" ili="i34806" partOfSpeech="v"></Synset>
+    <Synset id="tufs_ger-02623529-v" ili="i34790" partOfSpeech="v"></Synset>
+    <Synset id="tufs_ger-04398497-n" ili="i60049" partOfSpeech="n"></Synset>
+    <Synset id="tufs_ger-00081591-r" ili="i18633" partOfSpeech="r"></Synset>
+    <Synset id="tufs_ger-01535246-v" ili="i29407" partOfSpeech="v"></Synset>
+    <Synset id="tufs_ger-00606093-v" ili="i24790" partOfSpeech="v"></Synset>
+    <Synset id="tufs_ger-01723224-v" ili="i30355" partOfSpeech="v"></Synset>
+    <Synset id="tufs_ger-15156187-n" ili="i116862" partOfSpeech="n"></Synset>
+    <Synset id="tufs_ger-01919428-a" ili="i10527" partOfSpeech="a"></Synset>
+    <Synset id="tufs_ger-01918984-a" ili="i10525" partOfSpeech="a"></Synset>
+    <Synset id="tufs_ger-04437953-n" ili="i60281" partOfSpeech="n"></Synset>
+    <Synset id="tufs_ger-03046257-n" ili="i52025" partOfSpeech="n"></Synset>
+    <Synset id="tufs_ger-04350905-n" ili="i59760" partOfSpeech="n"></Synset>
+    <Synset id="tufs_ger-00409440-a" ili="i2320" partOfSpeech="a"></Synset>
+    <Synset id="tufs_ger-00842199-a" ili="i4620" partOfSpeech="a"></Synset>
+    <Synset id="tufs_ger-15163979-n" ili="i116900" partOfSpeech="n"></Synset>
+    <Synset id="tufs_ger-00059413-r" ili="i18495" partOfSpeech="r"></Synset>
+    <Synset id="tufs_ger-00035058-r" ili="i18345" partOfSpeech="r"></Synset>
+    <Synset id="tufs_ger-05687338-n" ili="i66801" partOfSpeech="n"></Synset>
+    <Synset id="tufs_ger-06784003-n" ili="i72137" partOfSpeech="n"></Synset>
+    <Synset id="tufs_ger-03281145-n" ili="i53387" partOfSpeech="n"></Synset>
+    <Synset id="tufs_ger-05320899-n" ili="i64921" partOfSpeech="n"></Synset>
+    <Synset id="tufs_ger-00007846-n" ili="i35562" partOfSpeech="n"></Synset>
+    <Synset id="tufs_ger-03436182-n" ili="i54286" partOfSpeech="n"></Synset>
+    <Synset id="tufs_ger-04284002-n" ili="i59365" partOfSpeech="n"></Synset>
+    <Synset id="tufs_ger-13134947-n" ili="i105676" partOfSpeech="n"></Synset>
+    <Synset id="tufs_ger-11683989-n" ili="i98741" partOfSpeech="n"></Synset>
+    <Synset id="tufs_ger-02730813-v" ili="i35319" partOfSpeech="v"></Synset>
+    <Synset id="tufs_ger-01009240-v" ili="i26632" partOfSpeech="v"></Synset>
+    <Synset id="tufs_ger-00941990-v" ili="i26316" partOfSpeech="v"></Synset>
+    <Synset id="tufs_ger-00979870-v" ili="i26486" partOfSpeech="v"></Synset>
+    <Synset id="tufs_ger-04507155-n" ili="i60698" partOfSpeech="n"></Synset>
+    <Synset id="tufs_ger-02229324-a" ili="i12321" partOfSpeech="a"></Synset>
+    <Synset id="tufs_ger-01870636-a" ili="i10268" partOfSpeech="a"></Synset>
+    <Synset id="tufs_ger-01128103-a" ili="i6183" partOfSpeech="a"></Synset>
+    <Synset id="tufs_ger-02229000-a" ili="i12319" partOfSpeech="a"></Synset>
+    <Synset id="tufs_ger-15270431-n" ili="i117493" partOfSpeech="n"></Synset>
+    <Synset id="tufs_ger-15227846-n" ili="i117257" partOfSpeech="n"></Synset>
+    <Synset id="tufs_ger-15269513-n" ili="i117490" partOfSpeech="n"></Synset>
+    <Synset id="tufs_ger-00744916-a" ili="i4128" partOfSpeech="a"></Synset>
+    <Synset id="tufs_ger-04401088-n" ili="i60065" partOfSpeech="n"></Synset>
+    <Synset id="tufs_ger-06272803-n" ili="i69471" partOfSpeech="n"></Synset>
+    <Synset id="tufs_ger-02870092-n" ili="i50953" partOfSpeech="n"></Synset>
+    <Synset id="tufs_ger-06410904-n" ili="i70180" partOfSpeech="n"></Synset>
+    <Synset id="tufs_ger-09972010-n" ili="i89276" partOfSpeech="n"></Synset>
+    <Synset id="tufs_ger-14974264-n" ili="i115832" partOfSpeech="n"></Synset>
+    <Synset id="tufs_ger-80000677-n" ili="" partOfSpeech="n"></Synset>
+    <Synset id="tufs_ger-06255777-n" ili="i69378" partOfSpeech="n"></Synset>
+    <Synset id="tufs_ger-04960277-n" ili="i63040" partOfSpeech="n"></Synset>
+    <Synset id="tufs_ger-02770717-v" ili="i35535" partOfSpeech="v"></Synset>
+    <Synset id="tufs_ger-02529945-a" ili="i14032" partOfSpeech="a"></Synset>
+    <Synset id="tufs_ger-02207206-v" ili="i32788" partOfSpeech="v"></Synset>
+    <Synset id="tufs_ger-02208265-v" ili="i32791" partOfSpeech="v"></Synset>
+    <Synset id="tufs_ger-00422620-a" ili="i2393" partOfSpeech="a"></Synset>
+    <Synset id="tufs_ger-01908889-a" ili="i10466" partOfSpeech="a"></Synset>
+    <Synset id="tufs_ger-00419289-a" ili="i2378" partOfSpeech="a"></Synset>
+    <Synset id="tufs_ger-01345109-v" ili="i28418" partOfSpeech="v"></Synset>
+    <Synset id="tufs_ger-01960911-v" ili="i31534" partOfSpeech="v"></Synset>
+    <Synset id="tufs_ger-00933154-a" ili="i5114" partOfSpeech="a"></Synset>
+    <Synset id="tufs_ger-04199027-n" ili="i58817" partOfSpeech="n"></Synset>
+    <Synset id="tufs_ger-04330340-n" ili="i59646" partOfSpeech="n"></Synset>
+    <Synset id="tufs_ger-07823951-n" ili="i78250" partOfSpeech="n"></Synset>
+    <Synset id="tufs_ger-05598147-n" ili="i66329" partOfSpeech="n"></Synset>
+    <Synset id="tufs_ger-05658826-n" ili="i66659" partOfSpeech="n"></Synset>
+    <Synset id="tufs_ger-06947032-n" ili="i73104" partOfSpeech="n"></Synset>
+    <Synset id="tufs_ger-07575726-n" ili="i76571" partOfSpeech="n"></Synset>
+    <Synset id="tufs_ger-03485794-n" ili="i54611" partOfSpeech="n"></Synset>
+    <Synset id="tufs_ger-01198101-v" ili="i27612" partOfSpeech="v"></Synset>
+    <Synset id="tufs_ger-02741003-v" ili="i35375" partOfSpeech="v"></Synset>
+    <Synset id="tufs_ger-01206474-a" ili="i6595" partOfSpeech="a"></Synset>
+    <Synset id="tufs_ger-13832355-n" ili="i109598" partOfSpeech="n"></Synset>
+    <Synset id="tufs_ger-11525955-n" ili="i98175" partOfSpeech="n"></Synset>
+    <Synset id="tufs_ger-02324182-v" ili="i33357" partOfSpeech="v"></Synset>
+    <Synset id="tufs_ger-01437963-a" ili="i7859" partOfSpeech="a"></Synset>
+    <Synset id="tufs_ger-01433493-a" ili="i7833" partOfSpeech="a"></Synset>
+    <Synset id="tufs_ger-01444022-a" ili="i7893" partOfSpeech="a"></Synset>
+    <Synset id="tufs_ger-80001077-n" ili="" partOfSpeech="n"></Synset>
+    <Synset id="tufs_ger-10665698-n" ili="i93383" partOfSpeech="n"></Synset>
+    <Synset id="tufs_ger-10251779-n" ili="i90958" partOfSpeech="n"></Synset>
+    <Synset id="tufs_ger-08615374-n" ili="i82260" partOfSpeech="n"></Synset>
+    <Synset id="tufs_ger-77000064-n" ili="" partOfSpeech="n"></Synset>
+    <Synset id="tufs_ger-03290771-n" ili="i53438" partOfSpeech="n"></Synset>
+    <Synset id="tufs_ger-06409752-n" ili="i70172" partOfSpeech="n"></Synset>
+    <Synset id="tufs_ger-10286084-n" ili="i91174" partOfSpeech="n"></Synset>
+    <Synset id="tufs_ger-09876454-n" ili="i88708" partOfSpeech="n"></Synset>
+    <Synset id="tufs_ger-80001731-n" ili="" partOfSpeech="n"></Synset>
+    <Synset id="tufs_ger-77000031-n" ili="" partOfSpeech="n"></Synset>
+    <Synset id="tufs_ger-00934199-a" ili="i5119" partOfSpeech="a"></Synset>
+    <Synset id="tufs_ger-00935103-a" ili="i5124" partOfSpeech="a"></Synset>
+    <Synset id="tufs_ger-02747802-n" ili="i50204" partOfSpeech="n"></Synset>
+    <Synset id="tufs_ger-15213115-n" ili="i117170" partOfSpeech="n"></Synset>
+    <Synset id="tufs_ger-15203791-n" ili="i117116" partOfSpeech="n"></Synset>
+    <Synset id="tufs_ger-03619890-n" ili="i55397" partOfSpeech="n"></Synset>
+    <Synset id="tufs_ger-00273734-v" ili="i23087" partOfSpeech="v"></Synset>
+    <Synset id="tufs_ger-00829107-v" ili="i25800" partOfSpeech="v"></Synset>
+    <Synset id="tufs_ger-00963570-v" ili="i26413" partOfSpeech="v"></Synset>
+    <Synset id="tufs_ger-00815686-v" ili="i25740" partOfSpeech="v"></Synset>
+    <Synset id="tufs_ger-00635523-v" ili="i24915" partOfSpeech="v"></Synset>
+    <Synset id="tufs_ger-03417345-n" ili="i54178" partOfSpeech="n"></Synset>
+    <Synset id="tufs_ger-03417749-n" ili="i54179" partOfSpeech="n"></Synset>
+    <Synset id="tufs_ger-01775164-v" ili="i30611" partOfSpeech="v"></Synset>
+    <Synset id="tufs_ger-01828736-v" ili="i30870" partOfSpeech="v"></Synset>
+    <Synset id="tufs_ger-06418901-n" ili="i70226" partOfSpeech="n"></Synset>
+    <Synset id="tufs_ger-15164570-n" ili="i116905" partOfSpeech="n"></Synset>
+    <Synset id="tufs_ger-00284798-n" ili="i36890" partOfSpeech="n"></Synset>
+    <Synset id="tufs_ger-00284101-n" ili="i36886" partOfSpeech="n"></Synset>
+    <Synset id="tufs_ger-01712704-v" ili="i30309" partOfSpeech="v"></Synset>
+    <Synset id="tufs_ger-08277393-n" ili="i80637" partOfSpeech="n"></Synset>
+    <Synset id="tufs_ger-08276720-n" ili="i80636" partOfSpeech="n"></Synset>
+    <Synset id="tufs_ger-00161630-r" ili="i19235" partOfSpeech="r"></Synset>
+    <Synset id="tufs_ger-90000506-n" ili="" partOfSpeech="n"></Synset>
+    <Synset id="tufs_ger-03057021-n" ili="i52086" partOfSpeech="n"></Synset>
+    <Synset id="tufs_ger-03589791-n" ili="i55213" partOfSpeech="n"></Synset>
+    <Synset id="tufs_ger-06929279-n" ili="i72985" partOfSpeech="n"></Synset>
+    <Synset id="tufs_ger-03303965-n" ili="i53516" partOfSpeech="n"></Synset>
+    <Synset id="tufs_ger-10142391-n" ili="i90287" partOfSpeech="n"></Synset>
+    <Synset id="tufs_ger-07934530-n" ili="i79013" partOfSpeech="n"></Synset>
+    <Synset id="tufs_ger-07933274-n" ili="i79004" partOfSpeech="n"></Synset>
+    <Synset id="tufs_ger-07989373-n" ili="i79273" partOfSpeech="n"></Synset>
+    <Synset id="tufs_ger-10146559-n" ili="i90320" partOfSpeech="n"></Synset>
+    <Synset id="tufs_ger-03457686-n" ili="i54429" partOfSpeech="n"></Synset>
+    <Synset id="tufs_ger-03147509-n" ili="i52613" partOfSpeech="n"></Synset>
+    <Synset id="tufs_ger-03972524-n" ili="i57481" partOfSpeech="n"></Synset>
+    <Synset id="tufs_ger-04968895-n" ili="i63098" partOfSpeech="n"></Synset>
+    <Synset id="tufs_ger-01555416-a" ili="i8537" partOfSpeech="a"></Synset>
+    <Synset id="tufs_ger-01552885-a" ili="i8526" partOfSpeech="a"></Synset>
+    <Synset id="tufs_ger-00017865-v" ili="i21856" partOfSpeech="v"></Synset>
+    <Synset id="tufs_ger-00450147-a" ili="i2530" partOfSpeech="a"></Synset>
+    <Synset id="tufs_ger-00444519-a" ili="i2502" partOfSpeech="a"></Synset>
+    <Synset id="tufs_ger-00445169-a" ili="i2504" partOfSpeech="a"></Synset>
+    <Synset id="tufs_ger-00584367-n" ili="i38467" partOfSpeech="n"></Synset>
+    <Synset id="tufs_ger-07574602-n" ili="i76564" partOfSpeech="n"></Synset>
+    <Synset id="tufs_ger-08078020-n" ili="i79671" partOfSpeech="n"></Synset>
+    <Synset id="tufs_ger-10236304-n" ili="i90858" partOfSpeech="n"></Synset>
+    <Synset id="tufs_ger-07970406-n" ili="i79199" partOfSpeech="n"></Synset>
+    <Synset id="tufs_ger-09918248-n" ili="i88965" partOfSpeech="n"></Synset>
+    <Synset id="tufs_ger-12212361-n" ili="i101266" partOfSpeech="n"></Synset>
+    <Synset id="tufs_ger-07707451-n" ili="i77501" partOfSpeech="n"></Synset>
+    <Synset id="tufs_ger-03365991-n" ili="i53866" partOfSpeech="n"></Synset>
+    <Synset id="tufs_ger-00976508-a" ili="i5342" partOfSpeech="a"></Synset>
+    <Synset id="tufs_ger-00981818-a" ili="i5370" partOfSpeech="a"></Synset>
+    <Synset id="tufs_ger-00979862-a" ili="i5358" partOfSpeech="a"></Synset>
+    <Synset id="tufs_ger-07644382-n" ili="i77063" partOfSpeech="n"></Synset>
+    <Synset id="tufs_ger-07644967-n" ili="i77065" partOfSpeech="n"></Synset>
+    <Synset id="tufs_ger-07813107-n" ili="i78175" partOfSpeech="n"></Synset>
+    <Synset id="tufs_ger-07825972-n" ili="i78265" partOfSpeech="n"></Synset>
+    <Synset id="tufs_ger-02005948-v" ili="i31766" partOfSpeech="v"></Synset>
+    <Synset id="tufs_ger-02930766-n" ili="i51329" partOfSpeech="n"></Synset>
+    <Synset id="tufs_ger-04371225-n" ili="i59881" partOfSpeech="n"></Synset>
+    <Synset id="tufs_ger-00604617-a" ili="i3356" partOfSpeech="a"></Synset>
+    <Synset id="tufs_ger-15237250-n" ili="i117310" partOfSpeech="n"></Synset>
+    <Synset id="tufs_ger-03757138-n" ili="i56197" partOfSpeech="n"></Synset>
+    <Synset id="tufs_ger-04349306-n" ili="i59748" partOfSpeech="n"></Synset>
+    <Synset id="tufs_ger-77000090-n" ili="" partOfSpeech="n"></Synset>
+    <Synset id="tufs_ger-80001331-x" ili="" partOfSpeech="x"></Synset>
+    <Synset id="tufs_ger-77000104-n" ili="" partOfSpeech="n"></Synset>
+    <Synset id="tufs_ger-04105893-n" ili="i58265" partOfSpeech="n"></Synset>
+    <Synset id="tufs_ger-06415419-n" ili="i70205" partOfSpeech="n"></Synset>
+    <Synset id="tufs_ger-01376705-a" ili="i7498" partOfSpeech="a"></Synset>
+    <Synset id="tufs_ger-01375831-a" ili="i7494" partOfSpeech="a"></Synset>
+    <Synset id="tufs_ger-00953216-v" ili="i26365" partOfSpeech="v"></Synset>
+    <Synset id="tufs_ger-00962447-v" ili="i26408" partOfSpeech="v"></Synset>
+    <Synset id="tufs_ger-02935891-n" ili="i51357" partOfSpeech="n"></Synset>
+    <Synset id="tufs_ger-01984902-v" ili="i31660" partOfSpeech="v"></Synset>
+    <Synset id="tufs_ger-00120223-r" ili="i18906" partOfSpeech="r"></Synset>
+    <Synset id="tufs_ger-00120095-r" ili="i18905" partOfSpeech="r"></Synset>
+    <Synset id="tufs_ger-02386612-a" ili="i13214" partOfSpeech="a"></Synset>
+    <Synset id="tufs_ger-03025755-n" ili="i51899" partOfSpeech="n"></Synset>
+    <Synset id="tufs_ger-15166191-n" ili="i116914" partOfSpeech="n"></Synset>
+    <Synset id="tufs_ger-80000080-n" ili="" partOfSpeech="n"></Synset>
+    <Synset id="tufs_ger-06624161-n" ili="i71287" partOfSpeech="n"></Synset>
+    <Synset id="tufs_ger-01909812-v" ili="i31263" partOfSpeech="v"></Synset>
+    <Synset id="tufs_ger-07929519-n" ili="i78981" partOfSpeech="n"></Synset>
+    <Synset id="tufs_ger-01729431-v" ili="i30388" partOfSpeech="v"></Synset>
+    <Synset id="tufs_ger-11501381-n" ili="i98034" partOfSpeech="n"></Synset>
+    <Synset id="tufs_ger-07749582-n" ili="i77775" partOfSpeech="n"></Synset>
+    <Synset id="tufs_ger-90000511-n" ili="" partOfSpeech="n"></Synset>
+    <Synset id="tufs_ger-00118032-r" ili="i18892" partOfSpeech="r"></Synset>
+    <Synset id="tufs_ger-04468005-n" ili="i60459" partOfSpeech="n"></Synset>
+    <Synset id="tufs_ger-77000002-n" ili="" partOfSpeech="n"></Synset>
+    <Synset id="tufs_ger-15206296-n" ili="i117131" partOfSpeech="n"></Synset>
+    <Synset id="tufs_ger-02834778-n" ili="i50735" partOfSpeech="n"></Synset>
+    <Synset id="tufs_ger-06597466-n" ili="i71131" partOfSpeech="n"></Synset>
+    <Synset id="tufs_ger-06595351-n" ili="i71119" partOfSpeech="n"></Synset>
+    <Synset id="tufs_ger-03704210-n" ili="i55910" partOfSpeech="n"></Synset>
+    <Synset id="tufs_ger-08238463-n" ili="i80413" partOfSpeech="n"></Synset>
+    <Synset id="tufs_ger-00050454-v" ili="i22023" partOfSpeech="v"></Synset>
+    <Synset id="tufs_ger-02649830-v" ili="i34919" partOfSpeech="v"></Synset>
+    <Synset id="tufs_ger-15155891-n" ili="i116860" partOfSpeech="n"></Synset>
+    <Synset id="tufs_ger-04208936-n" ili="i58872" partOfSpeech="n"></Synset>
+    <Synset id="tufs_ger-15213774-n" ili="i117174" partOfSpeech="n"></Synset>
+    <Synset id="tufs_ger-00625119-v" ili="i24875" partOfSpeech="v"></Synset>
+    <Synset id="tufs_ger-02774152-n" ili="i50361" partOfSpeech="n"></Synset>
+    <Synset id="tufs_ger-02773037-n" ili="i50359" partOfSpeech="n"></Synset>
+    <Synset id="tufs_ger-13250542-n" ili="i106280" partOfSpeech="n"></Synset>
+    <Synset id="tufs_ger-13384557-n" ili="i107057" partOfSpeech="n"></Synset>
+    <Synset id="tufs_ger-05600637-n" ili="i66344" partOfSpeech="n"></Synset>
+    <Synset id="tufs_ger-07597365-n" ili="i76721" partOfSpeech="n"></Synset>
+    <Synset id="tufs_ger-00024356-r" ili="i18282" partOfSpeech="r"></Synset>
+    <Synset id="tufs_ger-03176763-n" ili="i52795" partOfSpeech="n"></Synset>
+    <Synset id="tufs_ger-01725051-v" ili="i30364" partOfSpeech="v"></Synset>
+    <Synset id="tufs_ger-03388183-n" ili="i54010" partOfSpeech="n"></Synset>
+    <Synset id="tufs_ger-77000089-a" ili="" partOfSpeech="a"></Synset>
+    <Synset id="tufs_ger-15164354-n" ili="i116903" partOfSpeech="n"></Synset>
+    <Synset id="tufs_ger-00056916-r" ili="i18478" partOfSpeech="r"></Synset>
+    <Synset id="tufs_ger-00816481-a" ili="i4495" partOfSpeech="a"></Synset>
+    <Synset id="tufs_ger-01901186-a" ili="i10422" partOfSpeech="a"></Synset>
+    <Synset id="tufs_ger-04956594-n" ili="i63025" partOfSpeech="n"></Synset>
+    <Synset id="tufs_ger-04674968-n" ili="i61623" partOfSpeech="n"></Synset>
+    <Synset id="tufs_ger-07109730-n" ili="i74023" partOfSpeech="n"></Synset>
+    <Synset id="tufs_ger-06282651-n" ili="i69527" partOfSpeech="n"></Synset>
+    <Synset id="tufs_ger-00121135-r" ili="i18911" partOfSpeech="r"></Synset>
+    <Synset id="tufs_ger-04962784-n" ili="i63054" partOfSpeech="n"></Synset>
+    <Synset id="tufs_ger-03871083-n" ili="i56879" partOfSpeech="n"></Synset>
+    <Synset id="tufs_ger-02774630-n" ili="i50363" partOfSpeech="n"></Synset>
+    <Synset id="tufs_ger-07891726-n" ili="i78715" partOfSpeech="n"></Synset>
+    <Synset id="tufs_ger-07884567-n" ili="i78673" partOfSpeech="n"></Synset>
+    <Synset id="tufs_ger-07891433-n" ili="i78713" partOfSpeech="n"></Synset>
+    <Synset id="tufs_ger-15164463-n" ili="i116904" partOfSpeech="n"></Synset>
+    <Synset id="tufs_ger-03581125-n" ili="i55158" partOfSpeech="n"></Synset>
+    <Synset id="tufs_ger-02410393-a" ili="i13343" partOfSpeech="a"></Synset>
+    <Synset id="tufs_ger-02415390-a" ili="i13371" partOfSpeech="a"></Synset>
+    <Synset id="tufs_ger-02756821-v" ili="i35465" partOfSpeech="v"></Synset>
+    <Synset id="tufs_ger-02529264-a" ili="i14028" partOfSpeech="a"></Synset>
+    <Synset id="tufs_ger-01546111-v" ili="i29462" partOfSpeech="v"></Synset>
+    <Synset id="tufs_ger-10142747-n" ili="i90289" partOfSpeech="n"></Synset>
+    <Synset id="tufs_ger-07679356-n" ili="i77313" partOfSpeech="n"></Synset>
+    <Synset id="tufs_ger-03259505-n" ili="i53274" partOfSpeech="n"></Synset>
+    <Synset id="tufs_ger-03544360-n" ili="i54960" partOfSpeech="n"></Synset>
+    <Synset id="tufs_ger-08559508-n" ili="i81964" partOfSpeech="n"></Synset>
+    <Synset id="tufs_ger-15210486-n" ili="i117154" partOfSpeech="n"></Synset>
+    <Synset id="tufs_ger-15167349-n" ili="i116920" partOfSpeech="n"></Synset>
+    <Synset id="tufs_ger-15155747-n" ili="i116859" partOfSpeech="n"></Synset>
+    <Synset id="tufs_ger-15167027-n" ili="i116919" partOfSpeech="n"></Synset>
+    <Synset id="tufs_ger-15167474-n" ili="i116921" partOfSpeech="n"></Synset>
+    <Synset id="tufs_ger-03438257-n" ili="i54302" partOfSpeech="n"></Synset>
+    <Synset id="tufs_ger-08613593-n" ili="i82248" partOfSpeech="n"></Synset>
+    <Synset id="tufs_ger-03338821-n" ili="i53700" partOfSpeech="n"></Synset>
+    <Synset id="tufs_ger-06613686-n" ili="i71223" partOfSpeech="n"></Synset>
+    <Synset id="tufs_ger-06262567-n" ili="i69416" partOfSpeech="n"></Synset>
+    <Synset id="tufs_ger-04096066-n" ili="i58206" partOfSpeech="n"></Synset>
+    <Synset id="tufs_ger-15212739-n" ili="i117168" partOfSpeech="n"></Synset>
+    <Synset id="tufs_ger-77000079-a" ili="" partOfSpeech="a"></Synset>
+    <Synset id="tufs_ger-14524198-n" ili="i113329" partOfSpeech="n"></Synset>
+    <Synset id="tufs_ger-13828795-n" ili="i109576" partOfSpeech="n"></Synset>
+    <Synset id="tufs_ger-00543233-n" ili="i38249" partOfSpeech="n"></Synset>
+    <Synset id="tufs_ger-05718556-n" ili="i66962" partOfSpeech="n"></Synset>
+    <Synset id="tufs_ger-05718935-n" ili="i66963" partOfSpeech="n"></Synset>
+    <Synset id="tufs_ger-07020895-n" ili="i73566" partOfSpeech="n"></Synset>
+    <Synset id="tufs_ger-00409709-r" ili="i20949" partOfSpeech="r"></Synset>
+    <Synset id="tufs_ger-08641113-n" ili="i82369" partOfSpeech="n"></Synset>
+    <Synset id="tufs_ger-03112099-n" ili="i52386" partOfSpeech="n"></Synset>
+    <Synset id="tufs_ger-03661043-n" ili="i55652" partOfSpeech="n"></Synset>
+    <Synset id="tufs_ger-07840804-n" ili="i78362" partOfSpeech="n"></Synset>
+    <Synset id="tufs_ger-90000502-n" ili="" partOfSpeech="n"></Synset>
+    <Synset id="tufs_ger-03908204-n" ili="i57109" partOfSpeech="n"></Synset>
+    <Synset id="tufs_ger-14796748-n" ili="i114792" partOfSpeech="n"></Synset>
+    <Synset id="tufs_ger-05282433-n" ili="i64722" partOfSpeech="n"></Synset>
+    <Synset id="tufs_ger-05282746-n" ili="i64724" partOfSpeech="n"></Synset>
+    <Synset id="tufs_ger-01649720-a" ili="i9036" partOfSpeech="a"></Synset>
+    <Synset id="tufs_ger-01646941-a" ili="i9017" partOfSpeech="a"></Synset>
+    <Synset id="tufs_ger-00514884-a" ili="i2893" partOfSpeech="a"></Synset>
+    <Synset id="tufs_ger-00988232-a" ili="i5410" partOfSpeech="a"></Synset>
+    <Synset id="tufs_ger-01029368-v" ili="i26721" partOfSpeech="v"></Synset>
+    <Synset id="tufs_ger-77000084-n" ili="" partOfSpeech="n"></Synset>
+    <Synset id="tufs_ger-00220082-a" ili="i1206" partOfSpeech="a"></Synset>
+    <Synset id="tufs_ger-01586342-a" ili="i8695" partOfSpeech="a"></Synset>
+    <Synset id="tufs_ger-01346003-v" ili="i28422" partOfSpeech="v"></Synset>
+    <Synset id="tufs_ger-09853467-n" ili="i88560" partOfSpeech="n"></Synset>
+    <Synset id="tufs_ger-03102654-n" ili="i52330" partOfSpeech="n"></Synset>
+    <Synset id="tufs_ger-03273913-n" ili="i53352" partOfSpeech="n"></Synset>
+    <Synset id="tufs_ger-07845335-n" ili="i78389" partOfSpeech="n"></Synset>
+    <Synset id="tufs_ger-07844042-n" ili="i78383" partOfSpeech="n"></Synset>
+    <Synset id="tufs_ger-10780632-n" ili="i94123" partOfSpeech="n"></Synset>
+    <Synset id="tufs_ger-08625462-n" ili="i82313" partOfSpeech="n"></Synset>
+    <Synset id="tufs_ger-90000508-n" ili="" partOfSpeech="n"></Synset>
+    <Synset id="tufs_ger-01848718-v" ili="i30954" partOfSpeech="v"></Synset>
+    <Synset id="tufs_ger-06518719-n" ili="i70722" partOfSpeech="n"></Synset>
+    <Synset id="tufs_ger-01470670-v" ili="i29072" partOfSpeech="v"></Synset>
+    <Synset id="tufs_ger-02428924-v" ili="i33876" partOfSpeech="v"></Synset>
+    <Synset id="tufs_ger-10285313-n" ili="i91171" partOfSpeech="n"></Synset>
+    <Synset id="tufs_ger-03542333-n" ili="i54946" partOfSpeech="n"></Synset>
+    <Synset id="tufs_ger-02913152-n" ili="i51221" partOfSpeech="n"></Synset>
+    <Synset id="tufs_ger-07649854-n" ili="i77100" partOfSpeech="n"></Synset>
+    <Synset id="tufs_ger-09397391-n" ili="i86003" partOfSpeech="n"></Synset>
+    <Synset id="tufs_ger-07935152-n" ili="i79018" partOfSpeech="n"></Synset>
+    <Synset id="tufs_ger-03082979-n" ili="i52237" partOfSpeech="n"></Synset>
+    <Synset id="tufs_ger-00312553-n" ili="i37051" partOfSpeech="n"></Synset>
+    <Synset id="tufs_ger-04043733-n" ili="i57905" partOfSpeech="n"></Synset>
+    <Synset id="tufs_ger-01442186-a" ili="i7884" partOfSpeech="a"></Synset>
+    <Synset id="tufs_ger-01436003-a" ili="i7847" partOfSpeech="a"></Synset>
+    <Synset id="tufs_ger-01442826-a" ili="i7886" partOfSpeech="a"></Synset>
+    <Synset id="tufs_ger-14513694-n" ili="i113273" partOfSpeech="n"></Synset>
+    <Synset id="tufs_ger-02808440-n" ili="i50564" partOfSpeech="n"></Synset>
+    <Synset id="tufs_ger-02807731-n" ili="i50559" partOfSpeech="n"></Synset>
+    <Synset id="tufs_ger-15274074-n" ili="i117514" partOfSpeech="n"></Synset>
+    <Synset id="tufs_ger-15183428-n" ili="i117003" partOfSpeech="n"></Synset>
+    <Synset id="tufs_ger-15137890-n" ili="i116749" partOfSpeech="n"></Synset>
+    <Synset id="tufs_ger-00027918-r" ili="i18300" partOfSpeech="r"></Synset>
+    <Synset id="tufs_ger-00031304-r" ili="i18316" partOfSpeech="r"></Synset>
+    <Synset id="tufs_ger-03925226-n" ili="i57211" partOfSpeech="n"></Synset>
+    <Synset id="tufs_ger-03931044-n" ili="i57243" partOfSpeech="n"></Synset>
+    <Synset id="tufs_ger-04248607-n" ili="i59132" partOfSpeech="n"></Synset>
+    <Synset id="tufs_ger-15164233-n" ili="i116902" partOfSpeech="n"></Synset>
+    <Synset id="tufs_ger-11524662-n" ili="i98170" partOfSpeech="n"></Synset>
+    <Synset id="tufs_ger-07193184-n" ili="i74458" partOfSpeech="n"></Synset>
+    <Synset id="tufs_ger-07196682-n" ili="i74475" partOfSpeech="n"></Synset>
+    <Synset id="tufs_ger-05797597-n" ili="i67353" partOfSpeech="n"></Synset>
+    <Synset id="tufs_ger-07193596-n" ili="i74460" partOfSpeech="n"></Synset>
+    <Synset id="tufs_ger-01904930-v" ili="i31244" partOfSpeech="v"></Synset>
+    <Synset id="tufs_ger-03383948-n" ili="i53987" partOfSpeech="n"></Synset>
+    <Synset id="tufs_ger-08286569-n" ili="i80692" partOfSpeech="n"></Synset>
+    <Synset id="tufs_ger-08286163-n" ili="i80690" partOfSpeech="n"></Synset>
+    <Synset id="tufs_ger-08278169-n" ili="i80642" partOfSpeech="n"></Synset>
+    <Synset id="tufs_ger-01000214-v" ili="i26586" partOfSpeech="v"></Synset>
+    <Synset id="tufs_ger-02471690-v" ili="i34077" partOfSpeech="v"></Synset>
+    <Synset id="tufs_ger-01020356-v" ili="i26678" partOfSpeech="v"></Synset>
+    <Synset id="tufs_ger-01691057-v" ili="i30198" partOfSpeech="v"></Synset>
+    <Synset id="tufs_ger-01698271-v" ili="i30237" partOfSpeech="v"></Synset>
+    <Synset id="tufs_ger-01020934-v" ili="i26681" partOfSpeech="v"></Synset>
+    <Synset id="tufs_ger-00993014-v" ili="i26548" partOfSpeech="v"></Synset>
+    <Synset id="tufs_ger-03822171-n" ili="i56582" partOfSpeech="n"></Synset>
+    <Synset id="tufs_ger-06267145-n" ili="i69441" partOfSpeech="n"></Synset>
+    <Synset id="tufs_ger-14961722-n" ili="i115762" partOfSpeech="n"></Synset>
+    <Synset id="tufs_ger-07197021-n" ili="i74476" partOfSpeech="n"></Synset>
+    <Synset id="tufs_ger-00158309-r" ili="i19211" partOfSpeech="r"></Synset>
+    <Synset id="tufs_ger-00002621-r" ili="i18163" partOfSpeech="r"></Synset>
+    <Synset id="tufs_ger-00002950-r" ili="i18164" partOfSpeech="r"></Synset>
+    <Synset id="tufs_ger-13714184-n" ili="i108917" partOfSpeech="n"></Synset>
+    <Synset id="tufs_ger-00119568-n" ili="i36034" partOfSpeech="n"></Synset>
+    <Synset id="tufs_ger-08145553-n" ili="i79962" partOfSpeech="n"></Synset>
+    <Synset id="tufs_ger-15237044-n" ili="i117309" partOfSpeech="n"></Synset>
+    <Synset id="tufs_ger-01270199-v" ili="i28007" partOfSpeech="v"></Synset>
+    <Synset id="tufs_ger-06505517-n" ili="i70643" partOfSpeech="n"></Synset>
+    <Synset id="tufs_ger-15166462-n" ili="i116916" partOfSpeech="n"></Synset>
+    <Synset id="tufs_ger-01343918-a" ili="i7324" partOfSpeech="a"></Synset>
+    <Synset id="tufs_ger-01344344-a" ili="i7326" partOfSpeech="a"></Synset>
+    <Synset id="tufs_ger-01265308-a" ili="i6914" partOfSpeech="a"></Synset>
+    <Synset id="tufs_ger-01344485-a" ili="i7327" partOfSpeech="a"></Synset>
+    <Synset id="tufs_ger-00067045-r" ili="i18545" partOfSpeech="r"></Synset>
+    <Synset id="tufs_ger-00067265-r" ili="i18546" partOfSpeech="r"></Synset>
+    <Synset id="tufs_ger-90000515-n" ili="" partOfSpeech="n"></Synset>
+    <Synset id="tufs_ger-01296462-v" ili="i28157" partOfSpeech="v"></Synset>
+    <Synset id="tufs_ger-01801029-a" ili="i9895" partOfSpeech="a"></Synset>
+    <Synset id="tufs_ger-77000095-n" ili="" partOfSpeech="n"></Synset>
+    <Synset id="tufs_ger-90000500-n" ili="" partOfSpeech="n"></Synset>
+    <Synset id="tufs_ger-03221720-n" ili="i53050" partOfSpeech="n"></Synset>
+    <Synset id="tufs_ger-00050681-r" ili="i18436" partOfSpeech="r"></Synset>
+    <Synset id="tufs_ger-00024587-r" ili="i18284" partOfSpeech="r"></Synset>
+    <Synset id="tufs_ger-77000012-n" ili="" partOfSpeech="n"></Synset>
+    <Synset id="tufs_ger-77000015-n" ili="" partOfSpeech="n"></Synset>
+    <Synset id="tufs_ger-01344963-a" ili="i7330" partOfSpeech="a"></Synset>
+    <Synset id="tufs_ger-01170052-v" ili="i27466" partOfSpeech="v"></Synset>
+    <Synset id="tufs_ger-03282295-n" ili="i53393" partOfSpeech="n"></Synset>
+    <Synset id="tufs_ger-14145501-n" ili="i111251" partOfSpeech="n"></Synset>
+    <Synset id="tufs_ger-06796119-n" ili="i72199" partOfSpeech="n"></Synset>
+    <Synset id="tufs_ger-07775375-n" ili="i77942" partOfSpeech="n"></Synset>
+    <Synset id="tufs_ger-02512053-n" ili="i48880" partOfSpeech="n"></Synset>
+    <Synset id="tufs_ger-01586866-a" ili="i8697" partOfSpeech="a"></Synset>
+    <Synset id="tufs_ger-01048762-a" ili="i5741" partOfSpeech="a"></Synset>
+    <Synset id="tufs_ger-00067638-a" ili="i353" partOfSpeech="a"></Synset>
+    <Synset id="tufs_ger-01993408-a" ili="i10917" partOfSpeech="a"></Synset>
+    <Synset id="tufs_ger-01171213-a" ili="i6402" partOfSpeech="a"></Synset>
+    <Synset id="tufs_ger-01800349-a" ili="i9892" partOfSpeech="a"></Synset>
+    <Synset id="tufs_ger-01123148-a" ili="i6163" partOfSpeech="a"></Synset>
+    <Synset id="tufs_ger-00064787-a" ili="i340" partOfSpeech="a"></Synset>
+    <Synset id="tufs_ger-00850183-a" ili="i4669" partOfSpeech="a"></Synset>
+    <Synset id="tufs_ger-01129977-a" ili="i6195" partOfSpeech="a"></Synset>
+    <Synset id="tufs_ger-01586752-a" ili="i8696" partOfSpeech="a"></Synset>
+    <Synset id="tufs_ger-04588365-n" ili="i61170" partOfSpeech="n"></Synset>
+    <Synset id="tufs_ger-04587648-n" ili="i61169" partOfSpeech="n"></Synset>
+    <Synset id="tufs_ger-05216365-n" ili="i64381" partOfSpeech="n"></Synset>
+    <Synset id="tufs_ger-76100002-x" ili="" partOfSpeech="x"></Synset>
+    <Synset id="tufs_ger-04967191-n" ili="i63086" partOfSpeech="n"></Synset>
+    <Synset id="tufs_ger-80001047-v" ili="" partOfSpeech="v"></Synset>
+    <Synset id="tufs_ger-03497657-n" ili="i54674" partOfSpeech="n"></Synset>
+    <Synset id="tufs_ger-15129927-n" ili="i116704" partOfSpeech="n"></Synset>
+    <Synset id="tufs_ger-06359877-n" ili="i69901" partOfSpeech="n"></Synset>
+    <Synset id="tufs_ger-00546389-n" ili="i38261" partOfSpeech="n"></Synset>
+    <Synset id="tufs_ger-07048000-n" ili="i73707" partOfSpeech="n"></Synset>
+    <Synset id="tufs_ger-01754737-v" ili="i30513" partOfSpeech="v"></Synset>
+    <Synset id="tufs_ger-07447641-n" ili="i75850" partOfSpeech="n"></Synset>
+    <Synset id="tufs_ger-01842204-v" ili="i30921" partOfSpeech="v"></Synset>
+    <Synset id="tufs_ger-04241394-n" ili="i59085" partOfSpeech="n"></Synset>
+    <Synset id="tufs_ger-05301908-n" ili="i64821" partOfSpeech="n"></Synset>
+    <Synset id="tufs_ger-02440250-n" ili="i48471" partOfSpeech="n"></Synset>
+    <Synset id="tufs_ger-09823502-n" ili="i88357" partOfSpeech="n"></Synset>
+    <Synset id="tufs_ger-10193967-n" ili="i90626" partOfSpeech="n"></Synset>
+    <Synset id="tufs_ger-15213406-n" ili="i117172" partOfSpeech="n"></Synset>
+    <Synset id="tufs_ger-06277280-n" ili="i69499" partOfSpeech="n"></Synset>
+    <Synset id="tufs_ger-13831176-n" ili="i109589" partOfSpeech="n"></Synset>
+    <Synset id="tufs_ger-06964901-n" ili="i73211" partOfSpeech="n"></Synset>
+    <Synset id="tufs_ger-01318741-a" ili="i7186" partOfSpeech="a"></Synset>
+    <Synset id="tufs_ger-01712753-a" ili="i9391" partOfSpeech="a"></Synset>
+    <Synset id="tufs_ger-05395690-n" ili="i65328" partOfSpeech="n"></Synset>
+    <Synset id="tufs_ger-05556943-n" ili="i66121" partOfSpeech="n"></Synset>
+    <Synset id="tufs_ger-00749230-a" ili="i4147" partOfSpeech="a"></Synset>
+    <Synset id="tufs_ger-14061805-n" ili="i110826" partOfSpeech="n"></Synset>
+    <Synset id="tufs_ger-14055408-n" ili="i110789" partOfSpeech="n"></Synset>
+    <Synset id="tufs_ger-14473054-n" ili="i113062" partOfSpeech="n"></Synset>
+    <Synset id="tufs_ger-10399491-n" ili="i91858" partOfSpeech="n"></Synset>
+    <Synset id="tufs_ger-13833375-n" ili="i109606" partOfSpeech="n"></Synset>
+    <Synset id="tufs_ger-02472293-n" ili="i48657" partOfSpeech="n"></Synset>
+    <Synset id="tufs_ger-15212167-n" ili="i117164" partOfSpeech="n"></Synset>
+    <Synset id="tufs_ger-00442917-a" ili="i2494" partOfSpeech="a"></Synset>
+    <Synset id="tufs_ger-03398467-n" ili="i54070" partOfSpeech="n"></Synset>
+    <Synset id="tufs_ger-00964768-a" ili="i5286" partOfSpeech="a"></Synset>
+    <Synset id="tufs_ger-02324397-a" ili="i12875" partOfSpeech="a"></Synset>
+    <Synset id="tufs_ger-00709215-a" ili="i3936" partOfSpeech="a"></Synset>
+    <Synset id="tufs_ger-02040233-a" ili="i11177" partOfSpeech="a"></Synset>
+    <Synset id="tufs_ger-02040049-a" ili="i11176" partOfSpeech="a"></Synset>
+    <Synset id="tufs_ger-00254978-r" ili="i19908" partOfSpeech="r"></Synset>
+    <Synset id="tufs_ger-06605897-n" ili="i71174" partOfSpeech="n"></Synset>
+    <Synset id="tufs_ger-05919866-n" ili="i67944" partOfSpeech="n"></Synset>
+    <Synset id="tufs_ger-06601327-n" ili="i71150" partOfSpeech="n"></Synset>
+    <Synset id="tufs_ger-04059701-n" ili="i57997" partOfSpeech="n"></Synset>
+    <Synset id="tufs_ger-02767665-n" ili="i50322" partOfSpeech="n"></Synset>
+    <Synset id="tufs_ger-03540595-n" ili="i54936" partOfSpeech="n"></Synset>
+    <Synset id="tufs_ger-08054417-n" ili="i79536" partOfSpeech="n"></Synset>
+    <Synset id="tufs_ger-05311054-n" ili="i64868" partOfSpeech="n"></Synset>
+    <Synset id="tufs_ger-05316025-n" ili="i64893" partOfSpeech="n"></Synset>
+    <Synset id="tufs_ger-02871439-n" ili="i50961" partOfSpeech="n"></Synset>
+    <Synset id="tufs_ger-01186408-a" ili="i6491" partOfSpeech="a"></Synset>
+    <Synset id="tufs_ger-04049098-n" ili="i57934" partOfSpeech="n"></Synset>
+    <Synset id="tufs_ger-03030663-n" ili="i51930" partOfSpeech="n"></Synset>
+    <Synset id="tufs_ger-02230772-v" ili="i32898" partOfSpeech="v"></Synset>
+    <Synset id="tufs_ger-90000504-n" ili="" partOfSpeech="n"></Synset>
+    <Synset id="tufs_ger-00729108-n" ili="i39262" partOfSpeech="n"></Synset>
+    <Synset id="tufs_ger-03815615-n" ili="i56546" partOfSpeech="n"></Synset>
+    <Synset id="tufs_ger-07596684-n" ili="i76717" partOfSpeech="n"></Synset>
+    <Synset id="tufs_ger-05560787-n" ili="i66137" partOfSpeech="n"></Synset>
+    <Synset id="tufs_ger-05563266-n" ili="i66149" partOfSpeech="n"></Synset>
+    <Synset id="tufs_ger-15211189-n" ili="i117158" partOfSpeech="n"></Synset>
+    <Synset id="tufs_ger-02310007-v" ili="i33282" partOfSpeech="v"></Synset>
+    <Synset id="tufs_ger-01308381-v" ili="i28227" partOfSpeech="v"></Synset>
+    <Synset id="tufs_ger-80001595-v" ili="" partOfSpeech="v"></Synset>
+    <Synset id="tufs_ger-10080869-n" ili="i89901" partOfSpeech="n"></Synset>
+    <Synset id="tufs_ger-02411224-a" ili="i13346" partOfSpeech="a"></Synset>
+    <Synset id="tufs_ger-04446276-n" ili="i60333" partOfSpeech="n"></Synset>
+    <Synset id="tufs_ger-04555291-n" ili="i60974" partOfSpeech="n"></Synset>
+    <Synset id="tufs_ger-15212455-n" ili="i117166" partOfSpeech="n"></Synset>
+    <Synset id="tufs_ger-00292937-a" ili="i1626" partOfSpeech="a"></Synset>
+    <Synset id="tufs_ger-00273082-a" ili="i1528" partOfSpeech="a"></Synset>
+    <Synset id="tufs_ger-03291819-n" ili="i53443" partOfSpeech="n"></Synset>
+    <Synset id="tufs_ger-09215315-n" ili="i85050" partOfSpeech="n"></Synset>
+    <Synset id="tufs_ger-80001661-n" ili="" partOfSpeech="n"></Synset>
+    <Synset id="tufs_ger-00523513-n" ili="i38140" partOfSpeech="n"></Synset>
+    <Synset id="tufs_ger-03179701-n" ili="i52811" partOfSpeech="n"></Synset>
+    <Synset id="tufs_ger-04202417-n" ili="i58835" partOfSpeech="n"></Synset>
+    <Synset id="tufs_ger-02016062-v" ili="i31817" partOfSpeech="v"></Synset>
+    <Synset id="tufs_ger-15237782-n" ili="i117312" partOfSpeech="n"></Synset>
+    <Synset id="tufs_ger-80001691-n" ili="" partOfSpeech="n"></Synset>
+    <Synset id="tufs_ger-08663354-n" ili="i82495" partOfSpeech="n"></Synset>
+    <Synset id="tufs_ger-07804323-n" ili="i78125" partOfSpeech="n"></Synset>
+    <Synset id="tufs_ger-15245990-n" ili="i117364" partOfSpeech="n"></Synset>
+    <Synset id="tufs_ger-90000417-n" ili="" partOfSpeech="n"></Synset>
+    <Synset id="tufs_ger-07575076-n" ili="i76567" partOfSpeech="n"></Synset>
+    <Synset id="tufs_ger-15156001-n" ili="i116861" partOfSpeech="n"></Synset>
+    <Synset id="tufs_ger-09604981-n" ili="i87150" partOfSpeech="n"></Synset>
+    <Synset id="tufs_ger-07557434-n" ili="i76476" partOfSpeech="n"></Synset>
+    <Synset id="tufs_ger-02395115-a" ili="i13256" partOfSpeech="a"></Synset>
+    <Synset id="tufs_ger-02396720-a" ili="i13264" partOfSpeech="a"></Synset>
+  </Lexicon>
+</LexicalResource>
